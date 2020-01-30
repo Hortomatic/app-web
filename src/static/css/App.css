@@ -1,0 +1,166 @@
+/*@import '~bower_components/fontawesome/css/font-awesome.min.css';*/
+
+
+
+*
+{
+    box-sizing: border-box;
+}
+html,
+body
+{
+    -webkit-font-smoothing: subpixel-antialiased;
+            font-smoothing: subpixel-antialiased;
+}
+body
+{
+    font-family: 'Museo Sans';
+    font-size: 1.2em;
+
+    color: #939289;
+    background-color: #fff;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+    font-family: 'Museo Sans';
+    font-weight: 700;
+}
+
+
+
+p
+{
+    font-size: 1em;
+}
+label
+{
+    font-size: 1em;
+    font-weight: 300;
+}
+
+html,
+body
+{
+    overflow: hidden;
+
+    height: 100vh;
+}
+
+#root
+{
+    overflow: hidden;
+
+    height: 100vh;
+}
+#root:not(input)
+{
+    cursor: default;
+    user-select: none;
+}
+/*input, select, textarea{
+    color:#8D877C;
+}
+input, textarea{
+    display: block;
+    width: 100%;
+    border-radius: 5px;
+    border: 0;
+    box-shadow: inset 3px 3px 10px rgba(0,0,0,0.1);
+    outline: none;
+    padding: 10px;
+}
+input:focus, textarea:focus{
+    color:#6BC25F;
+}*/
+
+/* */
+
+
+
+.fullWrap
+{
+    height: 100vh;
+}
+
+.App
+{
+    /* As of 2015-05-25, -webkit-filter takes precedence over filter, but transition:filter takes precedence over transition:-webkit-filter
+     * and this fucks with the autoprefixer css transformer being used, so it's manually defined within one transition below */
+    transition: filter .5s, -webkit-filter .5s;
+}
+/* When app is not foreground window... */
+.App--blurred
+{
+    filter: grayscale(40%) blur(3px);
+}
+.App--loading .App-main
+{
+    background:#f8d454;
+    display: flex;
+    flex:1;
+    align-items: center;
+    justify-content: center;
+}
+.App-mainPanelSplit
+{
+    display: flex;
+    flex-direction: column;
+    /* Until everything is ready for mobile, min screen width is 800 */
+
+    min-width: 800px;
+}
+.App-main
+{
+    height: 100vh;
+}
+.App-mainView
+{
+    flex: 1;
+    overflow:hidden;
+}
+.App-mainView.scrollable
+{
+    overflow-y: scroll;
+}
+.scrollable
+{
+    overflow-y: scroll;
+}
+
+
+
+.ListItem-twoLiner-primary
+{
+    font-size: 20px;
+    font-weight: 700;
+}
+.ListItem-twoLiner-secondary
+{
+    font-size: 16px;
+}
+
+.binomial
+{
+    font-style: italic;
+
+    margin-right: 5px;
+}
+.PlantName-part-cultivar::before,
+.cultivar::before
+{
+    content: "\2018";
+}
+.PlantName-part-cultivar::after,
+.cultivar::after
+{
+    content: "\2019";
+}
+.PlantName-part-scientific--missing{
+    opacity:.5; 
+    font-style:italic;
+}

@@ -1,0 +1,83 @@
+{
+  "dateRange": ["2015-03-22T00:11:54.732Z", "2015-11-08T01:35:26.514Z"],
+  "monthEvents": {
+    "2015 03": [
+      {
+        "eventDateType": "day",
+        "eventType": "activity",
+        "activityType": "plant",
+        "estimateDate": "2015-03-22T00:11:54.732Z",
+        "plantId": "plant/1",
+        "placeId": "place/1",
+        "from": "seed",
+        "notes": "Sowed thickly in a plastic fruit crate; next to stove until germination."
+      }
+    ],
+    "2015 04": [
+      {
+        "eventDateType": "day",
+        "eventType": "lifecycle",
+        "lifecycleStage": "germination",
+        "estimateDate": "2015-04-01T00:11:54.732Z",
+        "actualDate": "2015-04-01T00:11:54.732Z",
+        "from": "seed",
+        "notes": "Lots came up."
+      }
+    ],
+    "2015 05": [
+      {
+        "estimateDate": "2015-05-08T01:35:26.514Z",
+        "notes": "Transplanted out into modules",
+        "eventDateType": "day",
+        "eventType": "activity",
+        "activityType": "transplant",
+        "placeId": "place/1"
+      },
+      {
+        "estimateDateRange": ["2015-05-01", "2015-07-01"],
+        "actualDateRange": ["2015-05-08", "2015-08-09"],
+        "eventDateType": "range",
+        "eventType": "activity",
+        "activityType": "harvest"
+      }
+    ],
+    "2015 11": [
+      {
+        "estimateDate": "2015-11-08T01:35:26.514Z",
+        "notes": "Transplanted out into modules",
+        "eventDateType": "day",
+        "eventType": "activity",
+        "activityType": "remove"
+      }
+    ]
+  },
+
+  "plantingData": {
+
+    "_rev": "1-dfe6d0f133c406168de50451819a3d69",
+    "name": "Avoa de Osedo",
+    "createdAt": "2015-05-07T23:11:54.732Z",
+    "plantId": "plant/1",
+    "version": 2,
+    "id": "planting/1",
+    "type": "planting",
+
+    "plant": {
+      "name": "Tomato",
+      "species": "Solanum lycopersicum",
+      "cultivar": "Rose de Berne",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/1",
+      "_rev": "1-01c7fe0ebcd87b5a1fd93074037d21cf"
+    },
+    "place": {
+      "name": "Main Garden",
+      "environment": "outdoor",
+      "type": "place",
+      "version": 1,
+      "id": "place/1",
+      "_rev": "1-26531c82adf814a3be3525a868f0bdad"
+    }
+  }
+}

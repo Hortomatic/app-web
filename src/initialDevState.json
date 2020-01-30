@@ -1,0 +1,701 @@
+{
+  "plantings": [
+      {
+      "timeline": [
+        {
+          "eventDateType": "day",
+          "eventType": "activity",
+          "activityType": "plant",
+          "estimateDate": "2017-03-22T00:11:54.732Z",
+          "plantId": "plant/465D3397-0381-DB73-A251-9C4CB8F4A5BF",
+          "placeId": "place/EB0574A3-FB49-2F54-A707-82CC2EC28B3D",
+          "from": "seed",
+          "notes": "Sowed thickly in a plastic fruit crate; next to stove until germination."
+        },
+        {
+          "eventDateType": "day",
+          "eventType": "lifecycle",
+          "lifecycleStage": "germination",
+          "estimateDate": "2017-04-01T00:11:54.732Z",
+          "actualDate": "2017-04-01T00:11:54.732Z",
+          "from": "seed",
+          "notes": "Lots came up."
+        },
+        {
+          "estimateDate": "2017-05-08T01:35:26.514Z",
+          "notes": "Transplanted out into modules",
+          "eventDateType": "day",
+          "eventType": "activity",
+          "activityType": "transplant",
+          "placeId": "place/8E02D1BA-756C-355C-8D49-DAA1AA9EF6C2"
+        },
+        {
+          "estimateDateRange": ["2017-05-01", "2017-07-01"],
+          "actualDateRange": ["2017-05-08", "2017-08-09"],
+          "eventDateType": "range",
+          "eventType": "activity",
+          "activityType": "harvest"
+        },
+        {
+          "estimateDate": "2017-11-08T01:35:26.514Z",
+          "notes": "Transplanted out into modules",
+          "eventDateType": "day",
+          "eventType": "activity",
+          "activityType": "remove"
+        }
+      ],
+      "_rev": "1-dfe6d0f133c406168de50451819a3d69",
+      "name": "Avoa de Osedo",
+      "createdAt": "2017-05-07T23:11:54.732Z",
+      "plantId": "plant/465D3397-0381-DB73-A251-9C4CB8F4A5BF",
+      "version": 2,
+      "id": "planting/86F34440-2C85-F2BE-8877-421E0FC02496",
+      "type": "planting",
+      "plotter": {
+        "x": 100,
+        "y": 200,
+        "width": 200,
+        "height": 40,
+        "rotation": 0
+      }
+    },
+    {
+      "timeline": [
+        {
+          "eventDateType": "day",
+          "eventType": "activity",
+          "activityType": "plant",
+          "estimateDate": "2017-03-05",
+          "plantId": "plant/723D61D3-F1A9-CFE7-9322-402928C6995D",
+          "placeId": "place/EB0574A3-FB49-2F54-A707-82CC2EC28B3D",
+          "from": "seed"
+        },
+        {
+          "estimateDateRange": ["2017-04-01", "2017-09-01"],
+          "eventDateType": "range",
+          "eventType": "activity",
+          "activityType": "harvest"
+        },
+        {
+          "eventDateType": "day",
+          "eventType": "activity",
+          "activityType": "fertilise",
+          "estimateDate": "2017-05-12",
+          "quantity": 10,
+          "unit": "heads"
+        }
+      ],
+      "_rev": "1-af4e510cfe36cd3d8e721bd68f53cb23",
+      "name": "Tomatillo",
+      "createdAt": "2017-05-07T11:22:36.518Z",
+      "plantId": "plant/723D61D3-F1A9-CFE7-9322-402928C6995D",
+      "version": 2,
+      "id": "planting/75909B27-E31E-AE3A-91B4-DB52A2F8C635",
+      "type": "planting",
+      "plotter": {
+        "x": 100,
+        "y": 250,
+        "width": 200,
+        "height": 40,
+        "rotation": 0
+      }
+    },
+    {
+      "timeline": [
+        {
+          "eventDateType": "day",
+          "eventType": "activity",
+          "activityType": "plant",
+          "estimateDate": "2017-04-05T23:28:34.080Z",
+          "plantId": "plant/A543B24E-9437-0B87-8F92-48D202A7A0C7",
+          "placeId": "place/E4E20F3E-8EC3-4DE5-ABAD-601A7E2D74DD",
+          "from": "seed"
+        }
+      ],
+      "_rev": "1-fb1d3800e1c0acb1af2105cac83b0f8f",
+      "name": "Papalo",
+      "createdAt": "2017-05-07T23:28:34.080Z",
+      "plantId": "plant/A543B24E-9437-0B87-8F92-48D202A7A0C7",
+      "version": 2,
+      "id": "planting/4CF31BD4-66E7-36F1-BB00-02441BA29338",
+      "type": "planting",
+      "plotter": {
+        "x": 100,
+        "y": 300,
+        "width": 200,
+        "height": 40,
+        "rotation": 0
+      }
+    },
+    {
+      "timeline": [
+        {
+          "eventDateType": "day",
+          "eventType": "activity",
+          "activityType": "plant",
+          "estimateDate": "2017-05-07T11:27:53.918Z",
+          "plantId": "plant/1618A046-A0CC-06FF-B4E1-277C7C71D6CC",
+          "trashed": false
+        },
+        {
+          "estimateDate": "2017-05-22T01:35:26.514Z",
+          "notes": "Transplented 2 into pots and remaining 4 into unreasonably small modules (all I had at the time)",
+          "eventDateType": "day",
+          "eventType": "activity",
+          "activityType": "transplant",
+          "placeId": "place/8E02D1BA-756C-355C-8D49-DAA1AA9EF6C2",
+          "trashed": false
+        }
+      ],
+      "_rev": "11-65ea35fbb67fa860da4b06ba46b92143",
+      "name": "Rose de Berne Tomato",
+      "createdAt": "2017-05-07T11:27:53.918Z",
+      "plantId": "plant/1618A046-A0CC-06FF-B4E1-277C7C71D6CC",
+      "version": 2,
+      "id": "planting/58DEC391-89F8-F4A7-8F3A-0C5D2AC8DB20",
+      "type": "planting",
+      "plotter": {
+        "x": 100,
+        "y": 350,
+        "width": 200,
+        "height": 40,
+        "rotation": 0
+      }
+    },
+    {
+      "timeline": [],
+      "_rev": "2-b6c5322127915415d356af7d6436bd0a",
+      "name": "Papalo",
+      "createdAt": "2017-05-07T23:28:34.083Z",
+      "plantId": "plant/A543B24E-9437-0B87-8F92-48D202A7A0C7",
+      "trashed": true,
+      "version": 2,
+      "id": "planting/D8A6E05C-CC59-4C26-8660-5DCC4EF0A32A",
+      "type": "planting",
+      "plotter": {
+        "x": 100,
+        "y": 400,
+        "width": 200,
+        "height": 40,
+        "rotation": 0
+      }
+    },
+    {
+      "timeline": [
+        {
+          "eventDateType": "day",
+          "eventType": "activity",
+          "activityType": "plant",
+          "estimateDate": "2017-04-05T23:30:15.790Z",
+          "plantId": "plant/723D61D3-F1A9-CFE7-9322-402928C6995D",
+          "from": "seed",
+          "placeId": "place/E4E20F3E-8EC3-4DE5-ABAD-601A7E2D74DD"
+        }
+      ],
+      "_rev": "1-7ad252b38d671f80ab2c71033e7522c7",
+      "name": "Tomatillo",
+      "createdAt": "2017-05-07T23:30:15.790Z",
+      "plantId": "plant/723D61D3-F1A9-CFE7-9322-402928C6995D",
+      "version": 2,
+      "id": "planting/86C49391-7F35-3525-8E34-717C90DB0E5B",
+      "type": "planting",
+      "plotter": {
+        "x": 100,
+        "y": 450,
+        "width": 200,
+        "height": 40,
+        "rotation": 0
+      }
+    },
+    {
+      "timeline": [
+        {
+          "eventDateType": "day",
+          "eventType": "activity",
+          "activityType": "plant",
+          "estimateDate": "2017-04-09T09:42:22.342Z",
+          "plantId": "plant/542BAF99-C26B-6377-AF66-87A6E705D639",
+          "from": "cutting",
+          "placeId": "place/4B6BA941-921B-F74D-B802-70213A10D437",
+          "notes": "Divided comfrey from around Apple tree. Planted above Jerusulem artichokes."
+        },
+        {
+          "eventDateType": "day",
+          "eventType": "end",
+          "actualDate": "2017-05-15"
+        }
+      ],
+      "_rev": "1-15a1e84b2bd496a6599c8bdeb911ef08",
+      "name": "Comfrey",
+      "createdAt": "2017-05-08T09:42:22.342Z",
+      "plantId": "plant/542BAF99-C26B-6377-AF66-87A6E705D639",
+      "version": 2,
+      "id": "planting/28B277B8-5886-BE27-8F41-572E00053996",
+      "type": "planting",
+      "plotter": {
+        "x": 100,
+        "y": 500,
+        "width": 200,
+        "height": 40,
+        "rotation": 0
+      }
+    },
+    {
+      "timeline": [
+        {
+          "eventDateType": "day",
+          "eventType": "activity",
+          "activityType": "plant",
+          "estimateDate": "2017-04-09T01:22:46.301Z",
+          "plantId": "plant/8A390E68-3EB5-50B1-A325-4CDBE4EDC99A",
+          "notes": "Not sure exactly where Paris planted these...",
+          "placeId": "place/4B6BA941-921B-F74D-B802-70213A10D437",
+          "from": "plantlet"
+        }
+      ],
+      "_rev": "1-2d4c5603b3b31c7483afecf2224d1e9c",
+      "name": "Mystery Beefsteak Tomato",
+      "createdAt": "2017-05-08T01:22:46.301Z",
+      "plantId": "plant/8A390E68-3EB5-50B1-A325-4CDBE4EDC99A",
+      "version": 2,
+      "id": "planting/8844D57F-DD59-B57A-8980-40D562BE6B5C",
+      "type": "planting",
+      "plotter": {
+        "x": 100,
+        "y": 550,
+        "width": 200,
+        "height": 40,
+        "rotation": 0
+      }
+    },
+    {
+      "timeline": [
+        {
+          "eventDateType": "day",
+          "eventType": "activity",
+          "activityType": "plant",
+          "estimateDate": "2017-05-07T16:31:08.944Z",
+          "plantId": "plant/69F02C9C-E59B-1676-B65B-D45245BA5072",
+          "placeId": "place/4B6BA941-921B-F74D-B802-70213A10D437",
+          "from": "plantlet"
+        }
+      ],
+      "_rev": "1-c2e94248f6244ee7d8068051ca7b2112",
+      "name": "Pimento",
+      "createdAt": "2017-05-07T16:31:08.944Z",
+      "plantId": "plant/69F02C9C-E59B-1676-B65B-D45245BA5072",
+      "version": 2,
+      "id": "planting/9CBA5F53-36B5-5D5A-98D1-65490A5EBD5C",
+      "type": "planting",
+      "plotter": {
+        "x": 100,
+        "y": 600,
+        "width": 200,
+        "height": 40,
+        "rotation": 0
+      }
+    },
+    {
+      "timeline": [],
+      "_rev": "2-1ba15f96e95aa45d09463bd5e9185a42",
+      "name": "Okra",
+      "createdAt": "2017-05-07T23:30:04.673Z",
+      "plantId": "plant/9F5F9938-F503-0F2D-8636-4E72D1341817",
+      "trashed": true,
+      "version": 2,
+      "id": "planting/FAA68A4F-C95E-4A4E-BE35-008CBDC15FEA",
+      "type": "planting",
+      "plotter": {
+        "x": 350,
+        "y": 200,
+        "width": 200,
+        "height": 40,
+        "rotation": 30
+      }
+    },
+    {
+      "timeline": [
+        {
+          "eventDateType": "day",
+          "eventType": "activity",
+          "activityType": "plant",
+          "estimateDate": "2017-05-07T23:17:04.286Z",
+          "plantId": "plant/CE288335-8553-BA9D-8987-1ECE64CDAB27",
+          "placeId": "place/043EDCA2-C671-04B9-8705-35D13B8CD300",
+          "notes": "2. Bought as plants of unknown variety.",
+          "from": "plantlet"
+        }
+      ],
+      "_rev": "1-4073d51ff7459efbb7547bb696f34733",
+      "name": "Parsley",
+      "createdAt": "2017-05-07T23:17:04.286Z",
+      "plantId": "plant/CE288335-8553-BA9D-8987-1ECE64CDAB27",
+      "version": 2,
+      "id": "planting/1FB7FBF0-EE34-4DBA-8524-A927085F0A55",
+      "type": "planting",
+      "plotter": {
+        "x": 350,
+        "y": 250,
+        "width": 200,
+        "height": 40,
+        "rotation": 30
+      }
+    },
+    {
+      "timeline": [
+        {
+          "eventDateType": "day",
+          "eventType": "activity",
+          "activityType": "plant",
+          "estimateDate": "2017-03-05T12:35:04.016Z",
+          "plantId": "plant/D583F4AB-9F9B-7851-BA91-380281118817",
+          "placeId": "place/EB0574A3-FB49-2F54-A707-82CC2EC28B3D",
+          "from": "seed",
+          "recipient": "tray",
+          "notes": "Not much seed, so only sowed a few."
+        },
+        {
+          "estimateDate": "2017-04-14T18:28:12.618Z",
+          "notes": "Not a lot came up. Transplanted about 10 into medium modules with rich compost.",
+          "eventDateType": "day",
+          "eventType": "activity",
+          "activityType": "transplant",
+          "placeId": "place/8E02D1BA-756C-355C-8D49-DAA1AA9EF6C2",
+          "recipient": "modules"
+        }
+      ],
+      "_rev": "8-dab4a11d741d607f199735a7e31d8457",
+      "name": "Golden Sunrise Cherry Toms",
+      "createdAt": "2017-05-07T11:35:04.016Z",
+      "plantId": "plant/D583F4AB-9F9B-7851-BA91-380281118817",
+      "version": 2,
+      "id": "planting/F43C01B0-BE11-1624-BACF-B75811AD5486",
+      "type": "planting",
+      "plotter": {
+        "x": 350,
+        "y": 300,
+        "width": 200,
+        "height": 40,
+        "rotation": 30
+      }
+    }
+  ],
+  "plants": [
+    {
+      "name": "Tomato",
+      "growstuffId": "plant/growstuff216",
+      "species": "Solanum lycopersicum",
+      "cultivar": "Rose de Berne",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/1618A046-A0CC-06FF-B4E1-277C7C71D6CC",
+      "_rev": "1-01c7fe0ebcd87b5a1fd93074037d21cf"
+    },
+    {
+      "name": "Okra",
+      "growstuffId": "plant/growstuff138",
+      "species": "Abelmoschus esculentus",
+      "cultivar": "Clemson's Spineless",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/9F5F9938-F503-0F2D-8636-4E72D1341817",
+      "_rev": "1-6d456a8375417d65787b8882d0cdcdc8"
+    },
+    {
+      "name": "Brassica Oleracea",
+      "growstuffId": "plant/growstuff33",
+      "species": "Brassica oleracea",
+      "cultivar": "Cabbage",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/1DC8A3FC-598C-A3C6-83B4-DBB59F2CC400",
+      "_rev": "1-f7e6e3f96ba5088ff805e50e938796a6"
+    },
+    {
+      "name": "Eggplant",
+      "growstuffId": "plant/growstuff76",
+      "species": "Solanum melongena",
+      "cultivar": "",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/165B3717-1FD4-6CE5-A1E9-9556BA13B521",
+      "_rev": "1-9d0c928a81b677d0a28f0f14c23c7910"
+    },
+    {
+      "name": "Lovage",
+      "growstuffId": "plant/growstuff118",
+      "species": "Levisticum officinale",
+      "cultivar": "",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/88A40506-858C-8A62-B4CA-9D6279B35D9F",
+      "_rev": "1-282ea47df3e5b160a1ea96ad59993735"
+    },
+    {
+      "name": "Lettuce",
+      "growstuffId": "plant/growstuff113",
+      "species": "Lactuca sativa",
+      "cultivar": "Maravilha de Verão",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/CB02C89E-3D03-FA38-826A-17C98604E27E",
+      "_rev": "1-c60fe73e1352d40746591d331e34a4fc"
+    },
+    {
+      "species": "Cucurbita pepo",
+      "name": "Courgette",
+      "cultivar": "Black Beauty",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/41635D95-ECBD-BFF7-82C0-E388A0B2CB37",
+      "_rev": "1-d6cd58f857829564d8bd8cf4600f912e"
+    },
+    {
+      "name": "Armuelle",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/49FB673A-38DD-EBB3-BB35-E6312A98211B",
+      "_rev": "1-cb08f4ba491462756eb3dd6dcd9ed499"
+    },
+    {
+      "name": "Capsicum",
+      "growstuffId": "plant/growstuff310",
+      "species": "Capsicum pubescens",
+      "cultivar": "Rocoto",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/E5744299-C804-13F4-864A-D4D220B73675",
+      "_rev": "1-8531486a67a7067b47c6396599b6bda0"
+    },
+    {
+      "species": "Lupin",
+      "name": "Lupin",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/ECF2BE3C-D996-179F-8F1C-7052365CA10F",
+      "_rev": "1-a2a5063d61e41a644fcf58ce0a64dae7"
+    },
+    {
+      "name": "Tomato",
+      "growstuffId": "plant/growstuff397",
+      "species": "Solanum lycopersicum var. cerasiforme",
+      "cultivar": "Cherry Tomato",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/0F8203DA-01AF-B2E7-8096-B60CC8C6FF06",
+      "_rev": "1-40a5c89a83a7dfc2b87316dc2b058a4b"
+    },
+    {
+      "species": "Porophyllum ruderale",
+      "name": "Papalo",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/A543B24E-9437-0B87-8F92-48D202A7A0C7",
+      "_rev": "1-662c30b1e26970f052f981e3b83e7d4f"
+    },
+    {
+      "name": "Cucurbita Pepo",
+      "growstuffId": "plant/growstuff231",
+      "species": "Cucurbita pepo.",
+      "cultivar": "Zucchini",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/B06D9AFC-A532-DA04-8924-DE05E601CB9D",
+      "_rev": "1-64fbe981d9ce6074f4c89e456042ecee"
+    },
+    {
+      "name": "Tomato",
+      "growstuffId": "plant/growstuff388",
+      "species": "Solanum lycopersicum",
+      "cultivar": "Beefsteak Tomato",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/8A390E68-3EB5-50B1-A325-4CDBE4EDC99A",
+      "_rev": "1-878fb067e637ab93884d1e0e47526852"
+    },
+    {
+      "name": "Parsley",
+      "growstuffId": "plant/growstuff143",
+      "species": "Petroselinum hortense",
+      "cultivar": "",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/CE288335-8553-BA9D-8987-1ECE64CDAB27",
+      "_rev": "1-f4c431071db30c91a7344a31454a15af"
+    },
+    {
+      "species": "Solanum lycopersicum",
+      "name": "Tomato",
+      "cultivar": "",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/5EDD74C6-EAF4-5455-A19D-18D3A1A56023",
+      "_rev": "1-f0234a8bb2ae7bb22f97bcd385fc047b"
+    },
+    {
+      "species": "Solanus lycopersicum var. cerasiforme",
+      "name": "Cherry Tomato",
+      "cultivar": "Unknown Yellow Type",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/D583F4AB-9F9B-7851-BA91-380281118817",
+      "_rev": "1-d45c44a3dbb0c9907d485737d9161b80"
+    },
+    {
+      "species": "Capsicum annuum",
+      "name": "Pimento",
+      "cultivar": "Italiano",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/353D884C-5E2F-0E7E-B163-D0D7B89461F9",
+      "_rev": "1-8b10e3aeb0d601e088389738d66fe6d1"
+    },
+    {
+      "name": "Comfrey",
+      "growstuffId": "plant/growstuff59",
+      "species": "Symphytum officinale",
+      "cultivar": "",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/542BAF99-C26B-6377-AF66-87A6E705D639",
+      "_rev": "1-95210a2d0f536292aa887330e1ca756a"
+    },
+    {
+      "species": "Brassica oleracea Capitata",
+      "name": "Cabbage",
+      "cultivar": "Mystery Hearting Summer",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/722D89FF-DFC9-A005-AEFD-B33AD6EF8B4D",
+      "_rev": "1-337faa11b1166a9cfeff13e129b71d60"
+    },
+    {
+      "species": "Capsicum annuum",
+      "name": "Pimento",
+      "cultivar": "Ourense",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/69F02C9C-E59B-1676-B65B-D45245BA5072",
+      "_rev": "1-1ba9c14ca69f69a44065a2861222a7fa"
+    },
+    {
+      "species": "Lupinus arboreus",
+      "name": "Lupin",
+      "cultivar": "Tree Lupin",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/570AB0F0-172F-9508-99EC-0E8D4E945A49",
+      "_rev": "1-b621db1a78247d423abb65a44c89d82b"
+    },
+    {
+      "species": "Solanum lycopersicum",
+      "name": "Beefsteak Tomato",
+      "cultivar": "Avoa de Osedo",
+      "type": "plant",
+      "appTheme": {
+        "primaryColor": "#F06F68",
+        "timelineColor": "#F06F68"
+      },
+      "version": 1,
+      "id": "plant/465D3397-0381-DB73-A251-9C4CB8F4A5BF",
+      "_rev": "1-e89aa6c5b22cbd2bab862d39f11e2080"
+    },
+    {
+      "name": "Melon",
+      "growstuffId": "plant/growstuff224",
+      "species": "Citrullus lanatus",
+      "cultivar": "Watermelon",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/97DCDA29-90C3-0E6B-AE86-886C80939C2E",
+      "_rev": "1-c3427ed9fc5ff9510fcee99568cf4b2d"
+    },
+    {
+      "name": "Tomato",
+      "growstuffId": "plant/growstuff383",
+      "species": "Solanum lycopersicum",
+      "cultivar": "Adoration Tomato",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/F85F0868-017A-CC5B-85DA-A5E5EC55E62B",
+      "_rev": "1-8ea9be96e357d93a9f06096e2cfc56b0"
+    },
+    {
+      "species": "Crambe maritima",
+      "name": "Sea Kale",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/70BC4661-67B5-7913-B676-E1943AC24E5D",
+      "_rev": "1-89a68d98bfba62a3d76c37e06104f50d"
+    },
+    {
+      "name": "Tomatillo",
+      "growstuffId": "plant/growstuff215",
+      "species": "Physalis philadelphica",
+      "cultivar": "Dr Wyche's Yellow",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/723D61D3-F1A9-CFE7-9322-402928C6995D",
+      "_rev": "1-1c720f68255d9c6e071bdf1aec46f911"
+    },
+    {
+      "species": "Capsicum annuum",
+      "name": "Padron",
+      "cultivar": "Pica",
+      "type": "plant",
+      "version": 1,
+      "id": "plant/1751560D-1C06-60A0-A49C-F5E4B7A0951B",
+      "_rev": "1-77bd1519cdd026c647623280dd34d0d0"
+    }
+  ],
+  "places": [
+    {
+      "name": "Kitchen Garden",
+      "environment": "outdoor",
+      "type": "place",
+      "version": 1,
+      "id": "place/043EDCA2-C671-04B9-8705-35D13B8CD300",
+      "_rev": "1-3f29e2135518854d10fb4262601206a3"
+    },
+    {
+      "name": "Main Garden",
+      "environment": "outdoor",
+      "type": "place",
+      "version": 1,
+      "id": "place/4B6BA941-921B-F74D-B802-70213A10D437",
+      "_rev": "1-26531c82adf814a3be3525a868f0bdad"
+    },
+    {
+      "name": "Propagating Greenhouse",
+      "environment": "protected",
+      "type": "place",
+      "version": 1,
+      "id": "place/8E02D1BA-756C-355C-8D49-DAA1AA9EF6C2",
+      "_rev": "1-43b2fb75324c73b12de727f7b49af720"
+    },
+    {
+      "name": "Cold Frames",
+      "environment": "protected",
+      "type": "place",
+      "version": 1,
+      "id": "place/BF9AB464-8B0D-F3BC-A608-3973F3522479",
+      "_rev": "1-49c674de975ade9b092915a1fe3c53a3"
+    },
+    {
+      "name": "Nursery",
+      "environment": "outdoor",
+      "type": "place",
+      "version": 1,
+      "id": "place/E4E20F3E-8EC3-4DE5-ABAD-601A7E2D74DD",
+      "_rev": "1-272df4d37a23c6517a4849704ba9bade"
+    },
+    {
+      "name": "House",
+      "environment": "indoor",
+      "type": "place",
+      "version": 1,
+      "id": "place/EB0574A3-FB49-2F54-A707-82CC2EC28B3D",
+      "_rev": "1-c4e9851a590774e7b13149dc9d1652ad"
+    }
+  ]
+}

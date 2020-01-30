@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5 (25232) - http://www.bohemiancoding.com/sketch -->
+    <title>plant-24</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Event-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="plant-24" sketch:type="MSArtboardGroup">
+            <g id="Plant" sketch:type="MSLayerGroup" transform="translate(1.000000, 2.000000)">
+                <rect id="Rectangle-35" fill="#FFFFFF" sketch:type="MSShapeGroup" x="5" y="2" width="12" height="16"></rect>
+                <path d="M19.5346698,5.92592593 L19.7848353,5.92592593 C20.537415,5.92592593 21.2062013,5.33051235 21.3004203,4.59603248 L21.7194007,1.32989345 C21.8143315,0.589865225 21.2909384,0 20.5519591,0 L1.83804026,0 C1.09441587,0 0.58394148,0.595413578 0.687488544,1.32989345 L1.14794923,4.59603248 C1.2522785,5.3360607 1.93760865,5.92592593 2.68042407,5.92592593 L2.93058959,5.92592593 L3.55383629,18.6602787 C3.59049005,19.4091988 4.22437849,20 4.97065092,20 L17.4946085,20 C18.2489594,20 18.8752104,19.4001863 18.9114231,18.6602787 L19.5346698,5.92592593 Z M13.58366,4.40021917 L13.5281564,9.93291703 L16.4710822,9.93291703 L11.2326297,16.5997808 L5.99417715,9.93291703 L8.93710302,9.93291703 L8.88159936,4.40021917 L13.58366,4.40021917 Z" fill="#818076" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

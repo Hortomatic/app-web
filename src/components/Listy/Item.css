@@ -1,0 +1,32 @@
+.Listy-Item
+{
+    cursor: pointer;
+    transition: background .1s ease-in-out, color .1s ease-in-out;
+}
+
+
+
+/**
+ * Themeing
+ */
+
+.Listy--cream .Listy-Item:hover
+.Listy--cream .Listy-Item--selected
+{
+    background: #44b9f0;
+}
+
+
+
+.Listy--green .Listy-Item:hover,
+.Listy--green .Listy-Item:focus,
+.Listy--green .Listy-Item--focused{
+	background: #52ad59;
+}
+.Listy--green .Listy-Item:focus{
+	box-shadow: 0px 0px 0px 5px #44b9f0;
+}
+.Listy--green .Listy-Item--selected
+{
+  background-color: #44b9f0;
+}

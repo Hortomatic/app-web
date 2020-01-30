@@ -1,0 +1,90 @@
+.Listy-Filter{
+
+}
+.Listy-Filter-fields
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.Listy-Filter-remove{
+	flex: 0 0 30px;
+  padding: 5px 15px;
+  margin-right: 5px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.Listy-Filter + .Listy-Filter{
+	margin-top:10px;
+}
+.Listy-Filter .rw-widget{
+	border:none;
+	border-radius:0;
+	font-weight:700;
+
+	color:#5E5D54;
+}
+.Listy-Filter .rw-widget:hover,
+.Listy-Filter .rw-widget.rw-state-focus{
+	background: #fff;
+}
+.Listy-Filter .rw-widget.rw-state-focus{
+  box-shadow: #F9E499 0 0 0px 4px;
+}
+.Listy-Filter .rw-widget:hover .rw-input,
+.Listy-Filter .rw-widget.rw-state-focus .rw-input{
+	color: #53B8F5;
+}
+/*.Listy-Filter .Fatty-Field{
+	margin:0;
+}*/
+.Listy-Filter-property
+{
+    flex: .8;
+}
+/*.Listy-Filter-property .Fatty-Field-controlWrapper
+{
+    border-right: 5px solid #44b9f0;
+}
+.Listy-Filter-property .Fatty-Field
+{
+    border-radius: 10px 0 0 10px;
+}*/
+
+.Listy-Filter-value
+{
+    flex: 1;
+}
+/*.Listy-Filter-value .Fatty-Field
+{
+    border-radius: 0 10px 10px 0;
+}
+*/
+
+.Listy-Filter-property{
+	margin-right:5px;
+}
+.Listy-Filter .rw-list>.rw-list-option{
+	transition:transform .1s ease-in-out;
+}
+.Listy-Filter .rw-list>.rw-list-option.rw-state-selected{
+  border: none;
+  color: #53B8F5;
+  background-color: transparent;
+}
+.Listy-Filter .rw-list>.rw-list-option.rw-state-focus{
+	border-color: transparent;
+	background-color: transparent;
+	transform:translate(5px, 0);
+	color: #53B8F5;
+}
+.Listy-Filter .rw-list>.rw-list-option:hover{
+	background-color: transparent;
+  border-color: transparent;
+  color: #53B8F5;
+}
+.Listy-Filter .rw-i-caret-down:before{
+	content:'\f078';
+	font-family: 'FontAwesome';
+	font-size:16px;
+}

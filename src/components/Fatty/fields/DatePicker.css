@@ -1,0 +1,316 @@
+.Fatty-Field-DatePicker{
+	user-select:none;
+}
+.Fatty-Field-DatePicker-Columns{
+	display:flex;
+	align-items:stretch;
+	justify-content:stretch;
+
+	position:relative;
+	z-index:2;
+
+}
+.Fatty-Field-DatePicker .Fatty-Field-controlWrapper{
+	transition: all .2s ease-in-out;
+	padding-top:0;
+}
+.Fatty-Field-DatePicker.Fatty-Field--focused  .Fatty-Field-controlWrapper,
+.Fatty-Field-DatePicker.Fatty-Field--filled  .Fatty-Field-controlWrapper
+{
+    padding-top: 40px;
+}
+
+.Fatty-Field-DatePicker-staticDate{
+	display:flex;
+	align-items:center;
+	justify-content: space-between;
+	cursor:pointer;
+
+	padding: .85em .35em;
+
+	color: #45443A;
+	transition: color 0.2s ease-in-out;
+}
+.Fatty-Field-DatePicker:hover .Fatty-Field-DatePicker-staticDate{
+	color: #6EC8F3;
+}
+.Fatty-Field--focused .Fatty-Field-DatePicker-staticDate{
+	color: #FFF;
+}
+
+
+.Fatty-Field-DatePicker-staticDate-wrapper{
+	display:flex;
+	align-items:center;
+	justify-content: space-between;
+	cursor:pointer;
+}
+.Fatty-Field-DatePicker-staticDate-part {
+	font-size: 18px;
+	font-weight: 700;
+	margin-right: 10px;
+}
+.Fatty-Field-DatePicker-staticDate-dayName{
+
+}
+
+.Fatty-Field-DatePicker-calendarIcon{
+
+}
+
+.Fatty-Field-DatePicker-Columns{
+	padding-bottom:10px;
+}
+
+.Fatty-Field-DatePicker-Column{
+
+	flex:1;
+	overflow:hidden;
+	position:relative;
+
+	display:flex;
+	flex-direction: column;
+	/*display:flex;
+	flex-direction: column;
+	align-items:center;*/
+}
+.Fatty-Field-DatePicker-Column-DayNames{
+	flex: .6;
+}
+.Fatty-Field-DatePicker-dayName {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.Fatty-Field-DatePicker-formatted{
+	font-size: 18px;
+	font-weight: 700;
+}
+
+.Fatty-Field-DatePicker-Column-dateWrapper{
+	height: 22px;
+	position: relative;
+	z-index: 1;
+
+	flex: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.Fatty-Field-DatePicker-Column-dateItem{
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	text-align:center;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+
+
+.Fatty-Field-DatePicker.Fatty-Field-DatePicker--editing .Fatty-Field-DatePicker-Column-dateWrapper{
+	padding: 0;
+}
+
+
+.Fatty-Field-DatePicker-Column-input{
+	position:absolute;
+	z-index:4;
+
+	top: 50%;
+	margin-top:-16px;
+	height: 32px;
+	width:100%;
+
+	background-color: transparent;
+	border: none;
+	outline: none;
+
+	font-size: 22px;
+	font-weight: 700;
+
+	text-align: center;
+}
+.Fatty-Field-DatePicker-Column--focused .Fatty-Field-DatePicker-formatted{
+	background-color: #6EC8F3;
+	padding: 5px 10px;
+	border-radius: 5px;
+}
+.Fatty-Field-DatePicker-Column--editing .Fatty-Field-DatePicker-Column-dateItem{
+	opacity:0;
+}
+
+
+
+.Fatty-Field-DatePicker-Column-prev,
+.Fatty-Field-DatePicker-Column-next{
+	text-align:center;
+	position: relative;
+	z-index:2;
+
+	transition: transform 0.2s ease-in-out;
+}
+.Fatty-Field-DatePicker-Column-prev{
+	top:-4px;
+}
+.Fatty-Field-DatePicker-Column-prev .fa,
+.Fatty-Field-DatePicker-Column-next .fa{
+  padding: 5px 20px;
+  cursor:pointer;
+}
+.Fatty-Field-DatePicker-Column-next .fa{
+	border-radius: 10px 10px 0 0;
+}
+.Fatty-Field-DatePicker-Column-prev .fa{
+	border-radius: 0 0 10px 10px;
+}
+.Fatty-Field-DatePicker-Column-prev:hover{
+	transform:translate(0, -5px);
+}
+.Fatty-Field-DatePicker-Column-next:hover{
+	transform:translate(0, 5px);
+}
+
+.Fatty-Field--focused .Fatty-Field-DatePicker-Column-prev .fa:hover,
+.Fatty-Field--focused .Fatty-Field-DatePicker-Column-next .fa:hover{
+	color:#fff;
+}
+
+.Fatty-Field-DatePicker-Actions{
+	flex: .3;
+	display: flex;
+	flex-direction: column;
+	align-items: stretch;
+}
+.Fatty-Field-DatePicker-action{
+	flex: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	cursor: pointer;
+}
+.Fatty-Field-DatePicker-action:hover{
+	background-color: #F06F68;
+	color:#fff;
+}
+.Fatty-Field--focused .Fatty-Field-DatePicker-Actions{
+	background-color: #6EC8F3;
+}
+.Fatty-Field--focused .Fatty-Field-DatePicker-action:hover{
+	background-color: #6EC8F3;
+	color:#fff;
+}
+
+
+
+
+/* .Fatty-Field-DatePicker-Column-downTransition .Fatty-Field-DatePicker-Transition-enter{
+	transition: transform 1s ease-in-out;
+	transform: translate(0, -100px);
+}
+.Fatty-Field-DatePicker-Column-downTransition .Fatty-Field-DatePicker-Transition-enter.Fatty-Field-DatePicker-Transition-enter-active{
+	transform: translate(0, 0);
+}
+.Fatty-Field-DatePicker-Column-downTransition .Fatty-Field-DatePicker-Transition-leave{
+	transition: transform 1s ease-in-out;
+	transform: translate(0, 0);
+}
+.Fatty-Field-DatePicker-Column-downTransition .Fatty-Field-DatePicker-Transition-leave.Fatty-Field-DatePicker-Transition-leave-active{
+	transform: translate(0, 100px);
+}
+
+
+.Fatty-Field-DatePicker-Column-upTransition .Fatty-Field-DatePicker-Transition-enter{
+	transition: transform 1s ease-in-out;
+	transform: translate(0, 100px);
+}
+.Fatty-Field-DatePicker-Column-upTransition .Fatty-Field-DatePicker-Transition-enter.Fatty-Field-DatePicker-Transition-enter-active{
+	transform: translate(0, 0%);
+}
+.Fatty-Field-DatePicker-Column-upTransition .Fatty-Field-DatePicker-Transition-leave{
+	transition: transform 1s ease-in-out;
+	transform: translate(0, 0);
+}
+.Fatty-Field-DatePicker-Column-upTransition .Fatty-Field-DatePicker-Transition-leave.Fatty-Field-DatePicker-Transition-leave-active{
+	transform: translate(0, -100px);
+}  */
+
+
+
+.Fatty-Field-DatePicker-Column-upTransition .Fatty-Field-DatePicker-Transition-enter{
+	transform:translate(0,-100px);
+}
+.Fatty-Field-DatePicker-Column-upTransition .Fatty-Field-DatePicker-Transition-enter-active{
+	animation:Fatty-Field-DatePicker-slideUpIn .3s ease-out forwards;
+}
+.Fatty-Field-DatePicker-Column-upTransition .Fatty-Field-DatePicker-Transition-leave{
+	transform:translate(0,0);
+}
+.Fatty-Field-DatePicker-Column-upTransition .Fatty-Field-DatePicker-Transition-leave-active{
+	animation:Fatty-Field-DatePicker-slideUpOut .3s ease-in forwards;
+}
+
+.Fatty-Field-DatePicker-Column-downTransition .Fatty-Field-DatePicker-Transition-enter{
+	transform:translate(0,-100px);
+}
+.Fatty-Field-DatePicker-Column-downTransition .Fatty-Field-DatePicker-Transition-enter-active{
+	animation:Fatty-Field-DatePicker-slideDownIn .3s ease-out forwards;
+}
+.Fatty-Field-DatePicker-Column-downTransition .Fatty-Field-DatePicker-Transition-leave{
+	transform:translate(0,0);
+}
+.Fatty-Field-DatePicker-Column-downTransition .Fatty-Field-DatePicker-Transition-leave-active{
+	animation:Fatty-Field-DatePicker-slideDownOut .3s ease-in forwards;
+}
+
+
+
+
+
+
+@keyframes Fatty-Field-DatePicker-slideUpOut {
+	0% {
+		transform: translate(0, 0);
+	}
+	100% {
+		transform: translate(0, -100px);
+	}
+}
+
+@keyframes Fatty-Field-DatePicker-slideUpIn {
+	0% {
+		transform: translate(0, 100px);
+	}
+	100% {
+		transform: translate(0, 0px);
+	}
+}
+
+
+@keyframes Fatty-Field-DatePicker-slideDownOut {
+	0% {
+		transform: translate(0, 0);
+	}
+	100% {
+		transform: translate(0, 100px);
+	}
+}
+
+@keyframes Fatty-Field-DatePicker-slideDownIn {
+	0% {
+		transform: translate(0, -100px);
+	}
+	100% {
+		transform: translate(0, 0px);
+	}
+}

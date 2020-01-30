@@ -1,0 +1,87 @@
+http://codepen.io/jczimm/pen/vEBpoL?editors=110
+
+<div class="loader">
+	<svg class="circular">
+		<circle class="path" cx="250" cy="250" r="100" fill="none" stroke-width="10" stroke-miterlimit="10"/>
+	</svg>
+</div>
+
+<script>
+	var path = document.querySelector('.path');
+	var length = path.getTotalLength();
+</script>
+
+<style>
+	$green: #008744;
+	$blue: #0057e7;
+	$red: #d62d20;
+	$yellow: #ffa700;
+	$white: #eee;
+	
+	$width: 500px;
+	$zoom: 1.7;
+	
+	body {
+		background-color: $white;
+	}
+	
+	.loader {
+		position: relative;
+		margin: 0px auto;
+		width: $width;
+		height: $width;
+		zoom: $zoom;
+	}
+	
+	.circular {
+	 animation: rotate 2s linear infinite;
+	 height: $width;
+	 position: relative;
+	 width: $width;
+	}
+	
+	
+	.path {
+		stroke-dasharray: 100,200;
+		stroke-dashoffset: 0;
+		animation: 
+		 dash 4s linear infinite,
+		 color 6s ease-in-out infinite
+		;
+		stroke-linecap: round;
+	}
+	
+	@keyframes rotate{
+	 100%{
+		 transform: rotate(360deg);
+	 }
+	}
+	@keyframes dash{
+	 0%{
+		stroke-dasharray: 1,2000;
+		stroke-dashoffset: 0;
+	 }
+	 50%{
+		//stroke-dasharray: 400,2000;
+		//stroke-dashoffset: -200;
+	 }
+	 100%{
+		stroke-dasharray: 620,2000;
+		stroke-dashoffset: -620;
+	 }
+	}
+	@keyframes color{
+		100%, 0%{
+			stroke: $red;
+		}
+		40%{
+			stroke: $blue;
+		}
+		66%{
+			stroke: $green;
+		}
+		80%, 90%{
+			stroke: $yellow;
+		}
+	}
+</style>

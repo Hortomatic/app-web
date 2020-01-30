@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Calendar 32</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="1.64475908" cy="5.82184261" rx="1" ry="0.999481198"></ellipse>
+        <ellipse id="path-2" cx="7.7855595" cy="5.82236141" rx="1.00051907" ry="1"></ellipse>
+        <ellipse id="path-3" cx="13.6452782" cy="5.82236141" rx="1.00051907" ry="1"></ellipse>
+        <ellipse id="path-4" cx="19.7639962" cy="5.82236141" rx="1.00051907" ry="1"></ellipse>
+        <linearGradient x1="50%" y1="43.8157685%" x2="50%" y2="50.2491231%" id="linearGradient-5">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.209918478" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-6" x="1.14475908" y="0.322361411" width="1" height="5.36999989" rx="0.75"></rect>
+        <rect id="path-7" x="13.1447591" y="0.322361411" width="1" height="5.3738952" rx="0.75"></rect>
+        <rect id="path-8" x="7.14475908" y="0.322361411" width="1" height="5.3738952" rx="0.75"></rect>
+        <rect id="path-9" x="19.1447591" y="0.322361411" width="1" height="5.3738952" rx="0.75"></rect>
+    </defs>
+    <g id="Module-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Calendar-32" sketch:type="MSArtboardGroup">
+            <g id="calendar-copy" sketch:type="MSLayerGroup">
+                <g id="calendar" transform="translate(2.405106, 1.615139)">
+                    <rect id="Rectangle-70" fill="#FFF2C1" sketch:type="MSShapeGroup" x="0.594893853" y="2.38486141" width="26" height="24" rx="5"></rect>
+                    <g id="rings" transform="translate(2.450135, 0.062500)">
+                        <g id="Oval-239">
+                            <use fill="#485B5A" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                            <use fill="none" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="Oval-239">
+                            <use fill="#485B5A" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                            <use fill="none" xlink:href="#path-2"></use>
+                        </g>
+                        <g id="Oval-239">
+                            <use fill="#485B5A" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                            <use fill="none" xlink:href="#path-3"></use>
+                        </g>
+                        <g id="Oval-239">
+                            <use fill="#485B5A" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-4"></use>
+                            <use fill="none" xlink:href="#path-4"></use>
+                        </g>
+                        <g id="Rectangle-71">
+                            <use fill="#D8D8D8" sketch:type="MSShapeGroup" xlink:href="#path-6"></use>
+                            <use fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                        </g>
+                        <g id="Rectangle-71">
+                            <use fill="#D8D8D8" sketch:type="MSShapeGroup" xlink:href="#path-7"></use>
+                            <use fill="url(#linearGradient-5)" xlink:href="#path-7"></use>
+                        </g>
+                        <g id="Rectangle-71">
+                            <use fill="#D8D8D8" sketch:type="MSShapeGroup" xlink:href="#path-8"></use>
+                            <use fill="url(#linearGradient-5)" xlink:href="#path-8"></use>
+                        </g>
+                        <g id="Rectangle-71">
+                            <use fill="#D8D8D8" sketch:type="MSShapeGroup" xlink:href="#path-9"></use>
+                            <use fill="url(#linearGradient-5)" xlink:href="#path-9"></use>
+                        </g>
+                    </g>
+                    <g id="days" transform="translate(4.152527, 9.489453)" fill="#887D54" sketch:type="MSShapeGroup">
+                        <ellipse id="Oval-267" cx="12.4888814" cy="13.8428819" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-266" cx="9.56233154" cy="13.8428819" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-265" cx="6.63578167" cy="13.8428819" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-264" cx="3.70923181" cy="13.8428819" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-263" cx="0.782681941" cy="13.8428819" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-262" cx="18.3419811" cy="10.5777304" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-261" cx="15.4154313" cy="10.5777304" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-260" cx="12.4888814" cy="10.5777304" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-259" cx="9.56233154" cy="10.5777304" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-258" cx="6.63578167" cy="10.5777304" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-257" cx="3.70923181" cy="10.5777304" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-256" cx="0.782681941" cy="10.5777304" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-255" cx="18.3419811" cy="7.31257891" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-254" cx="15.4154313" cy="7.31257891" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-253" cx="12.4888814" cy="7.31257891" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-252" cx="9.56233154" cy="7.31257891" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-251" cx="6.63578167" cy="7.31257891" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-250" cx="3.70923181" cy="7.31257891" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-249" cx="0.782681941" cy="7.31257891" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-248" cx="18.3419811" cy="4.0474274" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-248" cx="18.3419811" cy="0.782275884" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-247" cx="15.4154313" cy="4.0474274" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-247" cx="15.4154313" cy="0.782275884" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-246" cx="12.4888814" cy="4.0474274" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-246" cx="12.4888814" cy="0.782275884" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-245" cx="9.56233154" cy="4.0474274" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-245" cx="9.56233154" cy="0.782275884" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-244" cx="6.63578167" cy="4.0474274" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-270" cx="3.70923181" cy="4.0474274" rx="0.782681941" ry="0.782275884"></ellipse>
+                        <ellipse id="Oval-243" cx="0.782681941" cy="4.0474274" rx="0.782681941" ry="0.782275884"></ellipse>
+                    </g>
+                    <path d="M8.3804085,20.0218603 L8.82094195,19.5649401 C9.03839682,19.3393965 9.03867737,18.973007 8.82097276,18.7472043 C8.60371113,18.5218611 8.25028543,18.521416 8.03256381,18.7472363 L7.59203035,19.2041565 L7.1514969,18.7472363 C6.93404204,18.5216926 6.58079256,18.5214017 6.36308795,18.7472043 C6.14582632,18.9725475 6.14539713,19.3391198 6.36311876,19.5649401 L6.80365221,20.0218603 L6.36311876,20.4787805 C6.14566389,20.7043241 6.14538334,21.0707136 6.36308795,21.2965162 C6.58034958,21.5218594 6.93377527,21.5223046 7.1514969,21.2964843 L7.59203035,20.8395641 L8.03256381,21.2964843 C8.25001867,21.5220279 8.60326814,21.5223189 8.82097276,21.2965162 C9.03823438,21.071173 9.03866358,20.7046008 8.82094195,20.4787805 L8.3804085,20.0218603 L8.3804085,20.0218603 Z" id="Rectangle-75" fill="#F04A42" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

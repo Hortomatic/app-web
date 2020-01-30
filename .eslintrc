@@ -4,6 +4,8 @@
     "standard",
     "standard-react"
   ],
+  "ecmaFeatures": {
+  },
   "env"     : {
     "browser" : true
   },
@@ -14,6 +16,12 @@
     "__DEBUG_NEW_WINDOW__" : false
   },
   "rules": {
-    "semi" : [2, "never"]
-  }
+    "semi" : [2, "never"],
+    "babel/generator-star-spacing": 1,
+    "babel/object-curly-spacing": 1,
+    "babel/object-shorthand": 1,
+    "babel/arrow-parens": 1,
+    "babel/no-await-in-loop": 1
+  },
+  "plugins": ['babel']
 }

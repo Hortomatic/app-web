@@ -1,0 +1,6 @@
+.Panelled-Tabs
+{
+    display: flex;
+
+    flex-wrap: none;
+}

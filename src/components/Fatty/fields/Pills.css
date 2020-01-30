@@ -1,0 +1,73 @@
+
+.Fatty-Field-Pills{
+}
+.Fatty-Field-Pills-items{
+	padding-top:50px;
+}
+.Fatty-Field-Pills-items{
+	display:flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	
+	padding:50px .35em .85em .35em;
+}
+.Fatty-Field-Pills-item{
+	padding:4px 15px;
+	border-radius:7px;
+
+	cursor:pointer;
+
+	background:transparent;
+	color:#5E5D55;
+	background-color: #E4E4D6;
+	transition: background 0.3s, color 0.3s;
+
+	outline:none;
+	margin:0 8px 0 0;
+	
+	font-size:16px;
+	font-weight:700;
+	font-family:"Museo Sans";
+}
+.Fatty-Field-Pills-item:hover{
+	background-color: #44B9F0;
+	color:#fff;
+}
+.Fatty-Field-Pills-item--selected{
+	background:#818076;
+	color: white;
+}
+.Fatty-Field-Pills-item:focus{
+	box-shadow:0 0 0px 3px #FFF;
+}
+
+.Fatty-Field-Pills:hover .Fatty-Field-Pills-item{
+	color:#44B9F0;
+}
+.Fatty-Field-Pills:hover .Fatty-Field-Pills-item--selected,
+.Fatty-Field-Pills:hover .Fatty-Field-Pills-item--selected:hover{
+	background-color: #44B9F0;
+	color:#fff;
+}
+.Fatty-Field-Pills:hover .Fatty-Field-Pills-item:hover{
+	background-color: #44B9F0v;
+	color:#fff;
+}
+
+
+.Fatty-Field--focused.Fatty-Field-Pills .Fatty-Field-Pills-item{
+	color:#fff;
+	background:#2B9CD3;
+}
+.Fatty-Field--focused.Fatty-Field-Pills .Fatty-Field-Pills-item:hover{
+	color:#fff;
+	background:#6EC8F3;
+}
+.Fatty-Field--focused.Fatty-Field-Pills .Fatty-Field-Pills-item--selected{
+	color:#44B9F0;
+	background:#fff;
+}
+.Fatty-Field--focused.Fatty-Field-Pills .Fatty-Field-Pills-item--selected:hover{
+	color:#44B9F0;
+	background:#fff;
+}

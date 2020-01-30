@@ -1,0 +1,24 @@
+.Panelled-Tab
+{
+    display: flex;
+
+    margin: 0 5px 0 0;
+    cursor: pointer;
+
+    border-top: 5px solid transparent;
+
+    align-items: center;
+}
+.Panelled-Tab--hasLabel{
+	padding: 6px 24px 11px;
+}
+.Panelled-Tab--hasIcon{
+	padding: 6px 17px 11px;
+}
+.Panelled-Tab--hasLabel.Panelled-Tab--hasLabel{
+	padding: 6px 24px 11px;
+}
+
+.Panelled-Tab--active{
+	/* for theming */
+}

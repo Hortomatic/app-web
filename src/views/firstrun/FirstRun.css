@@ -1,0 +1,180 @@
+.FirstRun
+{
+    display: flex;
+
+    background-color: #f8d454;
+
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
+.FirstRun-header
+{
+    text-align: center;
+}
+.FirstRun-Gnome
+{
+    height: 310px;
+}
+
+.FirstRun-stepsContainer
+{
+    position: relative;
+
+    width: 600px;
+    margin-left: 40px;
+}
+.FirstRun-step
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    display: flex;
+
+    transform-origin: -200px 50%;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.FirstRun-bubble
+{
+    position: relative;
+
+    width: 600px;
+
+    border-radius: 20px;
+    background-color: #fff;
+}
+.FirstRun-bubble:after
+{
+    position: absolute;
+    top: 50%;
+    left: -10px;
+
+    display: block;
+
+    width: 20px;
+    height: 20px;
+    margin-top: -10px;
+
+    content: '';
+    transform: rotate(45deg);
+
+    background-color: #fff;
+}
+.FirstRun-bubble h1
+{
+    font-size: 42px;
+    font-weight: 900;
+
+    color: #f06f68;
+}
+.FirstRun-bubble p.primary
+{
+    font-size: 22px;
+    font-weight: 900;
+
+    color: #f06f68;
+}
+.FirstRun-bubble p
+{
+    font-size: 20px;
+    font-weight: 300;
+
+    color: #818076;
+}
+.FirstRun-bubble p a
+{
+    font-weight: 700;
+
+    color: #f06f68;
+}
+.FirstRun-bubble-content
+{
+    padding: 30px;
+
+    text-align: center;
+}
+
+
+
+
+.FirstRun-bubbleTransition-enter
+{
+    transition: all .7s .2s cubic-bezier(.68, -.55, .27, 1.55);
+    transform: rotate(70deg);
+    transform-origin: -200px 50%;
+
+    opacity: 0;
+}
+.FirstRun-bubbleTransition-enter.FirstRun-bubbleTransition-enter-active
+{
+    transform: rotate(0deg);
+
+    opacity: 1;
+}
+.FirstRun-bubbleTransition-leave
+{
+    position: absolute;
+
+    transition: all .7s cubic-bezier(.68, -.55, .27, 1.55);
+    transform: rotate(0deg);
+    transform-origin: -300px 50%;
+
+    opacity: 1;
+}
+.FirstRun-bubbleTransition-leave.FirstRun-bubbleTransition-leave-active
+{
+    transform: rotate(-70deg);
+
+    opacity: .01;
+}
+
+
+
+
+
+.FirstRun-bubble-buttonPanel
+{
+    border-radius: 0 0 20px 20px;
+    background: #f3f1df;
+}
+.FirstRun-bubble-button-primary
+{
+    color: #f06f68;
+}
+
+
+.FirstRun-helpLink
+{
+    cursor: pointer;
+
+    border-bottom: 3px solid #f06f68;
+}
+
+
+
+#mc_embed_signup input
+{
+    font-size: 24px;
+    font-weight: 700;
+
+    display: block;
+
+    width: 80%;
+    margin: 20px auto;
+    padding: 10px 15px;
+
+    border: 5px solid #eee;
+    border-radius: 5px;
+    background: #f3f1df;
+}
+#mc_embed_signup input:focus
+{
+    border: 5px solid #f06f68;
+    outline: none;
+}

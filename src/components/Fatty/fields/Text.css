@@ -1,0 +1,87 @@
+.Fatty-Field-Text
+{
+    position: relative;
+
+    margin: 2em 0 2em;
+    padding: 0;
+
+    transition: margin-top .3s  linear;
+}
+.Fatty-Field-Text.Fatty-Field--focused,
+.Fatty-Field-Text.Fatty-Field--filled
+{
+    /*margin-top: 3em;*/
+}
+.Fatty-Field-Text .Fatty-Field-label{
+	transition: opacity 0.2s ease-in-out;
+}
+.Fatty-Field-Text.Fatty-Field--scrolled .Fatty-Field-label{
+	opacity:0;
+}
+.Fatty-Field-Text-control
+{
+    font-family: 'Museo Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+
+    position: relative;
+    z-index: 10;
+
+    display: block;
+
+    width: 100%;
+    margin: 0;
+    padding: 14px 12px;
+
+    transition: all .2s ease-in-out;
+
+    color: #5e5d55;
+    border: none;
+    border-radius: 0;
+    background: transparent;
+
+    -webkit-appearance: none; /* for box shadows to show on iOS */
+}
+.Fatty-Field-Text:hover .Fatty-Field-Text-control
+{
+    color: #44B9F0;
+}
+.Fatty-Field-Text.Fatty-Field--focused .Fatty-Field-Text-control
+{
+    color: #fff;
+}
+.Fatty-Field--withLabel.Fatty-Field-Text.Fatty-Field--focused .Fatty-Field-Text-control,
+.Fatty-Field--withLabel.Fatty-Field-Text.Fatty-Field--filled .Fatty-Field-Text-control
+{
+    padding: 50px .55em .65em .55em;
+}
+
+.Fatty-Field-Text-control:focus
+{
+    outline: none;
+}
+
+
+
+.Fatty-Field-Text textarea
+{
+    font-size: 16px;
+
+    display: block;
+
+    width: 100%;
+    max-width: 100%;
+
+    border: none;
+    outline: none;
+}
+.Fatty-Field-Text textarea:focus
+{
+    outline: none;
+}
+
+
+.Fatty--supersized input.Fatty-Field-Text-control
+{
+    font-size: 24px;
+}

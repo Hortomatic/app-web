@@ -1,0 +1,232 @@
+.Fatty-Sheet
+{
+    padding: 1em;
+}
+
+.Fatty-Field
+{
+    position: relative;
+
+    margin: 2em 0 2em;
+    padding: 0;
+
+    transition: margin-top .3s  linear;
+
+    background: #FFF;
+}
+.Fatty-Field:focus
+{
+    outline: none;
+}
+
+.Fatty-Field--filled
+{
+    /*margin-top: 3em;*/
+}
+.Fatty-Field--focused
+{
+    color: #fff;
+}
+.Fatty-Field:hover
+{
+    /*color: #44b9f0;*/
+}
+
+.Fatty-Field-label
+{
+    position: absolute;
+    z-index: 3;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    margin: 0;
+    padding: .85em .45em;
+
+    user-select: none;
+
+    color: #818076;
+
+    -webkit-touch-callout: none;
+}
+.Fatty-Field--focused .Fatty-Field-label{
+    color:#fff;
+}
+.Fatty-Field-controlWrapper
+{
+    position: relative;
+    z-index: 4;
+
+    min-height: 50px;
+}
+.Fatty-Field--focused .Fatty-Field-controlWrapper
+{
+    color: #fff;
+}
+.Fatty-Field-background
+{
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 100%;
+
+    pointer-events: none;
+}
+
+.Fatty-Field-label,
+.Fatty-Field-label-text
+{
+    transition: transform .3s .1s cubic-bezier(.68, -.55, .27, 1.55), color .1s ease-in-out;
+}
+
+.Fatty-Field-background
+{
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    bottom: 0;
+    left: 0;
+
+    width: 100%;
+    height: 100%;
+
+    content: '';
+}
+
+.Fatty-Field-hint
+{
+    font-size: 14px;
+
+    position: absolute;
+    z-index: 2;
+    right: 0;
+
+    padding: .85em;
+
+    transition: opacity .2s ease-in-out, color .2s ease-in-out;
+    text-align: right;
+
+    opacity: 1;
+}
+.Fatty-Field--focused .Fatty-Field-hint
+{
+    color: #fff;
+}
+.Fatty-Field--filled .Fatty-Field-hint
+{
+    opacity: 0;
+}
+
+.Fatty-Field-help
+{
+    position: relative;
+
+    float: right;
+
+    transition: opacity .1s ease-in-out;
+
+    opacity: 0;
+}
+.Fatty-Field--focused .Fatty-Field-help
+{
+    opacity: 1;
+}
+.Fatty-Field--focused .Fatty-Field-help-icon
+{
+    cursor: help;
+}
+
+.Fatty-Field-help-bubble
+{
+    font-size: 16px;
+
+    position: absolute;
+    z-index: 31;
+    z-index: 75;
+    top: 30px;
+    right: -18px;
+
+    min-width: 250px;
+    padding: 1em;
+
+    transition: opacity .3s ease-in-out;
+
+    opacity: 0;
+    color: white;
+    border-radius: 5px;
+    background: #4f3c28;
+}
+.Fatty-Field-help-bubble:before
+{
+    position: absolute;
+    top: -10px;
+    right: 15px;
+
+    content: '';
+
+    border-width: 0 10px 10px 10px;
+    border-style: solid;
+    border-color: transparent transparent #4f3c28 transparent;
+}
+.Fatty-Field-help-bubble--active
+{
+    opacity: .8;
+}
+
+
+.Fatty-Field-label:hover
+{
+    color: #44b9f0;
+}
+
+.Fatty-Field-background
+{
+    transition: transform .3s cubic-bezier(.68, -.55, .27, 1.55);
+    transform: scale(1, 0);
+    transform-origin: 0 100%;
+
+    background-color: #44b9f0;
+}
+
+
+.Fatty-Field--focused .Fatty-Field-Text-control
+{
+    color: #fff;
+}
+.Fatty-Field--focused .Fatty-Field-background
+{
+    transform: scale(1, 1);
+}
+
+.Fatty-Field--focused .Fatty-Field-label,
+.Fatty-Field--filled .Fatty-Field-label
+{
+    transform: translate(0, -.3em);
+}
+
+/* If the field is focused when it is already filled, make the label
+ * jump slightly to respond to the bounce fill transition */
+.Fatty-Field--focused.Fatty-Field--filled .Fatty-Field-label-text
+{
+    animation: Fatty-Field-filled-labelAnim .3s cubic-bezier(.68, -.55, .27, 1.55);
+}
+
+@keyframes Fatty-Field-filled-labelAnim
+{
+    0%
+    {
+        transform: translate(0, 0em);
+    }
+    50%
+    {
+        transform: translate(0, -.2em);
+    }
+    100%
+    {
+        transform: translate(0, -0em);
+    }
+}

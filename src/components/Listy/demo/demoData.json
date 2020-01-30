@@ -1,0 +1,5622 @@
+[
+  {
+    "_id": "plant/growstuff1",
+    "name": "achiote",
+    "growstuff_url": "http://growstuff.org/crops/achiote",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bixa_orellana",
+    "scientific": "Bixa orellana",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff2",
+    "name": "ackee",
+    "growstuff_url": "http://growstuff.org/crops/ackee",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ackee",
+    "scientific": "Blighia sapida",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff267",
+    "name": "acorn squash",
+    "growstuff_url": "http://growstuff.org/crops/acorn-squash",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Acorn_squash",
+    "scientific": "Curcurbita pepo",
+    "parent_id": "plant/growstuff509",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff3",
+    "name": "acuyo",
+    "growstuff_url": "http://growstuff.org/crops/acuyo",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Piper_auritum",
+    "scientific": "Piper auritum",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff345",
+    "name": "adjuma pepper",
+    "growstuff_url": "http://growstuff.org/crops/adjuma-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Adjuma",
+    "scientific": "Capsicum chinense",
+    "parent_id": "plant/growstuff309",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff383",
+    "name": "adoration tomato",
+    "growstuff_url": "http://growstuff.org/crops/adoration-tomato",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Adoration_(Tomato)",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff547",
+    "name": "agave",
+    "growstuff_url": "http://growstuff.org/crops/agave",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Agave",
+    "scientific": "agave tequilana",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff346",
+    "name": "aj¡ dulce pepper",
+    "growstuff_url": "http://growstuff.org/crops/aji-dulce-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Ají_dulce",
+    "scientific": "Capsicum chinense",
+    "parent_id": "plant/growstuff309",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff550",
+    "name": "Alaska blueberry",
+    "growstuff_url": "http://growstuff.org/crops/alaska-blueberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Vaccinium_ovalifolium",
+    "scientific": "Vaccinium ovalifolium",
+    "parent_id": "plant/growstuff240",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff312",
+    "name": "Aleppo pepper",
+    "growstuff_url": "http://growstuff.org/crops/aleppo-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Aleppo_pepper",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff4",
+    "name": "alexanders",
+    "growstuff_url": "http://growstuff.org/crops/alexanders",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alexanders",
+    "scientific": "Smyrnium olusatrum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff5",
+    "name": "alfalfa",
+    "growstuff_url": "http://growstuff.org/crops/alfalfa",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alfalfa",
+    "scientific": "Medicago sativa",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "root division"
+  },
+  {
+    "_id": "plant/growstuff384",
+    "name": "alicante tomato",
+    "growstuff_url": "http://growstuff.org/crops/alicante-tomato",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alicante_(tomato)",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff6",
+    "name": "allspice",
+    "growstuff_url": "http://growstuff.org/crops/allspice",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Allspice",
+    "scientific": "Pimenta dioica",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff7",
+    "name": "almond",
+    "growstuff_url": "http://growstuff.org/crops/almond",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Almond",
+    "scientific": "Prunus dulcis",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff254",
+    "name": "aloe vera",
+    "growstuff_url": "http://growstuff.org/crops/aloe-vera",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Aloe_vera",
+    "scientific": "Aloe vera",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff528",
+    "name": "Alpine strawberry",
+    "growstuff_url": "http://growstuff.org/crops/alpine-strawberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Fragaria_vesca",
+    "scientific": "Fragaria vesca",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff438",
+    "name": "Amanum oregano",
+    "growstuff_url": "http://growstuff.org/crops/amanum-oregano",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Origanum_amanum",
+    "scientific": "Origanum amanum",
+    "parent_id": "plant/growstuff142",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff8",
+    "name": "amaranth",
+    "growstuff_url": "http://growstuff.org/crops/amaranth",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amaranth",
+    "scientific": "Amaranthus spp.",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff529",
+    "name": "Amelanchier",
+    "growstuff_url": "http://growstuff.org/crops/amelanchier",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Amelanchier",
+    "scientific": "Amelanchier",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff454",
+    "name": "American wild mint",
+    "growstuff_url": "http://growstuff.org/crops/american-wild-mint",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mentha_canadensis",
+    "scientific": "Mentha candensis",
+    "parent_id": "plant/growstuff131",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff385",
+    "name": "Amish paste tomato",
+    "growstuff_url": "http://growstuff.org/crops/amish-paste-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Amish_Paste",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff313",
+    "name": "Anaheim pepper",
+    "growstuff_url": "http://growstuff.org/crops/anaheim-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Anaheim_pepper",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff9",
+    "name": "anise",
+    "growstuff_url": "http://growstuff.org/crops/anise",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Anise",
+    "scientific": "Pimpinella anisum",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff436",
+    "name": "anise hyssop",
+    "growstuff_url": "http://growstuff.org/crops/anise-hyssop",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Agastache_foeniculum",
+    "scientific": "Agastache foeniculum",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff10",
+    "name": "apple",
+    "growstuff_url": "http://growstuff.org/crops/apple",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Apple",
+    "scientific": "Malus domestica",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "bare root plant"
+  },
+  {
+    "_id": "plant/growstuff11",
+    "name": "apple mint",
+    "growstuff_url": "http://growstuff.org/crops/apple-mint",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mentha_suaveolens",
+    "scientific": "Mentha suaveolens",
+    "parent_id": "plant/growstuff131",
+    "shade": "sun",
+    "plant_from": "root division"
+  },
+  {
+    "_id": "plant/growstuff12",
+    "name": "apricot",
+    "growstuff_url": "http://growstuff.org/crops/apricot",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Apricot",
+    "scientific": "Prunus armeniaca",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "bare root plant"
+  },
+  {
+    "_id": "plant/growstuff565",
+    "name": "aromatic ginger",
+    "growstuff_url": "http://growstuff.org/crops/aromatic-ginger",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Kaempferia_galanga",
+    "scientific": "Kaempferia galanga",
+    "parent_id": "plant/growstuff562",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff13",
+    "name": "arrowroot",
+    "growstuff_url": "http://growstuff.org/crops/arrowroot",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maranta_arundinacea",
+    "scientific": "Maranta arundinacea",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff14",
+    "name": "artichoke",
+    "growstuff_url": "http://growstuff.org/crops/artichoke",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Artichoke",
+    "scientific": "Cynara cardunculus",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff15",
+    "name": "arugula",
+    "growstuff_url": "http://growstuff.org/crops/arugula",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Arugula",
+    "scientific": "Eruca sativa",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff452",
+    "name": "Asian mint",
+    "growstuff_url": "http://growstuff.org/crops/asian-mint",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mentha_asiatica",
+    "scientific": "Mentha asiatica",
+    "parent_id": "plant/growstuff131",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff16",
+    "name": "asparagus",
+    "growstuff_url": "http://growstuff.org/crops/asparagus",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Asparagus",
+    "scientific": "Asparagus officinalis",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "root division"
+  },
+  {
+    "_id": "plant/growstuff386",
+    "name": "Aunt Ruby's German green tomato",
+    "growstuff_url": "http://growstuff.org/crops/aunt-ruby-s-german-green-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Aunt_Ruby's_German_Green",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff453",
+    "name": "Australian mint",
+    "growstuff_url": "http://growstuff.org/crops/australian-mint",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mentha_australis",
+    "scientific": "Mentha australis",
+    "parent_id": "plant/growstuff131",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff17",
+    "name": "avocado",
+    "growstuff_url": "http://growstuff.org/crops/avocado",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Avocado",
+    "scientific": "Persea americana",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff387",
+    "name": "azoychka tomato",
+    "growstuff_url": "http://growstuff.org/crops/azoychka-tomato",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Azoychka(Tomato)",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff428",
+    "name": "baby sage",
+    "growstuff_url": "http://growstuff.org/crops/baby-sage",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Salvia_microphylla",
+    "scientific": "Salvia microphylla",
+    "parent_id": "plant/growstuff424",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff271",
+    "name": "bamboo",
+    "growstuff_url": "http://growstuff.org/crops/bamboo",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Bamboo",
+    "scientific": "Bambuseae",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff18",
+    "name": "banana",
+    "growstuff_url": "http://growstuff.org/crops/banana",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Banana",
+    "scientific": "Musa spp.",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff314",
+    "name": "banana pepper",
+    "growstuff_url": "http://growstuff.org/crops/banana-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Banana_pepper",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff19",
+    "name": "barley",
+    "growstuff_url": "http://growstuff.org/crops/barley",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Barley",
+    "scientific": "Hordeum vulgare",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff20",
+    "name": "basil",
+    "growstuff_url": "http://growstuff.org/crops/basil",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Basil",
+    "scientific": "Ocimum basilicum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff431",
+    "name": "basil beebalm",
+    "growstuff_url": "http://growstuff.org/crops/basil-beebalm",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Monarda_clinopodioides",
+    "scientific": "Monarda clinopodioides",
+    "parent_id": "plant/growstuff429",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff21",
+    "name": "bay",
+    "growstuff_url": "http://growstuff.org/crops/bay",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bay_Laurel",
+    "scientific": "Laurus nobilis",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff22",
+    "name": "bean",
+    "growstuff_url": "http://growstuff.org/crops/bean",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Common_bean",
+    "scientific": "Phaseolus vulgaris",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff429",
+    "name": "beebalm",
+    "growstuff_url": "http://growstuff.org/crops/beebalm",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Monarda",
+    "scientific": "Monarda",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff388",
+    "name": "beefsteak tomato",
+    "growstuff_url": "http://growstuff.org/crops/beefsteak-tomato",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beefsteak_(tomato)",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff23",
+    "name": "beet",
+    "growstuff_url": "http://growstuff.org/crops/beet",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beet",
+    "scientific": "Beta vulgaris",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff24",
+    "name": "bell pepper",
+    "growstuff_url": "http://growstuff.org/crops/bell-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Bell_pepper",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff455",
+    "name": "bergamot mint",
+    "growstuff_url": "http://growstuff.org/crops/bergamot-mint",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mentha_citrata",
+    "scientific": "Mentha citrata",
+    "parent_id": "plant/growstuff131",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff389",
+    "name": "better boy tomato",
+    "growstuff_url": "http://growstuff.org/crops/better-boy-tomato",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Better_Boy",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff353",
+    "name": "bhut jolokia pepper",
+    "growstuff_url": "http://growstuff.org/crops/bhut-jolokia-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Bhut_Jolokia",
+    "scientific": "Capsicum chinense",
+    "parent_id": "plant/growstuff309",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff390",
+    "name": "big rainbow tomato",
+    "growstuff_url": "http://growstuff.org/crops/big-rainbow-tomato",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Big_Rainbow_(Tomato)",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff241",
+    "name": "bilberry",
+    "growstuff_url": "http://growstuff.org/crops/bilberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Vaccinium_myrtillus",
+    "scientific": "Vaccinium myrtillus",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff315",
+    "name": "bird's eye chili",
+    "growstuff_url": "http://growstuff.org/crops/bird-s-eye-chili",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Bird's_eye_chili",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "semi-shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff340",
+    "name": "bishop's crown pepper",
+    "growstuff_url": "http://growstuff.org/crops/bishop-s-crown-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Bishop's_Crown",
+    "scientific": "Capsicum baccatum var. pendulum",
+    "parent_id": "plant/growstuff308",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff25",
+    "name": "bitter melon",
+    "growstuff_url": "http://growstuff.org/crops/bitter-melon",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bitter_melon",
+    "scientific": "Momordica charantia",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff391",
+    "name": "Blaby special tomato",
+    "growstuff_url": "http://growstuff.org/crops/blaby-special-tomato",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Blaby_Special_(Tomato)",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff26",
+    "name": "blackberry",
+    "growstuff_url": "http://growstuff.org/crops/blackberry",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Blackberry",
+    "scientific": "Rubus fruticosus",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "cutting"
+  },
+  {
+    "_id": "plant/growstuff27",
+    "name": "blackcurrant",
+    "growstuff_url": "http://growstuff.org/crops/blackcurrant",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ribes",
+    "scientific": "Ribes spp.",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "bare root plant"
+  },
+  {
+    "_id": "plant/growstuff371",
+    "name": "black-eyed pea",
+    "growstuff_url": "http://growstuff.org/crops/black-eyed-pea",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Black-eyed_pea",
+    "scientific": "Vigna unguiculata subsp. unguiculata",
+    "parent_id": "plant/growstuff372",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff351",
+    "name": "black habanero pepper",
+    "growstuff_url": "http://growstuff.org/crops/black-habanero-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Habanero",
+    "scientific": "Capsicum chinense",
+    "parent_id": "plant/growstuff309",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff392",
+    "name": "black krim tomato",
+    "growstuff_url": "http://growstuff.org/crops/black-krim-tomato",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Krim_(tomato)",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff248",
+    "name": "black mint",
+    "growstuff_url": "http://growstuff.org/crops/black-mint",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tagetes_minuta",
+    "scientific": "Tagetes minuta",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff475",
+    "name": "black mustard",
+    "growstuff_url": "http://growstuff.org/crops/black-mustard",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brassica_nigra",
+    "scientific": "Brassica nigra",
+    "parent_id": "plant/growstuff470",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff240",
+    "name": "blueberry",
+    "growstuff_url": "http://growstuff.org/crops/blueberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Blueberry",
+    "scientific": "Vaccinium sect. Cyanococcus",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff236",
+    "name": "bok choy",
+    "growstuff_url": "http://growstuff.org/crops/bok-choy",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Bok_choy",
+    "scientific": "Brassica rapa chinensis",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff28",
+    "name": "borage",
+    "growstuff_url": "http://growstuff.org/crops/borage",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Borage",
+    "scientific": "Borago officinalis",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff393",
+    "name": "brandywine tomato",
+    "growstuff_url": "http://growstuff.org/crops/brandywine-tomato",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brandywine_(tomato)",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff270",
+    "name": "brassica",
+    "growstuff_url": "http://growstuff.org/crops/brassica",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brassica",
+    "scientific": "brassica",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff470",
+    "name": "Brassica",
+    "growstuff_url": "http://growstuff.org/crops/brassica-2bd4c961-9d29-4816-a6cb-bd6b45f99d23",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brassicas",
+    "scientific": "Brassica",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff476",
+    "name": "Brassica oleracea",
+    "growstuff_url": "http://growstuff.org/crops/brassica-oleracea",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brassica_oleracea",
+    "scientific": "Brassica oleracea",
+    "parent_id": "plant/growstuff470",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff477",
+    "name": "Brassica oleracea Acephela group",
+    "growstuff_url": "http://growstuff.org/crops/brassica-oleracea-acephela-group",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Acephala_group",
+    "scientific": "Brassica oleracea Acephala group",
+    "parent_id": "plant/growstuff476",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff479",
+    "name": "Brassica rapa",
+    "growstuff_url": "http://growstuff.org/crops/brassica-rapa",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brassica_rapa",
+    "scientific": "Brassica rapa",
+    "parent_id": "plant/growstuff470",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff519",
+    "name": "Brazilian cherry",
+    "growstuff_url": "http://growstuff.org/crops/brazilian-cherry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Eugenia_uniflora",
+    "scientific": "Eugenia uniflora",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "bare root plant"
+  },
+  {
+    "_id": "plant/growstuff343",
+    "name": "Brazilian starfish",
+    "growstuff_url": "http://growstuff.org/crops/brazilian-starfish",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Capsicum_baccatum",
+    "scientific": "Capsicum baccatum",
+    "parent_id": "plant/growstuff308",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff29",
+    "name": "breadfruit",
+    "growstuff_url": "http://growstuff.org/crops/breadfruit",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Breadfruit",
+    "scientific": "Artocarpus altilis",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff482",
+    "name": "broccoflower",
+    "growstuff_url": "http://growstuff.org/crops/broccoflower",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Broccoflower",
+    "scientific": "Brassica oleracea Botrytis group",
+    "parent_id": "plant/growstuff476",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff30",
+    "name": "broccoli",
+    "growstuff_url": "http://growstuff.org/crops/broccoli",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Broccoli",
+    "scientific": "Brassica oleracea",
+    "parent_id": "plant/growstuff476",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff484",
+    "name": "broccolini",
+    "growstuff_url": "http://growstuff.org/crops/broccolini",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Broccolini",
+    "scientific": "Brassica oleracea Capitata group x Alboglabra Group",
+    "parent_id": "plant/growstuff476",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff31",
+    "name": "Brussels sprout",
+    "growstuff_url": "http://growstuff.org/crops/brussels-sprout",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brussels_sprout",
+    "scientific": "Brassica oleracea",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff485",
+    "name": "Brussels sprouts",
+    "growstuff_url": "http://growstuff.org/crops/brussels-sprouts",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brussels_sprouts",
+    "scientific": "Brassica oleracea Gemmifera group",
+    "parent_id": "plant/growstuff476",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff32",
+    "name": "buckwheat",
+    "growstuff_url": "http://growstuff.org/crops/buckwheat",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Buckwheat",
+    "scientific": "Fagopyrum esculentum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff286",
+    "name": "burdock",
+    "growstuff_url": "http://growstuff.org/crops/burdock",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Arctium_lappa",
+    "scientific": "Arctium lappa",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff265",
+    "name": "butternut squash",
+    "growstuff_url": "http://growstuff.org/crops/butternut-squash",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Butternut_squash",
+    "scientific": "Cucurbita moschata",
+    "parent_id": "plant/growstuff508",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff33",
+    "name": "cabbage",
+    "growstuff_url": "http://growstuff.org/crops/cabbage",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cabbage",
+    "scientific": "Brassica oleracea",
+    "parent_id": "plant/growstuff476",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff355",
+    "name": "cachucha pepper",
+    "growstuff_url": "http://growstuff.org/crops/cachucha-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Scotch_bonnet_(pepper)",
+    "scientific": "Capsicum chinense",
+    "parent_id": "plant/growstuff309",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff442",
+    "name": "calamint",
+    "growstuff_url": "http://growstuff.org/crops/calamint",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Calamint",
+    "scientific": "Calamintha",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff394",
+    "name": "campari tomato",
+    "growstuff_url": "http://growstuff.org/crops/campari-tomato",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Campari_tomato",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff534",
+    "name": "Canadian serviceberry",
+    "growstuff_url": "http://growstuff.org/crops/canadian-serviceberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Amelanchier_canadensis",
+    "scientific": "Amelanchier canadensis",
+    "parent_id": "plant/growstuff529",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff273",
+    "name": "cantaloupe",
+    "growstuff_url": "http://growstuff.org/crops/cantaloupe",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cantaloupe",
+    "scientific": "Cucumis melo var. cantalupensis",
+    "parent_id": "plant/growstuff274",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff446",
+    "name": "cantueso",
+    "growstuff_url": "http://growstuff.org/crops/cantueso",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Thymus_moroderi",
+    "scientific": "Thymus moroderi",
+    "parent_id": "plant/growstuff214",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff34",
+    "name": "cape gooseberry",
+    "growstuff_url": "http://growstuff.org/crops/cape-gooseberry",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Physalis_peruviana",
+    "scientific": "Physalis peruviana",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff35",
+    "name": "caper",
+    "growstuff_url": "http://growstuff.org/crops/caper",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Caper",
+    "scientific": "Capparis spinosa",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff306",
+    "name": "Capsicum",
+    "growstuff_url": "http://growstuff.org/crops/capsicum",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Capsicum",
+    "scientific": "Capsicum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff307",
+    "name": "Capsicum annuum",
+    "growstuff_url": "http://growstuff.org/crops/capsicum-annuum",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Capsicum_annuum",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff306",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff308",
+    "name": "Capsicum baccatum",
+    "growstuff_url": "http://growstuff.org/crops/capsicum-baccatum",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Capsicum_baccatum",
+    "scientific": "Capsicum baccatum",
+    "parent_id": "plant/growstuff306",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff309",
+    "name": "Yellow Lantern Chili",
+    "growstuff_url": "http://growstuff.org/crops/capsicum-chinense",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Capsicum_chinense",
+    "scientific": "Capsicum chinense",
+    "parent_id": "plant/growstuff306",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff311",
+    "name": "Capsicum frutescens",
+    "growstuff_url": "http://growstuff.org/crops/capsicum-frutescens",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Capsicum_frutescens",
+    "scientific": "Capsicum frutescens",
+    "parent_id": "plant/growstuff306",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff445",
+    "name": "caraway thyme",
+    "growstuff_url": "http://growstuff.org/crops/caraway-thyme",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Thymus_herba-barona",
+    "scientific": "Thymus herba-barona",
+    "parent_id": "plant/growstuff214",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff36",
+    "name": "cardoon",
+    "growstuff_url": "http://growstuff.org/crops/cardoon",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cardoon",
+    "scientific": "Cynara cardunculus",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff37",
+    "name": "carrot",
+    "growstuff_url": "http://growstuff.org/crops/carrot",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Carrot",
+    "scientific": "Daucus carota",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff316",
+    "name": "cascabel chili",
+    "growstuff_url": "http://growstuff.org/crops/cascabel-chili",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cascabel_chili",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff38",
+    "name": "cassava",
+    "growstuff_url": "http://growstuff.org/crops/cassava",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cassava",
+    "scientific": "Manihot esculenta",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff39",
+    "name": "catnip",
+    "growstuff_url": "http://growstuff.org/crops/catnip",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Nepeta_cataria",
+    "scientific": "Nepeta cataria",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff40",
+    "name": "cauliflower",
+    "growstuff_url": "http://growstuff.org/crops/cauliflower",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cauliflower",
+    "scientific": "Brassica oleracea",
+    "parent_id": "plant/growstuff476",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff264",
+    "name": "cavalo nero",
+    "growstuff_url": "http://growstuff.org/crops/cavalo-nero",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kale",
+    "scientific": "Brassica oleracea",
+    "parent_id": "plant/growstuff102",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff41",
+    "name": "cayenne pepper",
+    "growstuff_url": "http://growstuff.org/crops/cayenne-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cayenne_pepper",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff395",
+    "name": "celebrity tomato",
+    "growstuff_url": "http://growstuff.org/crops/celebrity-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Celebrity_(tomato)",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff42",
+    "name": "celeriac",
+    "growstuff_url": "http://growstuff.org/crops/celeriac",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Celeriac",
+    "scientific": "Apium graveolens var. rapaceum",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff43",
+    "name": "celery",
+    "growstuff_url": "http://growstuff.org/crops/celery",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Celery",
+    "scientific": "Apium graveolens",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff374",
+    "name": "celtuce",
+    "growstuff_url": "http://growstuff.org/crops/celtuce",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Celtuce",
+    "scientific": "Lactuca sativa var. asparagina",
+    "parent_id": "plant/growstuff113",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff44",
+    "name": "chamomile",
+    "growstuff_url": "http://growstuff.org/crops/chamomile",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Matricaria_recutita",
+    "scientific": "Matricaria chamomila",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff244",
+    "name": "chard",
+    "growstuff_url": "http://growstuff.org/crops/chard",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Chard",
+    "scientific": "Beta vulgaris subsp. cicla",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff45",
+    "name": "chaya",
+    "growstuff_url": "http://growstuff.org/crops/chaya",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cnidoscolus_aconitifolius",
+    "scientific": "Cnidoscolus aconitifolius",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "cutting"
+  },
+  {
+    "_id": "plant/growstuff46",
+    "name": "chayote",
+    "growstuff_url": "http://growstuff.org/crops/chayote",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chayote",
+    "scientific": "Sechium edule",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff396",
+    "name": "Cherokee purple tomato",
+    "growstuff_url": "http://growstuff.org/crops/cherokee-purple-tomato",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cherokee_purple",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff47",
+    "name": "cherry",
+    "growstuff_url": "http://growstuff.org/crops/cherry",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cherry",
+    "scientific": "Prunus avium",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "bare root plant"
+  },
+  {
+    "_id": "plant/growstuff397",
+    "name": "cherry tomato",
+    "growstuff_url": "http://growstuff.org/crops/cherry-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cherry_tomato",
+    "scientific": "Solanum lycopersicum var. cerasiforme",
+    "parent_id": "plant/growstuff216",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff48",
+    "name": "chervil",
+    "growstuff_url": "http://growstuff.org/crops/chervil",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chervil",
+    "scientific": "Anthriscus cerefolium",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff49",
+    "name": "chestnut",
+    "growstuff_url": "http://growstuff.org/crops/chestnut",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chestnut",
+    "scientific": "Castanea spp.",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff427",
+    "name": "chia",
+    "growstuff_url": "http://growstuff.org/crops/chia",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Salvia_hispanica",
+    "scientific": "Salvia hispanica",
+    "parent_id": "plant/growstuff424",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff50",
+    "name": "chickpeas",
+    "growstuff_url": "http://growstuff.org/crops/chickpeas",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chickpea",
+    "scientific": "Cicer arietinum",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff51",
+    "name": "chickweed",
+    "growstuff_url": "http://growstuff.org/crops/chickweed",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stellaria",
+    "scientific": "Stellaria",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff52",
+    "name": "chicory",
+    "growstuff_url": "http://growstuff.org/crops/chicory",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chicory",
+    "scientific": "Cichorium intybus",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff321",
+    "name": "chile de  rbol pepper",
+    "growstuff_url": "http://growstuff.org/crops/chile-de-arbol-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Chile_de_árbol",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff318",
+    "name": "chiltepin pepper",
+    "growstuff_url": "http://growstuff.org/crops/chiltepin-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Capsicum_annuum_var._glabriusculum",
+    "scientific": "Capsicum annuum var. glabriusculum",
+    "parent_id": "plant/growstuff307",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff53",
+    "name": "chinese cabbage",
+    "growstuff_url": "http://growstuff.org/crops/chinese-cabbage",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chinese_cabbage",
+    "scientific": "Brassica rapa (pekinensis)",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff566",
+    "name": "Chinese ginger",
+    "growstuff_url": "http://growstuff.org/crops/chinese-ginger",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Boesenbergia_rotunda",
+    "scientific": "Boesenbergia rotunda",
+    "parent_id": "plant/growstuff562",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff541",
+    "name": "Chinese serviceberry",
+    "growstuff_url": "http://growstuff.org/crops/chinese-serviceberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Amelanchier_sinica",
+    "scientific": "Amelanchier sinica",
+    "parent_id": "plant/growstuff529",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff54",
+    "name": "chives",
+    "growstuff_url": "http://growstuff.org/crops/chives",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chives",
+    "scientific": "Allium schoenoprasum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff237",
+    "name": "choy sum",
+    "growstuff_url": "http://growstuff.org/crops/choy-sum",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Choy_sum",
+    "scientific": "Brassica rapa var. parachinensis",
+    "parent_id": "plant/growstuff479",
+    "shade": "semi-shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff319",
+    "name": "Chungyang red pepper",
+    "growstuff_url": "http://growstuff.org/crops/chungyang-red-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Chungyang_Red_Pepper",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff55",
+    "name": "cicely",
+    "growstuff_url": "http://growstuff.org/crops/cicely",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cicely",
+    "scientific": "Myrrhis odorata",
+    "parent_id": "",
+    "shade": "shade",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff462",
+    "name": "cinnamon basil",
+    "growstuff_url": "http://growstuff.org/crops/cinnamon-basil",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cinnamon_basil",
+    "scientific": "Ocimum basilicum",
+    "parent_id": "plant/growstuff20",
+    "shade": "semi-shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff56",
+    "name": "citron",
+    "growstuff_url": "http://growstuff.org/crops/citron",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Citron",
+    "scientific": "Citrus medica",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff57",
+    "name": "coconut",
+    "growstuff_url": "http://growstuff.org/crops/coconut",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Coconut",
+    "scientific": "Cocos nucifera",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff232",
+    "name": "coffee",
+    "growstuff_url": "http://growstuff.org/crops/coffee",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Coffee",
+    "scientific": "Coffea",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff58",
+    "name": "collard greens",
+    "growstuff_url": "http://growstuff.org/crops/collard-greens",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Collard_greens",
+    "scientific": "Brassica oleracea (acephala)",
+    "parent_id": "plant/growstuff477",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff59",
+    "name": "comfrey",
+    "growstuff_url": "http://growstuff.org/crops/comfrey",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Comfrey",
+    "scientific": "Symphytum officinale",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "root division"
+  },
+  {
+    "_id": "plant/growstuff558",
+    "name": "common blueberry",
+    "growstuff_url": "http://growstuff.org/crops/common-blueberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Vaccinium_myrtilloides",
+    "scientific": "Vaccinium myrtilloides",
+    "parent_id": "plant/growstuff240",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff304",
+    "name": "common mushroom",
+    "growstuff_url": "http://growstuff.org/crops/common-mushroom",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Agaricus_bisporus",
+    "scientific": "Agaricus bisporus",
+    "parent_id": "plant/growstuff303",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff444",
+    "name": "common thyme",
+    "growstuff_url": "http://growstuff.org/crops/common-thyme",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Thymus_vulgaris",
+    "scientific": "Thymus vulgaris",
+    "parent_id": "plant/growstuff214",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff60",
+    "name": "coriander",
+    "growstuff_url": "http://growstuff.org/crops/coriander",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Coriander",
+    "scientific": "Coriandrum sativum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff61",
+    "name": "corn",
+    "growstuff_url": "http://growstuff.org/crops/corn",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Corn",
+    "scientific": "Zea mays",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff62",
+    "name": "corn salad",
+    "growstuff_url": "http://growstuff.org/crops/corn-salad",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Corn_salad",
+    "scientific": "Valerianella locusta",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff458",
+    "name": "Corsican mint",
+    "growstuff_url": "http://growstuff.org/crops/corsican-mint",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mentha_requienii",
+    "scientific": "Mentha requienii",
+    "parent_id": "plant/growstuff131",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff372",
+    "name": "cowpea",
+    "growstuff_url": "http://growstuff.org/crops/cowpea",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cowpea",
+    "scientific": "Vigna unguiculata",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff449",
+    "name": "creeping thyme",
+    "growstuff_url": "http://growstuff.org/crops/creeping-thyme",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Thymus_praecox",
+    "scientific": "Thymus praecox",
+    "parent_id": "plant/growstuff214",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff63",
+    "name": "cress",
+    "growstuff_url": "http://growstuff.org/crops/cress",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Garden_cress",
+    "scientific": "Lepidium sativum",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff439",
+    "name": "Cretan oregano",
+    "growstuff_url": "http://growstuff.org/crops/cretan-oregano",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Origanum_onites",
+    "scientific": "Origanum onites",
+    "parent_id": "plant/growstuff142",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff432",
+    "name": "crimson beebalm",
+    "growstuff_url": "http://growstuff.org/crops/crimson-beebalm",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Monarda_didyma",
+    "scientific": "Monarda didyma",
+    "parent_id": "plant/growstuff429",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff320",
+    "name": "cubanelle pepper",
+    "growstuff_url": "http://growstuff.org/crops/cubanelle-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cubanelle",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff261",
+    "name": "cucamelon",
+    "growstuff_url": "http://growstuff.org/crops/cucamelon",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Melothria_scabra",
+    "scientific": "Melothria scabra",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff64",
+    "name": "cucumber",
+    "growstuff_url": "http://growstuff.org/crops/cucumber",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cucumbers",
+    "scientific": "Cucumis sativus",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff507",
+    "name": "Cucurbita maxima",
+    "growstuff_url": "http://growstuff.org/crops/cucurbita-maxima",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cucurbita_maxima",
+    "scientific": "Cucurbita maxima",
+    "parent_id": "plant/growstuff251",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff508",
+    "name": "Cucurbita moschata",
+    "growstuff_url": "http://growstuff.org/crops/cucurbita-moschata",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cucurbita_moschata",
+    "scientific": "Cucurbita moschata",
+    "parent_id": "plant/growstuff251",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff509",
+    "name": "Cucurbita pepo",
+    "growstuff_url": "http://growstuff.org/crops/cucurbita-pepo",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cucurbita_pepo",
+    "scientific": "Cucurbita pepo",
+    "parent_id": "plant/growstuff251",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff65",
+    "name": "cumin",
+    "growstuff_url": "http://growstuff.org/crops/cumin",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cumin",
+    "scientific": "Cuminum cyminum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff66",
+    "name": "cumquat",
+    "growstuff_url": "http://growstuff.org/crops/cumquat",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kumquat",
+    "scientific": "Citrus japonica",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff398",
+    "name": "currant tomato",
+    "growstuff_url": "http://growstuff.org/crops/currant-tomato",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Solanum_pimpinellifolium",
+    "scientific": "Solanum pimpinellifolium",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff67",
+    "name": "curry leaf",
+    "growstuff_url": "http://growstuff.org/crops/curry-leaf",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Curry-leaf_Tree",
+    "scientific": "Murraya koenigii",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff68",
+    "name": "curry plant",
+    "growstuff_url": "http://growstuff.org/crops/curry-plant",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Helichrysum_italicum",
+    "scientific": "Helichrysum italicum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff69",
+    "name": "daikon",
+    "growstuff_url": "http://growstuff.org/crops/daikon",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Daikon",
+    "scientific": "Raphanus sativus Longipinnatus group",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff70",
+    "name": "dandelion",
+    "growstuff_url": "http://growstuff.org/crops/dandelion",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dandelion",
+    "scientific": "Taraxacum officinale",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff463",
+    "name": "dark opal basil",
+    "growstuff_url": "http://growstuff.org/crops/dark-opal-basil",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Dark_opal_basil",
+    "scientific": "Ocimum basilicum",
+    "parent_id": "plant/growstuff20",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff71",
+    "name": "dates",
+    "growstuff_url": "http://growstuff.org/crops/dates",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Date_(fruit)",
+    "scientific": "Phoenix dactylifera",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff347",
+    "name": "datil pepper",
+    "growstuff_url": "http://growstuff.org/crops/datil-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Datil_pepper",
+    "scientific": "Capsicum chinense",
+    "parent_id": "plant/growstuff309",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff516",
+    "name": "delicata squash",
+    "growstuff_url": "http://growstuff.org/crops/delicata-squash",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Delicata_squash",
+    "scientific": "Cucurbita pepo var. pepo",
+    "parent_id": "plant/growstuff509",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff72",
+    "name": "desert lime",
+    "growstuff_url": "http://growstuff.org/crops/desert-lime",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Citrus_glauca",
+    "scientific": "Citrus glauca",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff73",
+    "name": "dill",
+    "growstuff_url": "http://growstuff.org/crops/dill",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dill",
+    "scientific": "Anethum graveolens",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff74",
+    "name": "dog rose",
+    "growstuff_url": "http://growstuff.org/crops/dog-rose",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rosa_canina",
+    "scientific": "Rosa canina",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff532",
+    "name": "downy serviceberry",
+    "growstuff_url": "http://growstuff.org/crops/downy-serviceberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Amelanchier_arborea",
+    "scientific": "Amelanchier arborea",
+    "parent_id": "plant/growstuff529",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff322",
+    "name": "dundicut",
+    "growstuff_url": "http://growstuff.org/crops/dundicut",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Dundicut",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff75",
+    "name": "durian",
+    "growstuff_url": "http://growstuff.org/crops/durian",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Durian",
+    "scientific": "Durio",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff399",
+    "name": "early girl tomato",
+    "growstuff_url": "http://growstuff.org/crops/early-girl-tomato",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Early_Girl",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff76",
+    "name": "eggplant",
+    "growstuff_url": "http://growstuff.org/crops/eggplant",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eggplant",
+    "scientific": "Solanum melongena",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff77",
+    "name": "elderberry",
+    "growstuff_url": "http://growstuff.org/crops/elderberry",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sambucus_nigra",
+    "scientific": "Sambucus nigra",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "cutting"
+  },
+  {
+    "_id": "plant/growstuff249",
+    "name": "elecampane",
+    "growstuff_url": "http://growstuff.org/crops/elecampane",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Elecampane",
+    "scientific": "Inula helenium",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff380",
+    "name": "elephant garlic",
+    "growstuff_url": "http://growstuff.org/crops/elephant-garlic",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Elephant_garlic",
+    "scientific": "Allium ampeloprasum var. ampeloprasum",
+    "parent_id": "plant/growstuff106",
+    "shade": "semi-shade",
+    "plant_from": "bulb"
+  },
+  {
+    "_id": "plant/growstuff555",
+    "name": "Elliott's blueberry",
+    "growstuff_url": "http://growstuff.org/crops/elliott-s-blueberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Vaccinium_elliottii",
+    "scientific": "Vaccinium elliottii",
+    "parent_id": "plant/growstuff240",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff472",
+    "name": "elongated mustard",
+    "growstuff_url": "http://growstuff.org/crops/elongated-mustard",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brassica_elongata",
+    "scientific": "Brassica elongata",
+    "parent_id": "plant/growstuff470",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff78",
+    "name": "endive",
+    "growstuff_url": "http://growstuff.org/crops/endive",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Endive",
+    "scientific": "Cichorium endivia",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff467",
+    "name": "English lavender",
+    "growstuff_url": "http://growstuff.org/crops/english-lavender",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lavandula_angustifolia",
+    "scientific": "Lavandula angustifolia",
+    "parent_id": "plant/growstuff105",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff545",
+    "name": "enoki mushroom",
+    "growstuff_url": "http://growstuff.org/crops/enoki-mushroom",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Enokitake",
+    "scientific": "Flammulina velutipes",
+    "parent_id": "plant/growstuff303",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff79",
+    "name": "epazote",
+    "growstuff_url": "http://growstuff.org/crops/epazote",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Epazote",
+    "scientific": "Dysphania ambrosioides",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff471",
+    "name": "Ethiopian mustard",
+    "growstuff_url": "http://growstuff.org/crops/ethiopian-mustard",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brassica_carinata",
+    "scientific": "Brassica carinata",
+    "parent_id": "plant/growstuff470",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff554",
+    "name": "evergreen blueberry",
+    "growstuff_url": "http://growstuff.org/crops/evergreen-blueberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Vaccinium_darrowii",
+    "scientific": "Vaccinium darrowii",
+    "parent_id": "plant/growstuff240",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff323",
+    "name": "facing heaven pepper",
+    "growstuff_url": "http://growstuff.org/crops/facing-heaven-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Facing_heaven_pepper",
+    "scientific": "Capsicum annuum var. conoides",
+    "parent_id": "plant/growstuff307",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff348",
+    "name": "fatalii pepper",
+    "growstuff_url": "http://growstuff.org/crops/fatalii-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Fatalii",
+    "scientific": "Capsicum chinense",
+    "parent_id": "plant/growstuff309",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff80",
+    "name": "fava bean",
+    "growstuff_url": "http://growstuff.org/crops/fava-bean",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vicia_faba",
+    "scientific": "Vicia faba",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff81",
+    "name": "feijoa",
+    "growstuff_url": "http://growstuff.org/crops/feijoa",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Acca_sellowiana",
+    "scientific": "Acca sellowiana",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff82",
+    "name": "fennel",
+    "growstuff_url": "http://growstuff.org/crops/fennel",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fennel",
+    "scientific": "Foeniculum vulgare",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff83",
+    "name": "fenugreek",
+    "growstuff_url": "http://growstuff.org/crops/fenugreek",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fenugreek",
+    "scientific": "Trigonella foenum-graecum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff84",
+    "name": "fiddlehead",
+    "growstuff_url": "http://growstuff.org/crops/fiddlehead",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fiddlehead",
+    "scientific": "Pteridium aquilinum",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff85",
+    "name": "fig",
+    "growstuff_url": "http://growstuff.org/crops/fig",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Common_fig",
+    "scientific": "Ficus carica",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff524",
+    "name": "fino verde basil",
+    "growstuff_url": "http://growstuff.org/crops/fino-verde-basil",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Fino_verde_basil",
+    "scientific": "Ocimum basilicum piccolo",
+    "parent_id": "plant/growstuff20",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff86",
+    "name": "flax",
+    "growstuff_url": "http://growstuff.org/crops/flax",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Flax",
+    "scientific": "Linum usitatissimum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff400",
+    "name": "Fourth of July tomato",
+    "growstuff_url": "http://growstuff.org/crops/fourth-of-july-tomato",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fourth_of_July_(tomato_variety)",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff468",
+    "name": "French lavender",
+    "growstuff_url": "http://growstuff.org/crops/french-lavender",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lavandula_stoechas",
+    "scientific": "Lavandula stoechas",
+    "parent_id": "plant/growstuff105",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff324",
+    "name": "Fresno pepper",
+    "growstuff_url": "http://growstuff.org/crops/fresno-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Fresno_pepper",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff366",
+    "name": "fuzzy kiwifruit",
+    "growstuff_url": "http://growstuff.org/crops/fuzzy-kiwifruit",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Actinidia_deliciosa",
+    "scientific": "Actinidia deliciosa",
+    "parent_id": "plant/growstuff365",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff562",
+    "name": "galangal",
+    "growstuff_url": "http://growstuff.org/crops/galangal",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Galangal",
+    "scientific": "",
+    "parent_id": "plant/growstuff89",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff459",
+    "name": "garden mint",
+    "growstuff_url": "http://growstuff.org/crops/garden-mint",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mentha_sachalinensis",
+    "scientific": "Mentha sachalinensis",
+    "parent_id": "plant/growstuff131",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff401",
+    "name": "garden peach tomato",
+    "growstuff_url": "http://growstuff.org/crops/garden-peach-tomato",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Garden_peach_tomato",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff87",
+    "name": "garlic",
+    "growstuff_url": "http://growstuff.org/crops/garlic",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Garlic",
+    "scientific": "Allium sativum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "bulb"
+  },
+  {
+    "_id": "plant/growstuff88",
+    "name": "garlic chives",
+    "growstuff_url": "http://growstuff.org/crops/garlic-chives",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Garlic_chives",
+    "scientific": "Allium tuberosum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff517",
+    "name": "gem squash",
+    "growstuff_url": "http://growstuff.org/crops/gem-squash",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Gem_squash",
+    "scientific": "Cucurbita pepo",
+    "parent_id": "plant/growstuff509",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff520",
+    "name": "Genovese basil",
+    "growstuff_url": "http://growstuff.org/crops/genovese-basil",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Genovese_basil",
+    "scientific": "Ocimum basilicum",
+    "parent_id": "plant/growstuff20",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff89",
+    "name": "ginger",
+    "growstuff_url": "http://growstuff.org/crops/ginger",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ginger",
+    "scientific": "Zingiber officinale",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "root division"
+  },
+  {
+    "_id": "plant/growstuff285",
+    "name": "goji",
+    "growstuff_url": "http://growstuff.org/crops/goji",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Goji",
+    "scientific": "Lycium barbarum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff367",
+    "name": "golden kiwifruit",
+    "growstuff_url": "http://growstuff.org/crops/golden-kiwifruit",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Actinidia_chinensis",
+    "scientific": "Actinidia chinensis",
+    "parent_id": "plant/growstuff365",
+    "shade": "shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff364",
+    "name": "Good King Henry",
+    "growstuff_url": "http://growstuff.org/crops/good-king-henry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Blitum_bonus-henricus",
+    "scientific": "Blitum bonus-henricus",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff90",
+    "name": "gooseberry",
+    "growstuff_url": "http://growstuff.org/crops/gooseberry",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gooseberry",
+    "scientific": "Ribes uva-crispa",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "bare root plant"
+  },
+  {
+    "_id": "plant/growstuff561",
+    "name": "grains of paradise",
+    "growstuff_url": "http://growstuff.org/crops/grains-of-paradise",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Aframomum_melegueta",
+    "scientific": "Aframomum melegueta",
+    "parent_id": "plant/growstuff89",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff91",
+    "name": "grapefruit",
+    "growstuff_url": "http://growstuff.org/crops/grapefruit",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Grapefruit",
+    "scientific": "Citrus paradisi",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff92",
+    "name": "grapes",
+    "growstuff_url": "http://growstuff.org/crops/grapes",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Grape",
+    "scientific": "Vitis spp.",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff402",
+    "name": "grape tomato",
+    "growstuff_url": "http://growstuff.org/crops/grape-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Grape_tomato",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "semi-shade",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff563",
+    "name": "greater galangal",
+    "growstuff_url": "http://growstuff.org/crops/greater-galangal",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Alpinia_galanga",
+    "scientific": "Alpinia galanga",
+    "parent_id": "plant/growstuff562",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff426",
+    "name": "Greek sage",
+    "growstuff_url": "http://growstuff.org/crops/greek-sage",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Salvia_fruticosa",
+    "scientific": "Salvia fruticosa",
+    "parent_id": "plant/growstuff424",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff491",
+    "name": "greenstripe amaranth",
+    "growstuff_url": "http://growstuff.org/crops/greenstripe-amaranth",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amaranthus_acanthochiton",
+    "scientific": "Amaranthus Acanthochiton",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff403",
+    "name": "green zebra tomato",
+    "growstuff_url": "http://growstuff.org/crops/green-zebra-tomato",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Green_Zebra",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff325",
+    "name": "guajillo pepper",
+    "growstuff_url": "http://growstuff.org/crops/guajillo-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Guajillo_chili",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff93",
+    "name": "guava",
+    "growstuff_url": "http://growstuff.org/crops/guava",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Guava",
+    "scientific": "Psidium spp.",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff326",
+    "name": "Guntur Sannam chili",
+    "growstuff_url": "http://growstuff.org/crops/guntur-sannam-chili",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Guntur_Sannam",
+    "scientific": "Capsicum Annuum var. Longhum",
+    "parent_id": "plant/growstuff307",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff94",
+    "name": "habanero",
+    "growstuff_url": "http://growstuff.org/crops/habanero",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Habanero",
+    "scientific": "Capsicum chinense",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff350",
+    "name": "habanero pepper",
+    "growstuff_url": "http://growstuff.org/crops/habanero-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Habanero",
+    "scientific": "Capsicum chinense",
+    "parent_id": "plant/growstuff309",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff358",
+    "name": "Hainan yellow lantern",
+    "growstuff_url": "http://growstuff.org/crops/hainan-yellow-lantern",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Hainan_Yellow_Lantern_Chili",
+    "scientific": "Capsicum chinense",
+    "parent_id": "plant/growstuff309",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff556",
+    "name": "hairy blueberry",
+    "growstuff_url": "http://growstuff.org/crops/hairy-blueberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Vaccinium_hirsutum",
+    "scientific": "Vaccinium hirsutum",
+    "parent_id": "plant/growstuff240",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff404",
+    "name": "Hanover tomato",
+    "growstuff_url": "http://growstuff.org/crops/hanover-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Hanover_tomato",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff368",
+    "name": "hardy kiwifruit",
+    "growstuff_url": "http://growstuff.org/crops/hardy-kiwifruit",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Actinidia_arguta",
+    "scientific": "Actinidia arguta",
+    "parent_id": "plant/growstuff365",
+    "shade": "sun",
+    "plant_from": "cutting"
+  },
+  {
+    "_id": "plant/growstuff369",
+    "name": "hazelnut",
+    "growstuff_url": "http://growstuff.org/crops/hazelnut",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Hazelnut",
+    "scientific": "Corylus",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff95",
+    "name": "hibiscus",
+    "growstuff_url": "http://growstuff.org/crops/hibiscus",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hibiscus",
+    "scientific": "Hibiscus",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff405",
+    "name": "hillbilly tomato",
+    "growstuff_url": "http://growstuff.org/crops/hillbilly-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Hillbilly_(tomato)",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff559",
+    "name": "hillside blueberry",
+    "growstuff_url": "http://growstuff.org/crops/hillside-blueberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Vaccinium_pallidum",
+    "scientific": "Vaccinium pallidum",
+    "parent_id": "plant/growstuff240",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff466",
+    "name": "holy basil",
+    "growstuff_url": "http://growstuff.org/crops/holy-basil",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Holy_basil",
+    "scientific": "Ocimum tenuiflorum",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff546",
+    "name": "Honeyberry",
+    "growstuff_url": "http://growstuff.org/crops/honeyberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lonicera_caerulea",
+    "scientific": "Lonicera caerulea",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff275",
+    "name": "honeydew melon",
+    "growstuff_url": "http://growstuff.org/crops/honeydew-melon",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Honeydew_(melon)",
+    "scientific": "Cucumis melo",
+    "parent_id": "plant/growstuff274",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff253",
+    "name": "hops",
+    "growstuff_url": "http://growstuff.org/crops/hops",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Hops",
+    "scientific": "Humulus lupulus",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff96",
+    "name": "horseradish",
+    "growstuff_url": "http://growstuff.org/crops/horseradish",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Horseradish",
+    "scientific": "Armoracia rusticana",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff448",
+    "name": "Hungarian thyme",
+    "growstuff_url": "http://growstuff.org/crops/hungarian-thyme",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Thymus_pannonicus",
+    "scientific": "Thymus pannonicus",
+    "parent_id": "plant/growstuff214",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff327",
+    "name": "Hungarian wax pepper",
+    "growstuff_url": "http://growstuff.org/crops/hungarian-wax-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Hungarian_wax_pepper",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff469",
+    "name": "hyssop",
+    "growstuff_url": "http://growstuff.org/crops/hyssop",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Hyssop",
+    "scientific": "Hyssopus officinalis",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff379",
+    "name": "ice-cream bean",
+    "growstuff_url": "http://growstuff.org/crops/ice-cream-bean",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Inga_edulis",
+    "scientific": "Inga edulis",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff283",
+    "name": "ice plant",
+    "growstuff_url": "http://growstuff.org/crops/ice-plant",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Carpobrotus_edulis",
+    "scientific": "Carpobrotus edulis",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff536",
+    "name": "inland serviceberry",
+    "growstuff_url": "http://growstuff.org/crops/inland-serviceberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Amelanchier_interior",
+    "scientific": "Amelanchier interior",
+    "parent_id": "plant/growstuff529",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff328",
+    "name": "Italian sweet pepper",
+    "growstuff_url": "http://growstuff.org/crops/italian-sweet-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Italian_sweet_pepper",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff518",
+    "name": "jabuticaba",
+    "growstuff_url": "http://growstuff.org/crops/jabuticaba",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jabuticaba",
+    "scientific": "Plinia cauliflora",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "bare root plant"
+  },
+  {
+    "_id": "plant/growstuff329",
+    "name": "jalape¤o pepper",
+    "growstuff_url": "http://growstuff.org/crops/jalapeno-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Jalapeño",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff487",
+    "name": "January king cabbage",
+    "growstuff_url": "http://growstuff.org/crops/january-king-cabbage",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/January_King_Cabbage",
+    "scientific": "Brassica oleracea var. sabauda",
+    "parent_id": "plant/growstuff476",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff505",
+    "name": "Japanese pie pumpkin",
+    "growstuff_url": "http://growstuff.org/crops/japanese-pie-pumpkin",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cucurbita_argyrosperma",
+    "scientific": "Cucurbita argyosperma",
+    "parent_id": "plant/growstuff251",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff97",
+    "name": "jasmine",
+    "growstuff_url": "http://growstuff.org/crops/jasmine",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jasmine",
+    "scientific": "Jasminum officinale",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff98",
+    "name": "Jerusalem artichoke",
+    "growstuff_url": "http://growstuff.org/crops/jerusalem-artichoke",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jerusalem_artichoke",
+    "scientific": "Helianthus tuberosus",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "runner"
+  },
+  {
+    "_id": "plant/growstuff99",
+    "name": "jicama",
+    "growstuff_url": "http://growstuff.org/crops/jicama",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jicama",
+    "scientific": "Pachyrhizus erosus",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff406",
+    "name": "jubilee tomato",
+    "growstuff_url": "http://growstuff.org/crops/jubilee-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Jubilee_(tomato)",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff100",
+    "name": "juniper berry",
+    "growstuff_url": "http://growstuff.org/crops/juniper-berry",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Juniper_berry",
+    "scientific": "Juniperus communis",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff268",
+    "name": "kabocha",
+    "growstuff_url": "http://growstuff.org/crops/kabocha",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Kabocha",
+    "scientific": "Cucurbita maxima",
+    "parent_id": "plant/growstuff507",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff101",
+    "name": "kaffir lime",
+    "growstuff_url": "http://growstuff.org/crops/kaffir-lime",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kaffir_lime",
+    "scientific": "Citrus x hystrix",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff478",
+    "name": "kai lan",
+    "growstuff_url": "http://growstuff.org/crops/kai-lan",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kai-lan",
+    "scientific": "Brassica oleracea Alboglabra Group",
+    "parent_id": "plant/growstuff470",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff102",
+    "name": "kale",
+    "growstuff_url": "http://growstuff.org/crops/kale",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kale",
+    "scientific": "Brassica oleracea (acephala)",
+    "parent_id": "plant/growstuff477",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff363",
+    "name": "kambuzi",
+    "growstuff_url": "http://growstuff.org/crops/kambuzi",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Kambuzi",
+    "scientific": "Capsicum frutescens",
+    "parent_id": "plant/growstuff311",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff103",
+    "name": "kava",
+    "growstuff_url": "http://growstuff.org/crops/kava",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kava",
+    "scientific": "Piper methysticum",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff365",
+    "name": "kiwifruit",
+    "growstuff_url": "http://growstuff.org/crops/kiwifruit",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Kiwifruit",
+    "scientific": "http://en.wikipedia.org/wiki/Actinidia",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff104",
+    "name": "kohlrabi",
+    "growstuff_url": "http://growstuff.org/crops/kohlrabi",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kohlrabi",
+    "scientific": "Brassica oleracea (gongylodes)",
+    "parent_id": "plant/growstuff476",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff489",
+    "name": "komatsuna",
+    "growstuff_url": "http://growstuff.org/crops/komatsuna",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Komatsuna",
+    "scientific": "Brassica rapa var. perviridis",
+    "parent_id": "plant/growstuff479",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff437",
+    "name": "Korean mint",
+    "growstuff_url": "http://growstuff.org/crops/korean-mint",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Agastache_rugosa",
+    "scientific": "Agastache rugosa",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff490",
+    "name": "lacinato kale",
+    "growstuff_url": "http://growstuff.org/crops/lacinato-kale",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lacinato_kale",
+    "scientific": "Brassica oleracea Acephala group",
+    "parent_id": "plant/growstuff102",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff250",
+    "name": "lady's bedstraw",
+    "growstuff_url": "http://growstuff.org/crops/lady-s-bedstraw",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Galium_verum",
+    "scientific": "Galium verum",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff259",
+    "name": "land cress",
+    "growstuff_url": "http://growstuff.org/crops/land-cress",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Barbarea_verna",
+    "scientific": "Barbarea verna",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff105",
+    "name": "lavender",
+    "growstuff_url": "http://growstuff.org/crops/lavender",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lavandula",
+    "scientific": "Lavandula spp.",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff106",
+    "name": "leek",
+    "growstuff_url": "http://growstuff.org/crops/leek",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Leeks",
+    "scientific": "Allium ampeloprasum var. porrum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff107",
+    "name": "lemon",
+    "growstuff_url": "http://growstuff.org/crops/lemon",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lemon",
+    "scientific": "Citrus limon",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff108",
+    "name": "lemon balm",
+    "growstuff_url": "http://growstuff.org/crops/lemon-balm",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Melissa_officinalis",
+    "scientific": "Melissa officinalis",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff465",
+    "name": "lemon basil",
+    "growstuff_url": "http://growstuff.org/crops/lemon-basil",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lemon_basil",
+    "scientific": "Ocimum ž citriodorum",
+    "parent_id": "plant/growstuff20",
+    "shade": "semi-shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff430",
+    "name": "lemon beebalm",
+    "growstuff_url": "http://growstuff.org/crops/lemon-beebalm",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Monarda_citriodora",
+    "scientific": "Monarda citriodora",
+    "parent_id": "plant/growstuff429",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff341",
+    "name": "lemon drop pepper",
+    "growstuff_url": "http://growstuff.org/crops/lemon-drop-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lemon_drop_(pepper)",
+    "scientific": "Capsicum baccatum",
+    "parent_id": "plant/growstuff308",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff111",
+    "name": "lemongrass",
+    "growstuff_url": "http://growstuff.org/crops/lemongrass",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lemongrass",
+    "scientific": "Cymbopogon spp.",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff109",
+    "name": "lemon myrtle",
+    "growstuff_url": "http://growstuff.org/crops/lemon-myrtle",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Backhousia_citriodora",
+    "scientific": "Backhousia citriodora",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff447",
+    "name": "lemon thyme",
+    "growstuff_url": "http://growstuff.org/crops/lemon-thyme",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Thymus_citriodorus",
+    "scientific": "Thymus citriodorus",
+    "parent_id": "plant/growstuff214",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff110",
+    "name": "lemon verbena",
+    "growstuff_url": "http://growstuff.org/crops/lemon-verbena",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aloysia_citrodora",
+    "scientific": "Aloysia citrodora",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff112",
+    "name": "lentils",
+    "growstuff_url": "http://growstuff.org/crops/lentils",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lentil",
+    "scientific": "Lens culinaris",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff443",
+    "name": "lesser calamint",
+    "growstuff_url": "http://growstuff.org/crops/lesser-calamint",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Calamintha_nepeta",
+    "scientific": "Calamintha nepeta",
+    "parent_id": "plant/growstuff442",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff564",
+    "name": "lesser galangal",
+    "growstuff_url": "http://growstuff.org/crops/lesser-galangal",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Alpinia_officinarum",
+    "scientific": "Alpinia officinarum",
+    "parent_id": "plant/growstuff562",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff113",
+    "name": "lettuce",
+    "growstuff_url": "http://growstuff.org/crops/lettuce",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lettuce",
+    "scientific": "Lactuca sativa",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff521",
+    "name": "lettuce leaf basil",
+    "growstuff_url": "http://growstuff.org/crops/lettuce-leaf-basil",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lettuce_leaf_basil",
+    "scientific": "Ocimum basilicum",
+    "parent_id": "plant/growstuff20",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff114",
+    "name": "licorice",
+    "growstuff_url": "http://growstuff.org/crops/licorice",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Licorice",
+    "scientific": "Glycyrrhiza glabra",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff407",
+    "name": "lillian's yellow tomato",
+    "growstuff_url": "http://growstuff.org/crops/lillian-s-yellow-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lillian's_Yellow_(tomato)",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff115",
+    "name": "lillipilli",
+    "growstuff_url": "http://growstuff.org/crops/lillipilli",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Syzygium_luehmannii",
+    "scientific": "Syzygium luehmannii",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff116",
+    "name": "lima bean",
+    "growstuff_url": "http://growstuff.org/crops/lima-bean",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Phaseolus_lunatus",
+    "scientific": "Phaseolus lunatus",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff117",
+    "name": "lime",
+    "growstuff_url": "http://growstuff.org/crops/lime",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lime_(fruit)",
+    "scientific": "Citrus spp.",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff238",
+    "name": "loquat",
+    "growstuff_url": "http://growstuff.org/crops/loquat",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Loquat",
+    "scientific": "Eriobotrya japonica",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff118",
+    "name": "lovage",
+    "growstuff_url": "http://growstuff.org/crops/lovage",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lovage",
+    "scientific": "Levisticum officinale",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff531",
+    "name": "lovely shadbush",
+    "growstuff_url": "http://growstuff.org/crops/lovely-shadbush",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Amelanchier_amabilis",
+    "scientific": "Amelanchier amabilis",
+    "parent_id": "plant/growstuff529",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff548",
+    "name": "lowbush blueberry",
+    "growstuff_url": "http://growstuff.org/crops/lowbush-blueberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Vaccinium_angustifolium",
+    "scientific": "Vaccinium angustifolium",
+    "parent_id": "plant/growstuff240",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff535",
+    "name": "low shadbush",
+    "growstuff_url": "http://growstuff.org/crops/low-shadbush",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Amelanchier_humilis",
+    "scientific": "Amelanchier humilis",
+    "parent_id": "plant/growstuff529",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff119",
+    "name": "luffa",
+    "growstuff_url": "http://growstuff.org/crops/luffa",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Luffa",
+    "scientific": "Luffa cylindrica",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff287",
+    "name": "lupin",
+    "growstuff_url": "http://growstuff.org/crops/lupin",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Lupin",
+    "scientific": "Lupinus",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff120",
+    "name": "lupin bean",
+    "growstuff_url": "http://growstuff.org/crops/lupin-bean",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lupin_bean",
+    "scientific": "Lupinus luteus",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff121",
+    "name": "macadamia",
+    "growstuff_url": "http://growstuff.org/crops/macadamia",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Macadamia",
+    "scientific": "Macadamia",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff349",
+    "name": "Madame Jeanette pepper",
+    "growstuff_url": "http://growstuff.org/crops/madame-jeanette-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Madame_Jeanette",
+    "scientific": "Capsicum chinense",
+    "parent_id": "plant/growstuff309",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff526",
+    "name": "magical Michael basil",
+    "growstuff_url": "http://growstuff.org/crops/magical-michael-basil",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Magical_Michael",
+    "scientific": "Ocimum basilicum",
+    "parent_id": "plant/growstuff20",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff122",
+    "name": "Malabar spinach",
+    "growstuff_url": "http://growstuff.org/crops/malabar-spinach",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Basella_alba",
+    "scientific": "Basella alba",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff361",
+    "name": "malagueta pepper",
+    "growstuff_url": "http://growstuff.org/crops/malagueta-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Malagueta_pepper",
+    "scientific": "Capsicum frutescens",
+    "parent_id": "plant/growstuff311",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff522",
+    "name": "mammoth basil",
+    "growstuff_url": "http://growstuff.org/crops/mammoth-basil",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mammoth_basil",
+    "scientific": "Ocimum basilicum",
+    "parent_id": "plant/growstuff20",
+    "shade": "semi-shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff123",
+    "name": "mandarin",
+    "growstuff_url": "http://growstuff.org/crops/mandarin",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mandarin_orange",
+    "scientific": "Citrus reticulata",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff124",
+    "name": "mango",
+    "growstuff_url": "http://growstuff.org/crops/mango",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mango",
+    "scientific": "Mangifera spp.",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff125",
+    "name": "maracuja",
+    "growstuff_url": "http://growstuff.org/crops/maracuja",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maracuja",
+    "scientific": "Passiflora edulis",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff408",
+    "name": "marglobe tomato",
+    "growstuff_url": "http://growstuff.org/crops/marglobe-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Marglobe",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff126",
+    "name": "marjoram",
+    "growstuff_url": "http://growstuff.org/crops/marjoram",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Marjoram",
+    "scientific": "Origanum majorana",
+    "parent_id": "plant/growstuff142",
+    "shade": "semi-shade",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff127",
+    "name": "marshmallow",
+    "growstuff_url": "http://growstuff.org/crops/marshmallow",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Althaea_officinalis",
+    "scientific": "Althaea officinalis",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff409",
+    "name": "Matt's wild cherry tomato",
+    "growstuff_url": "http://growstuff.org/crops/matt-s-wild-cherry-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Matt's_Wild_Cherry",
+    "scientific": "Solanum lycopersicum var. cerasiforme",
+    "parent_id": "plant/growstuff397",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff473",
+    "name": "Mediterranean cabbage",
+    "growstuff_url": "http://growstuff.org/crops/mediterranean-cabbage",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brassica_fruticulosa",
+    "scientific": "Brassica fruticulosa",
+    "parent_id": "plant/growstuff470",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff128",
+    "name": "medlar",
+    "growstuff_url": "http://growstuff.org/crops/medlar",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mespilus_germanica",
+    "scientific": "Mespilus germanica",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff331",
+    "name": "medusa pepper",
+    "growstuff_url": "http://growstuff.org/crops/medusa-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Medusa_pepper",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff129",
+    "name": "melon",
+    "growstuff_url": "http://growstuff.org/crops/melon",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Melon",
+    "scientific": "Cucumis melo",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff252",
+    "name": "Mexican tarragon",
+    "growstuff_url": "http://growstuff.org/crops/mexican-tarragon",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tagetes_lucida",
+    "scientific": "Tagetes lucida",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff257",
+    "name": "Meyer lemon",
+    "growstuff_url": "http://growstuff.org/crops/meyer-lemon",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Meyer_lemon",
+    "scientific": "Citrus ž meyeri",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff292",
+    "name": "midgen berry",
+    "growstuff_url": "http://growstuff.org/crops/midgen-berry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Austromyrtus_dulcis",
+    "scientific": "Austromyrtus dulcis",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "cutting"
+  },
+  {
+    "_id": "plant/growstuff276",
+    "name": "milkweed",
+    "growstuff_url": "http://growstuff.org/crops/milkweed",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Asclepias",
+    "scientific": "Asclepias",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff130",
+    "name": "miner's lettuce",
+    "growstuff_url": "http://growstuff.org/crops/miner-s-lettuce",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Claytonia_perfoliata",
+    "scientific": "Claytonia perfoliata",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff131",
+    "name": "mint",
+    "growstuff_url": "http://growstuff.org/crops/mint",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mentha",
+    "scientific": "Mentha spicata",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff235",
+    "name": "mizuna",
+    "growstuff_url": "http://growstuff.org/crops/mizuna",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mizuna",
+    "scientific": "Brassica rapa nipposinica",
+    "parent_id": "plant/growstuff479",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff279",
+    "name": "moringa",
+    "growstuff_url": "http://growstuff.org/crops/moringa",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Moringa",
+    "scientific": "Moringa",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff410",
+    "name": "mortgage lifter tomato",
+    "growstuff_url": "http://growstuff.org/crops/mortgage-lifter-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mortgage_Lifter",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff533",
+    "name": "mountain serviceberry",
+    "growstuff_url": "http://growstuff.org/crops/mountain-serviceberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Amelanchier_bartramiana",
+    "scientific": "Amelanchier bartramiana",
+    "parent_id": "plant/growstuff529",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff411",
+    "name": "Mr. Stripey tomato",
+    "growstuff_url": "http://growstuff.org/crops/mr-stripey-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mr._Stripey",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff332",
+    "name": "mulato pepper",
+    "growstuff_url": "http://growstuff.org/crops/mulato-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mulato_pepper",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff234",
+    "name": "mulberry",
+    "growstuff_url": "http://growstuff.org/crops/mulberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Morus_(plant)",
+    "scientific": "Morus",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff132",
+    "name": "mung bean",
+    "growstuff_url": "http://growstuff.org/crops/mung-bean",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mung_bean",
+    "scientific": "Vigna radiata",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff284",
+    "name": "murnong",
+    "growstuff_url": "http://growstuff.org/crops/murnong",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Microseris_lanceolata",
+    "scientific": "Microseris lanceolata",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff303",
+    "name": "mushroom",
+    "growstuff_url": "http://growstuff.org/crops/mushroom",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Edible_mushroom",
+    "scientific": "",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff274",
+    "name": "muskmelon",
+    "growstuff_url": "http://growstuff.org/crops/muskmelon",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Muskmelon",
+    "scientific": "Cucumis melo",
+    "parent_id": "plant/growstuff129",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff133",
+    "name": "mustard",
+    "growstuff_url": "http://growstuff.org/crops/mustard",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mustard_plant",
+    "scientific": "Brassica juncea",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff474",
+    "name": "mustard greens",
+    "growstuff_url": "http://growstuff.org/crops/mustard-greens",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brassica_juncea",
+    "scientific": "Brassica juncea",
+    "parent_id": "plant/growstuff470",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff375",
+    "name": "myoga ginger",
+    "growstuff_url": "http://growstuff.org/crops/myoga-ginger",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Myoga",
+    "scientific": "Zingiber mioga",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff538",
+    "name": "Nantucket serviceberry",
+    "growstuff_url": "http://growstuff.org/crops/nantucket-serviceberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Amelanchier_nantucketensis",
+    "scientific": "Amelanchier nantucketensis",
+    "parent_id": "plant/growstuff529",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff488",
+    "name": "napa cabbage",
+    "growstuff_url": "http://growstuff.org/crops/napa-cabbage",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Napa_cabbage",
+    "scientific": "Brassica rapa subsp. pekinensis",
+    "parent_id": "plant/growstuff479",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff298",
+    "name": "naranjilla",
+    "growstuff_url": "http://growstuff.org/crops/naranjilla",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Solanum_quitoense",
+    "scientific": "Solanum quitoense",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff134",
+    "name": "nasturtium",
+    "growstuff_url": "http://growstuff.org/crops/nasturtium",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tropaeolum",
+    "scientific": "Tropaeloum spp.",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff277",
+    "name": "native ginger",
+    "growstuff_url": "http://growstuff.org/crops/native-ginger",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Alpinia_caerulea",
+    "scientific": "Alpinia caerulea",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff290",
+    "name": "nectarine",
+    "growstuff_url": "http://growstuff.org/crops/nectarine",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Peach",
+    "scientific": "Prunus persica",
+    "parent_id": "plant/growstuff147",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff246",
+    "name": "nettle",
+    "growstuff_url": "http://growstuff.org/crops/nettle",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nettle",
+    "scientific": "Urtica",
+    "parent_id": "",
+    "shade": "shade",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff552",
+    "name": "New Jersey blueberry",
+    "growstuff_url": "http://growstuff.org/crops/new-jersey-blueberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Vaccinium_caesariense",
+    "scientific": "Vaccinium caesariense",
+    "parent_id": "plant/growstuff240",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff135",
+    "name": "New Zealand spinach",
+    "growstuff_url": "http://growstuff.org/crops/new-zealand-spinach",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tetragonia",
+    "scientific": "Tetragonia tetragonioides",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff136",
+    "name": "nigella",
+    "growstuff_url": "http://growstuff.org/crops/nigella",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nigella_sativa",
+    "scientific": "Nigella sativa",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff551",
+    "name": "Northern blueberry",
+    "growstuff_url": "http://growstuff.org/crops/northern-blueberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Vaccinium_boreale",
+    "scientific": "Vaccinium boreale",
+    "parent_id": "plant/growstuff240",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff553",
+    "name": "northern highbush blueberry",
+    "growstuff_url": "http://growstuff.org/crops/northern-highbush-blueberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Vaccinium_corymbosum",
+    "scientific": "Vaccinium corymbosum",
+    "parent_id": "plant/growstuff240",
+    "shade": "semi-shade",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff523",
+    "name": "nufar basil",
+    "growstuff_url": "http://growstuff.org/crops/nufar-basil",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Nufar_basil",
+    "scientific": "Ocimum basilicum",
+    "parent_id": "plant/growstuff20",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff377",
+    "name": "oak",
+    "growstuff_url": "http://growstuff.org/crops/oak",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Oak",
+    "scientific": "Quercus",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff137",
+    "name": "oats",
+    "growstuff_url": "http://growstuff.org/crops/oats",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Oats",
+    "scientific": "Avena sativa",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff289",
+    "name": "Okinawan spinach",
+    "growstuff_url": "http://growstuff.org/crops/okinawan-spinach",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Gynura_bicolor",
+    "scientific": "gynura bicolour",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "cutting"
+  },
+  {
+    "_id": "plant/growstuff138",
+    "name": "okra",
+    "growstuff_url": "http://growstuff.org/crops/okra",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Okra",
+    "scientific": "Abelmoschus esculentus",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff139",
+    "name": "olive",
+    "growstuff_url": "http://growstuff.org/crops/olive",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Olive",
+    "scientific": "Olea europaea",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff302",
+    "name": "olive herb",
+    "growstuff_url": "http://growstuff.org/crops/olive-herb",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Santolina_rosmarinifolia",
+    "scientific": "Santolina rosmarinifolia",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff140",
+    "name": "onion",
+    "growstuff_url": "http://growstuff.org/crops/onion",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Onions",
+    "scientific": "Allium cepa",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff141",
+    "name": "orange",
+    "growstuff_url": "http://growstuff.org/crops/orange",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Orange_(fruit)",
+    "scientific": "Citrus sinensis",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff142",
+    "name": "oregano",
+    "growstuff_url": "http://growstuff.org/crops/oregano",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Oregano",
+    "scientific": "Origanum vulgare",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff527",
+    "name": "osmin purple basil",
+    "growstuff_url": "http://growstuff.org/crops/osmin-purple-basil",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Osmin_purple_basil",
+    "scientific": "Ocimum basilicum",
+    "parent_id": "plant/growstuff20",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff498",
+    "name": "Palmer's amaranth",
+    "growstuff_url": "http://growstuff.org/crops/palmer-s-amaranth",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amaranthus_palmeri",
+    "scientific": "Amaranthus palmeri",
+    "parent_id": "plant/growstuff8",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff297",
+    "name": "pandan",
+    "growstuff_url": "http://growstuff.org/crops/pandan",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Pandanus_amaryllifolius",
+    "scientific": "Pandanus amaryllifolius",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff381",
+    "name": "papaya",
+    "growstuff_url": "http://growstuff.org/crops/papaya",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Papaya",
+    "scientific": "Carica papaya",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff143",
+    "name": "parsley",
+    "growstuff_url": "http://growstuff.org/crops/parsley",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Parsley",
+    "scientific": "Petroselinum hortense",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff144",
+    "name": "parsnip",
+    "growstuff_url": "http://growstuff.org/crops/parsnip",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Parsnip",
+    "scientific": "Pastinaca sativa",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff317",
+    "name": "pasilla pepper",
+    "growstuff_url": "http://growstuff.org/crops/pasilla-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Pasilla",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "semi-shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff145",
+    "name": "passion fruit",
+    "growstuff_url": "http://growstuff.org/crops/passion-fruit",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Passionfruit",
+    "scientific": "Passiflora edulis",
+    "parent_id": "",
+    "shade": "shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff269",
+    "name": "patty-pan squash",
+    "growstuff_url": "http://growstuff.org/crops/patty-pan-squash",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pattypan_squash",
+    "scientific": "",
+    "parent_id": "plant/growstuff251",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff514",
+    "name": "pattypan squash",
+    "growstuff_url": "http://growstuff.org/crops/pattypan-squash",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Pattypan_squash",
+    "scientific": "Cucurbita pepo var. clypeata",
+    "parent_id": "plant/growstuff509",
+    "shade": "semi-shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff382",
+    "name": "pawpaw",
+    "growstuff_url": "http://growstuff.org/crops/pawpaw",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Asimina_triloba",
+    "scientific": "Asimina triloba",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff146",
+    "name": "pea",
+    "growstuff_url": "http://growstuff.org/crops/pea",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pea",
+    "scientific": "Pisum sativum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff147",
+    "name": "peach",
+    "growstuff_url": "http://growstuff.org/crops/peach",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Peach",
+    "scientific": "Prunus persica",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff149",
+    "name": "peanut",
+    "growstuff_url": "http://growstuff.org/crops/peanut",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Peanut",
+    "scientific": "Arachis hypogaea",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff150",
+    "name": "pear",
+    "growstuff_url": "http://growstuff.org/crops/pear",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pear",
+    "scientific": "Pyrus spp.",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "bare root plant"
+  },
+  {
+    "_id": "plant/growstuff151",
+    "name": "pearl millet",
+    "growstuff_url": "http://growstuff.org/crops/pearl-millet",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pearl_millet",
+    "scientific": "Pennisetum glaucum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff412",
+    "name": "pear tomato",
+    "growstuff_url": "http://growstuff.org/crops/pear-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Pear_tomato",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff152",
+    "name": "pecan",
+    "growstuff_url": "http://growstuff.org/crops/pecan",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pecan",
+    "scientific": "Carya illinoinensis",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff457",
+    "name": "pennyroyal",
+    "growstuff_url": "http://growstuff.org/crops/pennyroyal",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mentha_pulegium",
+    "scientific": "Mentha pulegium",
+    "parent_id": "plant/growstuff131",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff334",
+    "name": "peperoncini pepper",
+    "growstuff_url": "http://growstuff.org/crops/peperoncini-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Peperoncini",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff342",
+    "name": "peppadew pepper",
+    "growstuff_url": "http://growstuff.org/crops/peppadew-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Peppadew",
+    "scientific": "Capsicum baccatum",
+    "parent_id": "plant/growstuff308",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff153",
+    "name": "peppermint",
+    "growstuff_url": "http://growstuff.org/crops/peppermint",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Peppermint",
+    "scientific": "Mentha x piperita",
+    "parent_id": "plant/growstuff131",
+    "shade": "semi-shade",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff335",
+    "name": "pequin pepper",
+    "growstuff_url": "http://growstuff.org/crops/pequin-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Pequin_pepper",
+    "scientific": "Capsicum annuum var. glabriusculum",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff291",
+    "name": "perilla",
+    "growstuff_url": "http://growstuff.org/crops/perilla",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Perilla_frutescens",
+    "scientific": "Perilla frutescens",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff263",
+    "name": "perpetual spinach",
+    "growstuff_url": "http://growstuff.org/crops/perpetual-spinach",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chard",
+    "scientific": "",
+    "parent_id": "plant/growstuff244",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff154",
+    "name": "Persian lime",
+    "growstuff_url": "http://growstuff.org/crops/persian-lime",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Persian_lime",
+    "scientific": "Citrus latifolia",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff155",
+    "name": "persimmon",
+    "growstuff_url": "http://growstuff.org/crops/persimmon",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Persimmon",
+    "scientific": "Diospyros spp.",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff333",
+    "name": "peter pepper",
+    "growstuff_url": "http://growstuff.org/crops/peter-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Peter_pepper",
+    "scientific": "Capsicum annuum var. annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff156",
+    "name": "pigeon pea",
+    "growstuff_url": "http://growstuff.org/crops/pigeon-pea",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pigeon_pea",
+    "scientific": "Cajanus cajan",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff157",
+    "name": "pigface",
+    "growstuff_url": "http://growstuff.org/crops/pigface",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Carpobrotus_glaucescens",
+    "scientific": "Carpobrotus glaucescens",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff336",
+    "name": "pimento pepper",
+    "growstuff_url": "http://growstuff.org/crops/pimento-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Pimiento",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff158",
+    "name": "pineapple",
+    "growstuff_url": "http://growstuff.org/crops/pineapple",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pineapple",
+    "scientific": "Ananas comosus",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff378",
+    "name": "pineapple sage",
+    "growstuff_url": "http://growstuff.org/crops/pineapple-sage",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Salvia_elegans",
+    "scientific": "Salvia elegans",
+    "parent_id": "plant/growstuff424",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff359",
+    "name": "piri-piri pepper",
+    "growstuff_url": "http://growstuff.org/crops/piri-piri-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Piri_piri",
+    "scientific": "Capsicum frutescens",
+    "parent_id": "plant/growstuff311",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff159",
+    "name": "pistachio",
+    "growstuff_url": "http://growstuff.org/crops/pistachio",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pistachio",
+    "scientific": "Pistacia vera",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff160",
+    "name": "plantain",
+    "growstuff_url": "http://growstuff.org/crops/plantain",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Plantain",
+    "scientific": "Musa spp.",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff161",
+    "name": "plum",
+    "growstuff_url": "http://growstuff.org/crops/plum",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Plum",
+    "scientific": "Prunus spp.",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "bare root plant"
+  },
+  {
+    "_id": "plant/growstuff337",
+    "name": "poblano pepper",
+    "growstuff_url": "http://growstuff.org/crops/poblano-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Poblano",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff162",
+    "name": "pomegranate",
+    "growstuff_url": "http://growstuff.org/crops/pomegranate",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pomegranate",
+    "scientific": "Punica granatum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff163",
+    "name": "pomelo",
+    "growstuff_url": "http://growstuff.org/crops/pomelo",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pomelo",
+    "scientific": "Citrus maxima",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff164",
+    "name": "potato",
+    "growstuff_url": "http://growstuff.org/crops/potato",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Potatoes",
+    "scientific": "Solanum tuberosum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "root/tuber"
+  },
+  {
+    "_id": "plant/growstuff247",
+    "name": "pot marigold",
+    "growstuff_url": "http://growstuff.org/crops/pot-marigold",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Calendula_officinalis",
+    "scientific": "Calendula officinalis",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff165",
+    "name": "prickly pear",
+    "growstuff_url": "http://growstuff.org/crops/prickly-pear",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Opuntia",
+    "scientific": "Opuntia",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff497",
+    "name": "Prince of Wales",
+    "growstuff_url": "http://growstuff.org/crops/prince-of-wales",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amaranthus_hypochondriacus",
+    "scientific": "Amaranthus hypochondriacus",
+    "parent_id": "plant/growstuff8",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff166",
+    "name": "pumpkin",
+    "growstuff_url": "http://growstuff.org/crops/pumpkin",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Pumpkin",
+    "scientific": "Cucurbita spp.",
+    "parent_id": "plant/growstuff509",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff493",
+    "name": "purple amaranth",
+    "growstuff_url": "http://growstuff.org/crops/purple-amaranth",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amaranthus_blitum",
+    "scientific": "Amaranthus blitum",
+    "parent_id": "plant/growstuff8",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff525",
+    "name": "purple ruffles basil",
+    "growstuff_url": "http://growstuff.org/crops/purple-ruffles-basil",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Purple_ruffles_basil",
+    "scientific": "Ocimum basilicum",
+    "parent_id": "plant/growstuff20",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff167",
+    "name": "purslane",
+    "growstuff_url": "http://growstuff.org/crops/purslane",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Portulaca_oleracea",
+    "scientific": "Portulaca oleracea",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff168",
+    "name": "quandong",
+    "growstuff_url": "http://growstuff.org/crops/quandong",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Santalum_acuminatum",
+    "scientific": "Santalum acuminatum",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff169",
+    "name": "quince",
+    "growstuff_url": "http://growstuff.org/crops/quince",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Quince",
+    "scientific": "Cydonia oblonga",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff170",
+    "name": "quinoa",
+    "growstuff_url": "http://growstuff.org/crops/quinoa",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Quinoa",
+    "scientific": "Chenopodium quinoa",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff549",
+    "name": "rabbiteye blueberry",
+    "growstuff_url": "http://growstuff.org/crops/rabbiteye-blueberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Vaccinium_virgatum",
+    "scientific": "Vaccinium virgatum",
+    "parent_id": "plant/growstuff240",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff171",
+    "name": "radicchio",
+    "growstuff_url": "http://growstuff.org/crops/radicchio",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Radicchio",
+    "scientific": "Cichorium intybus",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff172",
+    "name": "radish",
+    "growstuff_url": "http://growstuff.org/crops/radish",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Radish",
+    "scientific": "Raphanus sativus",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff262",
+    "name": "rainbow chard",
+    "growstuff_url": "http://growstuff.org/crops/rainbow-chard",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chard",
+    "scientific": "",
+    "parent_id": "plant/growstuff244",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff173",
+    "name": "rapeseed",
+    "growstuff_url": "http://growstuff.org/crops/rapeseed",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brassica_napus",
+    "scientific": "Brassica napus",
+    "parent_id": "plant/growstuff470",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff243",
+    "name": "rapini",
+    "growstuff_url": "http://growstuff.org/crops/rapini",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rapini",
+    "scientific": "Brassica rapa ruvo",
+    "parent_id": "plant/growstuff479",
+    "shade": "",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff174",
+    "name": "raspberry",
+    "growstuff_url": "http://growstuff.org/crops/raspberry",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rubus_idaeus",
+    "scientific": "Rubus idaeus",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff494",
+    "name": "red amaranth",
+    "growstuff_url": "http://growstuff.org/crops/red-amaranth",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amaranthus_caudatus",
+    "scientific": "Amaranthus caudatus",
+    "parent_id": "plant/growstuff8",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff483",
+    "name": "red cabbage",
+    "growstuff_url": "http://growstuff.org/crops/red-cabbage",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Red_cabbage",
+    "scientific": "Brassica oleracea Capitata group",
+    "parent_id": "plant/growstuff476",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff293",
+    "name": "redcurrant",
+    "growstuff_url": "http://growstuff.org/crops/redcurrant",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Redcurrant",
+    "scientific": "Ribes rubrum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "bare root plant"
+  },
+  {
+    "_id": "plant/growstuff511",
+    "name": "red kuri squash",
+    "growstuff_url": "http://growstuff.org/crops/red-kuri-squash",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red_kuri_squash",
+    "scientific": "Cucurbita maxima",
+    "parent_id": "plant/growstuff507",
+    "shade": "semi-shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff499",
+    "name": "red-root amaranth",
+    "growstuff_url": "http://growstuff.org/crops/red-root-amaranth",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amaranthus_retroflexus",
+    "scientific": "Amaranthus retroflexus",
+    "parent_id": "plant/growstuff8",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff464",
+    "name": "red rubin basil",
+    "growstuff_url": "http://growstuff.org/crops/red-rubin-basil",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red_rubin_basil",
+    "scientific": "Ocimum basilicum",
+    "parent_id": "plant/growstuff20",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff352",
+    "name": "red savino pepper",
+    "growstuff_url": "http://growstuff.org/crops/red-savino-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Red_Savina_pepper",
+    "scientific": "Capsicum chinense",
+    "parent_id": "plant/growstuff309",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff495",
+    "name": "red spinach",
+    "growstuff_url": "http://growstuff.org/crops/red-spinach",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amaranthus_dubius",
+    "scientific": "Amaranthus dubius",
+    "parent_id": "plant/growstuff8",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff540",
+    "name": "red-twigged shadbush",
+    "growstuff_url": "http://growstuff.org/crops/red-twigged-shadbush",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Amelanchier_sanguinea",
+    "scientific": "Amelanchier sanguinea",
+    "parent_id": "plant/growstuff529",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff175",
+    "name": "rhubarb",
+    "growstuff_url": "http://growstuff.org/crops/rhubarb",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rhubarb",
+    "scientific": "Rheum rhabarbarum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "root division"
+  },
+  {
+    "_id": "plant/growstuff176",
+    "name": "rice",
+    "growstuff_url": "http://growstuff.org/crops/rice",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rice",
+    "scientific": "Oryza sativa",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff177",
+    "name": "rice bean",
+    "growstuff_url": "http://growstuff.org/crops/rice-bean",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ricebean",
+    "scientific": "Vigna umbellata",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff310",
+    "name": "rocoto",
+    "growstuff_url": "http://growstuff.org/crops/rocoto",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Capsicum_pubescens",
+    "scientific": "Capsicum pubescens",
+    "parent_id": "plant/growstuff306",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff370",
+    "name": "romaine lettuce",
+    "growstuff_url": "http://growstuff.org/crops/romaine-lettuce",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Romaine_lettuce",
+    "scientific": "Lactuca sativa var. longifolia",
+    "parent_id": "plant/growstuff113",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff481",
+    "name": "Romanesco broccoli",
+    "growstuff_url": "http://growstuff.org/crops/romanesco-broccoli",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Romanesco_broccoli",
+    "scientific": "Brassica oleracea Botrytis group",
+    "parent_id": "plant/growstuff476",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff413",
+    "name": "Roma tomato",
+    "growstuff_url": "http://growstuff.org/crops/roma-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Roma_tomato",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff178",
+    "name": "rose",
+    "growstuff_url": "http://growstuff.org/crops/rose",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rose",
+    "scientific": "Rosa",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "root division"
+  },
+  {
+    "_id": "plant/growstuff255",
+    "name": "rose geranium",
+    "growstuff_url": "http://growstuff.org/crops/rose-geranium",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Pelargonium_graveolens",
+    "scientific": "Pelargonium graveolens",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "cutting"
+  },
+  {
+    "_id": "plant/growstuff179",
+    "name": "roselle",
+    "growstuff_url": "http://growstuff.org/crops/roselle",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Roselle_(plant)",
+    "scientific": "Hibiscus sabdariffa",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff180",
+    "name": "rosemary",
+    "growstuff_url": "http://growstuff.org/crops/rosemary",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Rosemary",
+    "scientific": "Rosmarinus officinalis",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff440",
+    "name": "round-leafed oregano",
+    "growstuff_url": "http://growstuff.org/crops/round-leafed-oregano",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Origanum_rotundifolium",
+    "scientific": "Origanum rotundifolium",
+    "parent_id": "plant/growstuff142",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff281",
+    "name": "ruby saltbush",
+    "growstuff_url": "http://growstuff.org/crops/ruby-saltbush",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Enchylaena_tomentosa",
+    "scientific": "Enchylaena tomentosa",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff181",
+    "name": "rue",
+    "growstuff_url": "http://growstuff.org/crops/rue",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Common_Rue",
+    "scientific": "Ruta graveolens",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff182",
+    "name": "runner bean",
+    "growstuff_url": "http://growstuff.org/crops/runner-bean",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Runner_bean",
+    "scientific": "Phaseolus coccineus",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff183",
+    "name": "rutabaga",
+    "growstuff_url": "http://growstuff.org/crops/rutabaga",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rutabaga",
+    "scientific": "Brassica napus Napobrassica group",
+    "parent_id": "plant/growstuff470",
+    "shade": "semi-shade",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff184",
+    "name": "rye",
+    "growstuff_url": "http://growstuff.org/crops/rye",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rye",
+    "scientific": "Secale cereale",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff185",
+    "name": "safflower",
+    "growstuff_url": "http://growstuff.org/crops/safflower",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Safflower",
+    "scientific": "Carthamus tinctorius",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff186",
+    "name": "saffron",
+    "growstuff_url": "http://growstuff.org/crops/saffron",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Saffron",
+    "scientific": "Crocus sativus",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff187",
+    "name": "sage",
+    "growstuff_url": "http://growstuff.org/crops/sage",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Salvia_officinalis",
+    "scientific": "Salvia officinalis",
+    "parent_id": "plant/growstuff424",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff188",
+    "name": "salad burnet",
+    "growstuff_url": "http://growstuff.org/crops/salad-burnet",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Salad_burnet",
+    "scientific": "Sanguisorba minor",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff189",
+    "name": "salsify",
+    "growstuff_url": "http://growstuff.org/crops/salsify",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Salsify",
+    "scientific": "Tragopogon porrifolius",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff424",
+    "name": "salvia",
+    "growstuff_url": "http://growstuff.org/crops/salvia",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Salvia",
+    "scientific": "Salvia",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff190",
+    "name": "samphire",
+    "growstuff_url": "http://growstuff.org/crops/samphire",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rock_samphire",
+    "scientific": "Crithmum maritimum",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff414",
+    "name": "San Marzano tomato",
+    "growstuff_url": "http://growstuff.org/crops/san-marzano-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/San_Marzano_tomato",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff338",
+    "name": "Santa Fe Grande pepper",
+    "growstuff_url": "http://growstuff.org/crops/santa-fe-grande-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Santa_Fe_Grande_pepper",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff415",
+    "name": "Santorini tomato",
+    "growstuff_url": "http://growstuff.org/crops/santorini-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Santorini_(tomato)",
+    "scientific": "Solanum lycopersicum var. cerasiforme",
+    "parent_id": "plant/growstuff397",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff530",
+    "name": "saskatoon",
+    "growstuff_url": "http://growstuff.org/crops/saskatoon",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Amelanchier_alnifolia",
+    "scientific": "Amelanchier alnifolia",
+    "parent_id": "plant/growstuff529",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff191",
+    "name": "sassafras",
+    "growstuff_url": "http://growstuff.org/crops/sassafras",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sassafras_albidum",
+    "scientific": "Sassafras albidum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff486",
+    "name": "Savoy cabbage",
+    "growstuff_url": "http://growstuff.org/crops/savoy-cabbage",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Savoy_cabbage",
+    "scientific": "Brassica oleracea var. sabauda",
+    "parent_id": "plant/growstuff476",
+    "shade": "sun",
+    "plant_from": "cutting"
+  },
+  {
+    "_id": "plant/growstuff295",
+    "name": "scallion",
+    "growstuff_url": "http://growstuff.org/crops/scallion",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Scallion",
+    "scientific": "Allium",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff354",
+    "name": "Scotch bonnet pepper",
+    "growstuff_url": "http://growstuff.org/crops/scotch-bonnet-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Scotch_bonnet_(pepper)",
+    "scientific": "Capsicum chinense",
+    "parent_id": "plant/growstuff309",
+    "shade": "semi-shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff339",
+    "name": "serrano pepper",
+    "growstuff_url": "http://growstuff.org/crops/serrano-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Serrano_pepper",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff192",
+    "name": "sesame",
+    "growstuff_url": "http://growstuff.org/crops/sesame",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sesame",
+    "scientific": "Sesamum indicum",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff506",
+    "name": "seven year melon",
+    "growstuff_url": "http://growstuff.org/crops/seven-year-melon",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Cucurbita_ficifolia",
+    "scientific": "Cucurbita ficifolia",
+    "parent_id": "plant/growstuff251",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff193",
+    "name": "shallot",
+    "growstuff_url": "http://growstuff.org/crops/shallot",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shallot",
+    "scientific": "Allium cepa var. aggregatum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff305",
+    "name": "shiitake",
+    "growstuff_url": "http://growstuff.org/crops/shiitake",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Shiitake",
+    "scientific": "Lentinula edodes",
+    "parent_id": "plant/growstuff303",
+    "shade": "semi-shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff557",
+    "name": "shiny blueberry",
+    "growstuff_url": "http://growstuff.org/crops/shiny-blueberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Vaccinium_myrsinites",
+    "scientific": "Vaccinium myrsinites",
+    "parent_id": "plant/growstuff240",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff330",
+    "name": "shishito pepper",
+    "growstuff_url": "http://growstuff.org/crops/shishito-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Shishito",
+    "scientific": "Capsicum annuum",
+    "parent_id": "plant/growstuff307",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff434",
+    "name": "shiso",
+    "growstuff_url": "http://growstuff.org/crops/shiso",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Shiso",
+    "scientific": "Perilla frutescens var. crispa",
+    "parent_id": "plant/growstuff291",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff362",
+    "name": "siling labuyo pepper",
+    "growstuff_url": "http://growstuff.org/crops/siling-labuyo-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Siling_labuyo",
+    "scientific": "Capsicum frutescens",
+    "parent_id": "plant/growstuff311",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff492",
+    "name": "slender amaranth",
+    "growstuff_url": "http://growstuff.org/crops/slender-amaranth",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amaranthus_viridis",
+    "scientific": "Amaranthus viridis",
+    "parent_id": "plant/growstuff8",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff560",
+    "name": "small black blueberry",
+    "growstuff_url": "http://growstuff.org/crops/small-black-blueberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Vaccinium_tenellum",
+    "scientific": "Vaccinium tenellum",
+    "parent_id": "plant/growstuff240",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff496",
+    "name": "smooth amaranth",
+    "growstuff_url": "http://growstuff.org/crops/smooth-amaranth",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amaranthus_hybridus",
+    "scientific": "Amaranthus hybridus",
+    "parent_id": "plant/growstuff8",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff537",
+    "name": "smooth shadbush",
+    "growstuff_url": "http://growstuff.org/crops/smooth-shadbush",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Amelanchier_laevis",
+    "scientific": "Amelanchier laevis",
+    "parent_id": "plant/growstuff529",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff373",
+    "name": "snap pea",
+    "growstuff_url": "http://growstuff.org/crops/snap-pea",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Snap_pea",
+    "scientific": "Pisum sativum var. macrocarpon",
+    "parent_id": "plant/growstuff146",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff260",
+    "name": "snow pea",
+    "growstuff_url": "http://growstuff.org/crops/snow-pea",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Snow_pea",
+    "scientific": "Pisum sativum var. saccharatum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff539",
+    "name": "snowy mespilus",
+    "growstuff_url": "http://growstuff.org/crops/snowy-mespilus",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Amelanchier_ovalis",
+    "scientific": "Amelanchier ovalis",
+    "parent_id": "plant/growstuff529",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff194",
+    "name": "sorghum",
+    "growstuff_url": "http://growstuff.org/crops/sorghum",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sorghum",
+    "scientific": "Sorghum spp.",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff195",
+    "name": "sorrel",
+    "growstuff_url": "http://growstuff.org/crops/sorrel",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sorrel",
+    "scientific": "Rumex acetosa",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff196",
+    "name": "soursop",
+    "growstuff_url": "http://growstuff.org/crops/soursop",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Soursop",
+    "scientific": "Annona muricata",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff197",
+    "name": "soybean",
+    "growstuff_url": "http://growstuff.org/crops/soybean",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Soybean",
+    "scientific": "Glycine max",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff266",
+    "name": "spaghetti squash",
+    "growstuff_url": "http://growstuff.org/crops/spaghetti-squash",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Spaghetti_squash",
+    "scientific": "Cucurbita pepo var. fastigata",
+    "parent_id": "plant/growstuff509",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff198",
+    "name": "spearmint",
+    "growstuff_url": "http://growstuff.org/crops/spearmint",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Spearmint",
+    "scientific": "Mentha spicata",
+    "parent_id": "plant/growstuff131",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff461",
+    "name": "spicy globe basil",
+    "growstuff_url": "http://growstuff.org/crops/spicy-globe-basil",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Spicy_globe_basil",
+    "scientific": "Ocimum basilicum",
+    "parent_id": "plant/growstuff20",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff199",
+    "name": "spinach",
+    "growstuff_url": "http://growstuff.org/crops/spinach",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spinach",
+    "scientific": "Spinacia oleracea",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff500",
+    "name": "spiny amaranth",
+    "growstuff_url": "http://growstuff.org/crops/spiny-amaranth",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amaranthus_spinosus",
+    "scientific": "Amaranthus spinosus",
+    "parent_id": "plant/growstuff8",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff480",
+    "name": "spring greens",
+    "growstuff_url": "http://growstuff.org/crops/spring-greens",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spring_greens",
+    "scientific": "Brassica oleracea Acephala group",
+    "parent_id": "plant/growstuff476",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff251",
+    "name": "squash",
+    "growstuff_url": "http://growstuff.org/crops/squash",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Squash_(plant)",
+    "scientific": "Curcurbita",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff200",
+    "name": "star anise",
+    "growstuff_url": "http://growstuff.org/crops/star-anise",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Illicium_verum",
+    "scientific": "Illicium verum",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff201",
+    "name": "starfruit",
+    "growstuff_url": "http://growstuff.org/crops/starfruit",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Starfruit",
+    "scientific": "Averrhoa carambola",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff202",
+    "name": "stevia",
+    "growstuff_url": "http://growstuff.org/crops/stevia",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stevia",
+    "scientific": "Stevia rebaudiana",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff501",
+    "name": "stinging nettle",
+    "growstuff_url": "http://growstuff.org/crops/stinging-nettle",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Urtica_dioica",
+    "scientific": "Urtica dioica",
+    "parent_id": "plant/growstuff246",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff203",
+    "name": "strawberry",
+    "growstuff_url": "http://growstuff.org/crops/strawberry",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Strawberry",
+    "scientific": "Fragaria ananassa",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff416",
+    "name": "stupice tomato",
+    "growstuff_url": "http://growstuff.org/crops/stupice-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Super_Sweet_100",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff204",
+    "name": "summer savory",
+    "growstuff_url": "http://growstuff.org/crops/summer-savory",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Summer_savory",
+    "scientific": "Satureja hortensis",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff205",
+    "name": "sunflower",
+    "growstuff_url": "http://growstuff.org/crops/sunflower",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sunflower",
+    "scientific": "Helianthus annuus",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff417",
+    "name": "super sweet 100 tomato",
+    "growstuff_url": "http://growstuff.org/crops/super-sweet-100-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Super_Sweet_100",
+    "scientific": "Solanum lycopersicum var. cerasiforme",
+    "parent_id": "plant/growstuff397",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff544",
+    "name": "sweet pepino",
+    "growstuff_url": "http://growstuff.org/crops/sweet-pepino",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Solanum_muricatum",
+    "scientific": "Solanum muricatum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff206",
+    "name": "sweet potato",
+    "growstuff_url": "http://growstuff.org/crops/sweet-potato",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sweet_potato",
+    "scientific": "Ipomoea batatas",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "runner"
+  },
+  {
+    "_id": "plant/growstuff207",
+    "name": "Swiss chard",
+    "growstuff_url": "http://growstuff.org/crops/swiss-chard",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chard",
+    "scientific": "Beta vulgaris var. cicla",
+    "parent_id": "plant/growstuff244",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff360",
+    "name": "Tabasco pepper",
+    "growstuff_url": "http://growstuff.org/crops/tabasco-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Tabasco_pepper",
+    "scientific": "Capsicum frutescens",
+    "parent_id": "plant/growstuff311",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff208",
+    "name": "tamarillo",
+    "growstuff_url": "http://growstuff.org/crops/tamarillo",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tamarillo",
+    "scientific": "Solanum betaceum",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff209",
+    "name": "tamarind",
+    "growstuff_url": "http://growstuff.org/crops/tamarind",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tamarind",
+    "scientific": "Tamarindus indica",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff504",
+    "name": "tampala",
+    "growstuff_url": "http://growstuff.org/crops/tampala",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amaranthus_tricolor",
+    "scientific": "Amaranthus tricolor",
+    "parent_id": "plant/growstuff8",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff210",
+    "name": "tangerine",
+    "growstuff_url": "http://growstuff.org/crops/tangerine",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tangerine",
+    "scientific": "Citrus tangerina",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff211",
+    "name": "tansy",
+    "growstuff_url": "http://growstuff.org/crops/tansy",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tansy",
+    "scientific": "Tanacetum vulgare",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff212",
+    "name": "taro",
+    "growstuff_url": "http://growstuff.org/crops/taro",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Taro",
+    "scientific": "Colocasia esculenta",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff213",
+    "name": "tarragon",
+    "growstuff_url": "http://growstuff.org/crops/tarragon",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tarragon",
+    "scientific": "Artemisia dracunculus",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff242",
+    "name": "tatsoi",
+    "growstuff_url": "http://growstuff.org/crops/tatsoi",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brassica_narinosa",
+    "scientific": "Brassica narinosa",
+    "parent_id": "plant/growstuff470",
+    "shade": "semi-shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff233",
+    "name": "tea",
+    "growstuff_url": "http://growstuff.org/crops/tea",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tea",
+    "scientific": "Camellia sinensis",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff460",
+    "name": "Thai basil",
+    "growstuff_url": "http://growstuff.org/crops/thai-basil",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Thai_basil",
+    "scientific": "Ocimum basilicum var. thyrsiflora",
+    "parent_id": "plant/growstuff20",
+    "shade": "semi-shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff542",
+    "name": "thicket shadbush",
+    "growstuff_url": "http://growstuff.org/crops/thicket-shadbush",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Amelanchier_spicata",
+    "scientific": "Amelanchier spicata",
+    "parent_id": "plant/growstuff529",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff418",
+    "name": "three sisters tomato",
+    "growstuff_url": "http://growstuff.org/crops/three-sisters-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Three_Sisters_(tomato)",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff503",
+    "name": "Thunberg's amaranth",
+    "growstuff_url": "http://growstuff.org/crops/thunberg-s-amaranth",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amaranthus_thunbergii",
+    "scientific": "Amaranthus thunbergii",
+    "parent_id": "plant/growstuff8",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff214",
+    "name": "thyme",
+    "growstuff_url": "http://growstuff.org/crops/thyme",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Thymus_(plant)",
+    "scientific": "Thymus mongolicus",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff419",
+    "name": "tigerella tomato",
+    "growstuff_url": "http://growstuff.org/crops/tigerella-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Tigerella",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff420",
+    "name": "tomaccio tomato",
+    "growstuff_url": "http://growstuff.org/crops/tomaccio-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Tomaccio_(tomato)",
+    "scientific": "Solanum lycopersicum var. cerasiforme",
+    "parent_id": "plant/growstuff397",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff215",
+    "name": "tomatillo",
+    "growstuff_url": "http://growstuff.org/crops/tomatillo",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tomatillo",
+    "scientific": "Physalis philadelphica",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff216",
+    "name": "tomato",
+    "growstuff_url": "http://growstuff.org/crops/tomato",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tomato",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff421",
+    "name": "tomberry",
+    "growstuff_url": "http://growstuff.org/crops/tomberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Tomberry",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff422",
+    "name": "traveller tomato",
+    "growstuff_url": "http://growstuff.org/crops/traveller-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Traveller_(tomato)",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff502",
+    "name": "tree nettle",
+    "growstuff_url": "http://growstuff.org/crops/tree-nettle",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Urtica_incisa",
+    "scientific": "Urtica incisa",
+    "parent_id": "plant/growstuff246",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff357",
+    "name": "Trinidad Moruga scorpion pepper",
+    "growstuff_url": "http://growstuff.org/crops/trinidad-moruga-scorpion-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Trinidad_Moruga_Scorpion",
+    "scientific": "Capsicum chinense",
+    "parent_id": "plant/growstuff309",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff356",
+    "name": "Trinidad scorpion butch T pepper",
+    "growstuff_url": "http://growstuff.org/crops/trinidad-scorpion-butch-t-pepper",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Trinidad_Scorpion_Butch_T_pepper",
+    "scientific": "Capsicum chinense",
+    "parent_id": "plant/growstuff309",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff512",
+    "name": "tromboncino",
+    "growstuff_url": "http://growstuff.org/crops/tromboncino",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Tromboncino_(squash)",
+    "scientific": "Cucurbita moschata",
+    "parent_id": "plant/growstuff508",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff510",
+    "name": "turban squash",
+    "growstuff_url": "http://growstuff.org/crops/turban-squash",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Turban_squash",
+    "scientific": "Cucurbita maxima",
+    "parent_id": "plant/growstuff507",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff217",
+    "name": "turmeric",
+    "growstuff_url": "http://growstuff.org/crops/turmeric",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Turmeric",
+    "scientific": "Curcuma longa",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "root division"
+  },
+  {
+    "_id": "plant/growstuff218",
+    "name": "turnip",
+    "growstuff_url": "http://growstuff.org/crops/turnip",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Turnip",
+    "scientific": "Brassica rapa var. rapa",
+    "parent_id": "plant/growstuff479",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff219",
+    "name": "urad bean",
+    "growstuff_url": "http://growstuff.org/crops/urad-bean",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Urad_(bean)",
+    "scientific": "Vigna mungo",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff543",
+    "name": "Utah serviceberry",
+    "growstuff_url": "http://growstuff.org/crops/utah-serviceberry",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Amelanchier_utahensis",
+    "scientific": "Amelanchier utahensis",
+    "parent_id": "plant/growstuff529",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff220",
+    "name": "valerian",
+    "growstuff_url": "http://growstuff.org/crops/valerian",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Valerian_(plant)",
+    "scientific": "Valeriana officinalis",
+    "parent_id": "",
+    "shade": "shade",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff221",
+    "name": "vanilla",
+    "growstuff_url": "http://growstuff.org/crops/vanilla",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vanilla",
+    "scientific": "Vanilla planifolia",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff239",
+    "name": "Vietnamese mint",
+    "growstuff_url": "http://growstuff.org/crops/vietnamese-mint",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Persicaria_odorata",
+    "scientific": "Persicaria odorata",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff222",
+    "name": "walnut",
+    "growstuff_url": "http://growstuff.org/crops/walnut",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Walnut",
+    "scientific": "Juglans spp.",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff223",
+    "name": "wasabi",
+    "growstuff_url": "http://growstuff.org/crops/wasabi",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wasabi",
+    "scientific": "Wasabia japonica",
+    "parent_id": "",
+    "shade": "shade",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff301",
+    "name": "water caltrop",
+    "growstuff_url": "http://growstuff.org/crops/water-caltrop",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Water_caltrop",
+    "scientific": "Trapa natans",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff300",
+    "name": "water chestnut",
+    "growstuff_url": "http://growstuff.org/crops/water-chestnut",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eleocharis_dulcis",
+    "scientific": "Eleocharis dulcis",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff299",
+    "name": "watercress",
+    "growstuff_url": "http://growstuff.org/crops/watercress",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Watercress",
+    "scientific": "Nasturtium officinale",
+    "parent_id": "plant/growstuff134",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff224",
+    "name": "watermelon",
+    "growstuff_url": "http://growstuff.org/crops/watermelon",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Watermelon",
+    "scientific": "Citrullus lanatus",
+    "parent_id": "plant/growstuff129",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff450",
+    "name": "water mint",
+    "growstuff_url": "http://growstuff.org/crops/water-mint",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mentha_aquatica",
+    "scientific": "Mentha aquatica",
+    "parent_id": "plant/growstuff131",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff282",
+    "name": "wattle",
+    "growstuff_url": "http://growstuff.org/crops/wattle",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Acacia",
+    "scientific": "Acacia",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff296",
+    "name": "Welsh onion",
+    "growstuff_url": "http://growstuff.org/crops/welsh-onion",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Allium_fistulosum",
+    "scientific": "Allium fistulosum",
+    "parent_id": "plant/growstuff295",
+    "shade": "sun",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff225",
+    "name": "wheat",
+    "growstuff_url": "http://growstuff.org/crops/wheat",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wheat",
+    "scientific": "Triticum spp.",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff294",
+    "name": "white currant",
+    "growstuff_url": "http://growstuff.org/crops/white-currant",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/White_currant",
+    "scientific": "Ribes rubrum",
+    "parent_id": "plant/growstuff293",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff423",
+    "name": "white queen tomato",
+    "growstuff_url": "http://growstuff.org/crops/white-queen-tomato",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/White_Queen_tomato",
+    "scientific": "Solanum lycopersicum",
+    "parent_id": "plant/growstuff216",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff425",
+    "name": "white sage",
+    "growstuff_url": "http://growstuff.org/crops/white-sage",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Salvia_apiana",
+    "scientific": "Salvia apiana",
+    "parent_id": "plant/growstuff424",
+    "shade": "semi-shade",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff344",
+    "name": "wild baccatum",
+    "growstuff_url": "http://growstuff.org/crops/wild-baccatum",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Capsicum_baccatum",
+    "scientific": "Capsicum baccatum",
+    "parent_id": "plant/growstuff308",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff433",
+    "name": "wild bergamot",
+    "growstuff_url": "http://growstuff.org/crops/wild-bergamot",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Monarda_fistulosa",
+    "scientific": "Monarda fistulosa",
+    "parent_id": "plant/growstuff429",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff278",
+    "name": "wild ginger",
+    "growstuff_url": "http://growstuff.org/crops/wild-ginger",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Asarum_caudatum",
+    "scientific": "Asarum caudatum",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff451",
+    "name": "wild mint",
+    "growstuff_url": "http://growstuff.org/crops/wild-mint",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mentha_arvensis",
+    "scientific": "Mentha arvensis",
+    "parent_id": "plant/growstuff131",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff376",
+    "name": "wine cap mushroom",
+    "growstuff_url": "http://growstuff.org/crops/wine-cap-mushroom",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stropharia_rugosoannulata",
+    "scientific": "Stropharia rugosoannulata",
+    "parent_id": "plant/growstuff303",
+    "shade": "shade",
+    "plant_from": "root division"
+  },
+  {
+    "_id": "plant/growstuff280",
+    "name": "winged bean",
+    "growstuff_url": "http://growstuff.org/crops/winged-bean",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Winged_bean",
+    "scientific": "Psophocarpus tetragonolobus",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff256",
+    "name": "winter melon",
+    "growstuff_url": "http://growstuff.org/crops/winter-melon",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Winter_melon",
+    "scientific": "Benincasa hispida",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff226",
+    "name": "winter savory",
+    "growstuff_url": "http://growstuff.org/crops/winter-savory",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Winter_savory",
+    "scientific": "Satureja montana",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff258",
+    "name": "wood sorrel",
+    "growstuff_url": "http://growstuff.org/crops/wood-sorrel",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Oxalis",
+    "scientific": "Oxalis",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff227",
+    "name": "wormwood",
+    "growstuff_url": "http://growstuff.org/crops/wormwood",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Artemisia_absinthium",
+    "scientific": "Artemisia absinthium",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "seedling"
+  },
+  {
+    "_id": "plant/growstuff456",
+    "name": "wrinkled-leaf mint",
+    "growstuff_url": "http://growstuff.org/crops/wrinkled-leaf-mint",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Mentha_crispata",
+    "scientific": "Mentha crispata",
+    "parent_id": "plant/growstuff131",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff228",
+    "name": "yam",
+    "growstuff_url": "http://growstuff.org/crops/yam",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yam_(vegetable)",
+    "scientific": "Dioscorea spp.",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff229",
+    "name": "yardlong bean",
+    "growstuff_url": "http://growstuff.org/crops/yardlong-bean",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yardlong_bean",
+    "scientific": "Vigna unguiculata (sesquipedalis)",
+    "parent_id": "",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff230",
+    "name": "yarrow",
+    "growstuff_url": "http://growstuff.org/crops/yarrow",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Achillea_millefolium",
+    "scientific": "Achillea millefolium",
+    "parent_id": "",
+    "shade": "semi-shade",
+    "plant_from": "advanced plant"
+  },
+  {
+    "_id": "plant/growstuff513",
+    "name": "yellow crookneck squash",
+    "growstuff_url": "http://growstuff.org/crops/yellow-crookneck-squash",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Yellow_crookneck_squash",
+    "scientific": "Cucurbita pepo var. torticollia",
+    "parent_id": "plant/growstuff509",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff515",
+    "name": "yellow summer squash",
+    "growstuff_url": "http://growstuff.org/crops/yellow-summer-squash",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Yellow_summer_squash",
+    "scientific": "Cucurbita pepo var. recticollis",
+    "parent_id": "plant/growstuff509",
+    "shade": "sun",
+    "plant_from": "seed"
+  },
+  {
+    "_id": "plant/growstuff435",
+    "name": "yerba buena",
+    "growstuff_url": "http://growstuff.org/crops/yerba-buena",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Micromeria_douglasii",
+    "scientific": "Micromeria douglasii",
+    "parent_id": "",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff441",
+    "name": "za'atar",
+    "growstuff_url": "http://growstuff.org/crops/za-atar",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Origanum_syriacum",
+    "scientific": "Origanum syriacum",
+    "parent_id": "plant/growstuff142",
+    "shade": "",
+    "plant_from": ""
+  },
+  {
+    "_id": "plant/growstuff231",
+    "name": "zucchini",
+    "growstuff_url": "http://growstuff.org/crops/zucchini",
+    "wikipedia_url": "http://en.wikipedia.org/wiki/Zucchini",
+    "scientific": "Cucurbita pepo.",
+    "parent_id": "plant/growstuff509",
+    "shade": "sun",
+    "plant_from": "seed"
+  }
+]

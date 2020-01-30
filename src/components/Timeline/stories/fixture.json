@@ -1,0 +1,148 @@
+[
+  {
+    "name": "Horta da Ribeira",
+    "tracks": [
+      {
+        "name": "Green Wave Mustard Green",
+        "from": "2015-08-10",
+        "to": "2016-04-06",
+        "lines": [
+          {
+            "from": "2015-08-10",
+            "to": "2015-10-01",
+            "appearance": "dashed"
+          },
+          {
+            "from": "2015-10-01",
+            "to": "2015-12-12",
+            "appearance": "solid"
+          },
+          {
+            "from": "2015-12-12",
+            "to":"2016-04-01"
+          }
+        ],
+        "periods": [
+          {
+            "from": "2015-10-01",
+            "to": "2016-03-01"
+          }
+        ],
+        "markers": [
+          {
+            "date": "2015-08-10"
+          },
+          {
+            "date": "2015-12-12"
+          },
+          {
+            "date": "2016-04-01",
+            "appearance": "rightArrow"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "Horta da Ribeira",
+    "tracks": [
+      {
+        "name": "Avoa de Osedo Tomateira",
+        "from": "2015-02-10",
+        "to": "2015-11-06",
+        "lines": [
+          {
+            "from": "2015-02-10",
+            "to": "2015-03-01",
+            "appearance": "dashed"
+          },
+          {
+            "from": "2015-03-01",
+            "to": "2015-10-20",
+            "appearance": "solid"
+          },
+          {
+            "from": "2015-10-20",
+            "to":"2015-11-06"
+          }
+        ],
+        "periods": [
+          {
+            "from": "2015-06-01",
+            "to": "2015-10-20"
+          }
+        ],
+        "markers": [
+          {
+            "date": "2015-02-10"
+          },
+          {
+            "date": "2015-03-01"
+          },
+          {
+            "date": "2015-10-20"
+          },
+          {
+            "date": "2015-11-06",
+            "appearance": "rightArrow"
+          }
+        ],
+        "styles": {
+          "all": {
+            "stroke": "#F06F68",
+            "fill": "#F06F68"
+          }
+        }
+      },
+      {
+        "name": "Cabbage",
+        "from": "2016-02-10",
+        "to": "2017-11-06",
+        "lines": [
+          {
+            "from": "2016-02-10",
+            "to": "2016-03-01",
+            "appearance": "dashed"
+          },
+          {
+            "from": "2016-03-01",
+            "to": "2016-10-20",
+            "appearance": "solid"
+          },
+          {
+            "from": "2016-10-20",
+            "to":"2016-11-06"
+          }
+        ],
+        "periods": [
+          {
+            "from": "2016-06-01",
+            "to": "2016-10-20"
+          }
+        ],
+        "markers": [
+          {
+            "date": "2016-02-10"
+          },
+          {
+            "date": "2016-03-01"
+          },
+          {
+            "date": "2016-10-20"
+          },
+          {
+            "date": "2016-11-06",
+            "appearance": "rightArrow"
+          }
+        ],
+        "styles": {
+          "all": {
+            "stroke": "#F06F68",
+            "fill": "#F06F68"
+          }
+        }
+      }
+    ]
+  }
+]

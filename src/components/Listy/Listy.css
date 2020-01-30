@@ -1,0 +1,218 @@
+:root
+{
+    --green-light: #90d986;
+    --green-mid: #6bc25f;
+    --green-dark: #3c9342;
+}
+.Listy
+{
+    display: flex;
+    flex-direction: column;
+
+    cursor: default;
+    user-select: none;
+
+    flex: 1;
+}
+
+
+
+
+
+
+.Listy-List
+{
+    overflow-y:scroll;
+    overflow-x:hidden;
+    width: 100%;
+    height: 100%;
+}
+
+.Listy-emptyMessage
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.Listy-Item
+{
+    margin: 5px 0;
+    padding: 10px 20px;
+
+    cursor: pointer;
+    transition: background .5s, color .5s;
+}
+
+
+.Listy-searchTab{
+
+}
+.Listy-searchTab.Panelled-Tab--active,
+.Listy-filterTab.Panelled-Tab--active{
+    background:#44B9F0;
+}
+
+.Listy-searchPanel,
+.Listy-filterPanel{
+    background:#44B9F0;
+    padding:10px;
+}
+
+.Listy-searchInput{
+    width:100%;
+    border:none;
+    color:#5E5D54;
+    font-size:22px;
+    font-weight: 700;
+    padding:5px 10px;
+
+    outline:none;
+}
+
+.Listy-filterPanel-headers{
+    display: flex;
+    flex-direction: row;
+
+    color:#fff;
+    font-size:16px;
+    font-weight:700;
+}
+.Listy-filterPanel-propertyHeader{
+    flex:.8;
+}
+.Listy-filterPanel-valueHeader{
+   flex:1; 
+}  
+
+@keyframes Listy-listItem--onClick
+{
+    0%
+    {
+        background-color: inherit;
+    }
+    50%
+    {
+        background-color: white;
+    }
+    100%
+    {
+        background-color: inherit;
+    }
+}
+
+.Listy-listItem--onClick
+{
+    animation: Listy-listItem--onClick .5s;
+}
+
+
+
+/* Green theme! */
+.Listy--green
+{
+    color: #fff;
+    background: #78c76d;
+}
+
+.Listy--green .Listy-ListItem
+{
+    color: #fff;
+    border-top: 5px solid transparent;
+}
+.Listy--green .Listy-ListItem--selected
+{
+    color: #fff;
+    background-color: #44B9F0;
+}
+
+
+
+/* White theme! */
+.Listy--white
+{
+    color: #818076;
+    background-color: transparent;
+}
+.Listy--white .Listy-SearchPanel
+{
+    background-color: #f9e499;
+}
+.Listy--white .Listy-Sheets
+{
+    background: #fff;
+}
+
+.Listy--white .Listy-ListItem
+{
+    color: #818076;
+}
+.Listy--white .Listy-ListItem--isSelected
+{
+    color: #f06f68;
+    background-color: #fff;
+}
+
+
+
+/* Cream theme! */
+.Listy--cream
+{
+    color: #5e5d55;
+    background-color: #f3f1df;
+}
+
+.Listy--cream .Listy-SearchPanel
+{
+    background-color: #44b9f0;
+}
+.Listy--cream .Listy-Sheets
+{
+    background: #f3f1df;
+}
+
+.Listy--cream .Listy-ListItem
+{
+    color: #5e5d55;
+}
+.Listy--cream .Listy-ListItem--isSelected
+{
+    color: #fff;
+    background-color: #44b9f0;
+}
+
+
+
+/**
+ * Selectors for React Transition Groups
+ */
+
+.Listy-transitions-itemSlideDown-enter
+{
+    transition: opacity .3s cubic-bezier(.7,0,.3,1), transform .3s cubic-bezier(.7,0,.3,1);
+    transform: translate(0, -30px);
+
+    opacity: 0;
+}
+.Listy-transitions-itemSlideDown-enter.Listy-transitions-itemSlideDown-enter-active
+{
+    transform: translate(0, 0);
+
+    opacity: 1;
+}
+.Listy-transitions-itemSlideDown-leave
+{
+    transition: opacity .3s cubic-bezier(.7,0,.3,1), transform .3s cubic-bezier(.7,0,.3,1);
+    transform: translate(0, 0);
+
+    opacity: 1;
+}
+.Listy-transitions-itemSlideDown-leave.Listy-transitions-itemSlideDown-leave-active
+{
+    transform: translate(0, 30px);
+
+    opacity: 0;
+}

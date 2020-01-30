@@ -1,0 +1,165 @@
+:root
+{
+    --green-light: #90d986;
+    --green-mid: #6bc25f;
+    --green-dark: #3c9342;
+}
+.Panelled
+{
+    display: flex;
+    flex-direction: column;
+
+    cursor: default;
+    user-select: none;
+
+    flex: 1;
+}
+
+
+
+
+
+
+.Panelled-panels
+{
+    position: relative;
+
+    overflow: hidden;
+
+    width: 100%;
+    height: 100%;
+
+    flex: 1;
+}
+
+
+
+
+/* Green theme! */
+.Panelled--green
+{
+    color: #fff;
+    background: #78c76d;
+}
+.Panelled--green .Panelled-Tabs
+{
+    background-color: var(--green-mid);
+    background-color: #52ad59;
+}
+.Panelled--green .Panelled-Tab--active
+{
+    font-weight: 900;
+
+    color: #fff;
+    border-top: 5px solid #44b9f0;
+    background-color: #78c76d;
+}
+
+.Panelled--green .Panelled-ListItem
+{
+    color: #fff;
+    border-top: 5px solid transparent;
+}
+.Panelled--green .Panelled-ListItem--selected
+{
+    color: #fff;
+    background-color: #44B9F0;
+}
+
+
+
+/* White theme! */
+.Panelled--white
+{
+    color: #818076;
+    background-color: transparent;
+}
+.Panelled--white .Panelled-Tabs
+{
+    font-weight: 700;
+
+    color: #fff;
+    background-color: transparent;
+}
+.Panelled--white .Panelled-Tab--active
+{
+    color: #f06f68;
+    background-color: #fff;
+}
+.Panelled--white .Panelled-Tab--empty
+{
+    opacity: .5;
+}
+.Panelled--white .Panelled-SearchPanel
+{
+    background-color: #f9e499;
+}
+.Panelled--white .Panelled-Sheets
+{
+    background: #fff;
+}
+
+.Panelled--white .Panelled-ListItem
+{
+    color: #818076;
+}
+.Panelled--white .Panelled-ListItem--isSelected
+{
+    color: #f06f68;
+    background-color: #fff;
+}
+
+
+
+/* Cream theme! */
+.Panelled--cream
+{
+    color: #5e5d55;
+    background-color: #f3f1df;
+}
+.Panelled--cream .Panelled-Tabs
+{
+    font-weight: 700;
+
+    color: #818076;
+    background-color: #e1dec5;
+}
+.Panelled--cream .Panelled-Tab--active
+{
+    color: #45443a;
+    border-top-color: #44b9f0;
+    background-color: #f3f1df;
+}
+.Panelled--cream .Panelled-Tab--empty
+{
+    opacity: .5;
+}
+.Panelled--cream .Panelled-Tabs-button:hover
+{
+    color: #44b9f0;
+}
+.Panelled--cream .Panelled-Tabs-button--active,
+.Panelled--cream .Panelled-Tabs-button--active:hover
+{
+    color: #fff;
+    background: #44b9f0;
+}
+
+.Panelled--cream .Panelled-SearchPanel
+{
+    background-color: #44b9f0;
+}
+.Panelled--cream .Panelled-Sheets
+{
+    background: #f3f1df;
+}
+
+.Panelled--cream .Panelled-ListItem
+{
+    color: #5e5d55;
+}
+.Panelled--cream .Panelled-ListItem--isSelected
+{
+    color: #fff;
+    background-color: #44b9f0;
+}

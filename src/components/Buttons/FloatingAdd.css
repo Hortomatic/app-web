@@ -1,0 +1,69 @@
+.FloatingAddButton
+{
+    font-size: 36px;
+
+    position: absolute;
+
+    width: 60px;
+    height: 60px;
+
+    cursor: pointer;
+    transition: all .1s ease-in-out;
+    text-align: center;
+
+    border-radius: 50%;
+    background: #c41100;
+    box-shadow: 0 0 9px 2px rgba(0,0,0,.2);
+}
+.FloatingAddButton-Inner
+{
+    position: relative;
+    z-index: 1;
+    top: -3px;
+    left: 0;
+
+    display: flex;
+
+    width: 60px;
+    height: 60px;
+
+    transition: top .1s ease-in-out;
+
+    border-radius: 50%;
+    background: #f06f68;
+
+    justify-content: center;
+    align-items: center;
+}
+.FloatingAddButton i.fa-plus
+{
+    color: #fff;
+}
+
+.FloatingAddButton:hover .FloatingAddButton-Inner,
+.FloatingAddButton--focused .FloatingAddButton-Inner
+{
+    top: -4px;
+}
+.FloatingAddButton:focus
+{
+    outline: none;
+}
+.FloatingAddButton--active,
+.FloatingAddButton--active.FloatingAddButton--focused,
+.FloatingAddButton--active.FloatingAddButton:hover
+{
+    box-shadow: 0 0 5px 0 rgba(0,0,0,.2);
+}
+.FloatingAddButton--active .FloatingAddButton-Inner,
+.FloatingAddButton--active.FloatingAddButton--focused .FloatingAddButton-Inner,
+.FloatingAddButton--active.FloatingAddButton:hover .FloatingAddButton-Inner
+{
+    top: 0;
+}
+
+.FloatingAddButton--red
+{
+    background: #f06f68;
+}
+

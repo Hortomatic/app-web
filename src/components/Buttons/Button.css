@@ -1,0 +1,200 @@
+button.Button
+{
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+
+    border: none;
+    outline: none;
+}
+.Button
+{
+    display: flex;
+    flex-direction: row;
+    padding:0;
+    box-sizing: content-box;
+
+    background: transparent;
+}
+.Button-inner{
+    font-size: 20px;
+    font-weight: 700;
+
+    position: relative;
+    z-index: 1;
+
+    display: flex;
+    flex-direction: row;
+
+    padding: 10px 20px;
+
+    cursor: pointer;
+    user-select: none;
+
+    color: #818076;
+    border: 3px solid transparent;
+    border-radius: 10px;
+    background: #fff;
+
+    align-items: center;
+    justify-content: center;
+}
+.Button-content{
+    display: flex;
+    flex-direction: row;
+}
+.Button:focus
+{
+    border: 3px solid white;
+}
+.Button--withIcon
+{
+    padding-right: 15px;
+}
+.Button-icon
+{
+    margin-left: 15px;
+}
+.Button--withIconOnLeft
+{
+    padding-right: 20px;
+    padding-left: 15px;
+}
+.Button--withIconOnLeft .Button-icon
+{
+    margin-right: 15px;
+    margin-left: 0;
+
+    order: 1;
+}
+.Button--withIconOnLeft .Button-label
+{
+    order: 2;
+}
+
+.Button--raised
+{
+    position: relative;
+    z-index: 2;
+    border-radius:10px;
+    padding:0 0 5px 0;
+}
+.Button--raised .Button-inner{
+    position: relative;
+    z-index:3;
+    margin-top:-5px;
+}
+
+.Button--white .Button-inner
+{
+    background: #fff;
+}
+.Button--red .Button-inner
+{
+    color: #fff;
+    background: #f06f68;
+}
+.Button--green .Button-inner{
+    color:#fff;
+    background:#78C76D;
+}
+
+.Button--green.Button--raised{
+    background:#52AD59;
+}
+
+
+.Button--transparent .Button-inner
+{
+    background: transparent;
+}
+
+.Button--disabled
+{
+    cursor: default;
+
+    opacity: .5;
+}
+.Button--disabled .Button-inner
+{
+    cursor: default;
+}
+.Button--busy .Button-inner
+{
+    cursor: wait;
+}
+
+
+.Button--text.Button-inner{
+    background:transparent;
+}
+
+
+
+
+
+
+.ButtonPanel
+{
+    display: flex;
+
+    min-height: 70px;
+    padding: 10px;
+}
+.ButtonPanel-lefties
+{
+    display: flex;
+    flex-direction: row;
+
+    flex: 1;
+    justify-content: flex-start;
+}
+.ButtonPanel-righties
+{
+    display: flex;
+    flex-direction: row;
+
+    flex: 1;
+    justify-content: flex-end;
+}
+.ButtonPanel-righties
+{
+    flex: 1;
+    justify-content: flex-end;
+}
+.ButtonPanel-righties .Button{
+    margin-left: 5px;
+}
+.ButtonPanel-lefties .Button{
+    margin-right:5px;
+}
+
+.ButtonPanel--white
+{
+    background: #fff;
+}
+.ButtonPanel--yellow
+{
+    background: #f8d454;
+}
+.ButtonPanel--yellow .Button--white
+{
+    color: #dfa228;
+}
+.ButtonPanel--yellow .Button--primary
+{
+    color: #dfa228;
+    background: #fff;
+}
+.ButtonPanel--yellow .Button--subtle
+{
+    color: #fff;
+    border: 3px solid #fff;
+    background: transparent;
+}
+.ButtonPanel--yellow .Button--text
+{
+    color: #fff;
+    border: none;
+    background: transparent;
+}

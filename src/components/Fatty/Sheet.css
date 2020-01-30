@@ -1,0 +1,13 @@
+.Fatty-Sheet--cream{
+	background: #F0F0E7;
+}
+.Fatty-Sheet--cream .Fatty-Field{
+	background: #FFF;
+}
+
+.Fatty-Sheet--white{
+	background: #FFF;
+}
+.Fatty-Sheet--white .Fatty-Field{
+	background: #F0F0E7;
+}

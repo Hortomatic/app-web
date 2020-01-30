@@ -3,6 +3,8 @@ import _debug from 'debug'
 import path from 'path'
 import { argv } from 'yargs'
 
+const pkg = require('../package.json')
+
 const debug = _debug('app:config:_base')
 const config = {
   env : process.env.NODE_ENV,
@@ -33,19 +35,38 @@ const config = {
   compiler_quiet           : false,
   compiler_public_path     : '/',
   compiler_stats           : {
-    chunks : false,
-    chunkModules : false,
+    chunks : true,
+    chunkModules : true,
     colors : true
   },
   compiler_vendor : [
-    'history',
-    'react',
-    'react-redux',
-    'react-router',
-    'redux',
-    'redux-actions',
-    'redux-simple-router'
+    "babel-polyfill",
+    "counterpart",
+    "d3-scale",
+    "d3-time-format",
+    "history",
+    "hoodie-client",
+    "immutable",
+    // "lodash",
+    "moment",
+    "pouch-redux-middleware",
+    "react",
+    "react-addons-css-transition-group",
+    "react-dom",
+    "react-measure",
+    // "react-native-web",
+    "react-redux",
+    "react-router",
+    "redux",
+    "redux-actions",
+    "redux-saga",
+    "redux-simple-router",
+    "redux-thunk",
+    "reselect",
+    "uncontrollable"
   ],
+
+  //compiler_vendor: Object.keys(pkg.dependencies),
 
   // ----------------------------------
   // Test Configuration
@@ -83,11 +104,11 @@ config.globals = {
 // ------------------------------------
 // Validate Vendor Dependencies
 // ------------------------------------
-const pkg = require('../package.json')
+// const pkg = require('../package.json')
 
 config.compiler_vendor = config.compiler_vendor
   .filter(dep => {
-    if (pkg.dependencies[dep]) return true
+    if (pkg.dependencies[dep] || pkg.devDependencies[dep]) return true
 
     debug(
       `Package "${dep}" was not found as an npm dependency in package.json; ` +

@@ -1,0 +1,30 @@
+.Modal{
+	position:absolute;
+	z-index:900;
+	left:0;
+	top:0;
+	right:0;
+	bottom:0;
+	
+	background:rgba(0,0,0,0.3);
+	
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items:center;
+}
+.Modal-box{
+	width:500px;
+	max-height:80vh;
+	
+	display:flex;
+	flex-direction: column;
+}
+.Modal-header,
+.Modal-content,
+.Modal-footer{
+	background:#fff;
+}
+.Modal-content{
+	overflow-y:scroll;
+}

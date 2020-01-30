@@ -1,0 +1,355 @@
+:root
+{
+    --green-light: #90d986;
+    --green-mid: #6bc25f;
+    --green-dark: #3c9342;
+}
+.ListSelector
+{
+    display: flex;
+    flex-direction: column;
+
+    cursor: default;
+    user-select: none;
+
+    flex: 1;
+}
+.ListSelector-TabBar
+{
+    display: flex;
+
+    flex-wrap: none;
+}
+.ListSelector-TabBar-Tab
+{
+    display: flex;
+
+    margin: 0 5px 0 0;
+    padding: 6px 24px 11px 24px;
+
+    cursor: pointer;
+
+    border-top: 5px solid transparent;
+
+    align-items: center;
+}
+
+
+.ListSelector-TabBar-buttons
+{
+    display: flex;
+
+    padding-right: 5px;
+
+    justify-content: flex-end;
+    flex: 1 0 0;
+    align-self: stretch;
+}
+.ListSelector-TabBar-button
+{
+    display: flex;
+
+    padding: 0 14px;
+
+    cursor: pointer;
+    text-align: center;
+
+    align-items: center;
+}
+.ListSelector-TabBar-button:hover
+{
+    color: #5e5d55;
+    background: white;
+}
+
+
+
+.ListSelector-SearchPanel
+{
+    display: flex;
+    overflow: hidden;
+
+    height: 0;
+
+    transition: height .3s cubic-bezier(.68, -.55, .27, 1.55);
+}
+.ListSelector-SearchPanel--active
+{
+    height: 50px;
+}
+
+.ListSelector-SearchPanel-input
+{
+    font-size: 22px;
+    font-weight: 700;
+
+    margin: 5px 10px;
+    padding: 10px 10px;
+
+    color: #5e5d55;
+    border: none;
+    border-radius: 5px;
+    background-color: #fff;
+
+    flex: 1;
+}
+.ListSelector-SearchPanel-input:focus
+{
+    outline: none;
+}
+
+
+.ListSelector-Sheets
+{
+    position: relative;
+
+    overflow: hidden;
+
+    width: 100%;
+    height: 100%;
+
+    flex: 1;
+}
+.ListSelector-Sheet
+{
+    position: absolute;
+
+    overflow-x: hidden;
+    overflow-y: scroll;
+
+    width: 100%;
+    height: 100%;
+
+    transition: transform .3s cubic-bezier(.7,0,.3,1);
+    transform: translate(100%, 0);
+}
+
+.ListSelector-Sheet-emptyMessage
+{
+    position: absolute;
+    top: 40%;
+
+    width: 100%;
+
+    text-align: center;
+}
+.ListSelector-Sheet--active
+{
+    transform: translate(0,0);
+}
+
+
+.ListSelector-ListItem
+{
+    margin: 5px 0;
+    padding: 10px 20px;
+
+    cursor: pointer;
+    transition: background .5s, color .5s;
+}
+
+.ListSelector-ListItem-label
+{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+
+.ListSelector-ListItem-label-twoLiner-primary
+{
+    font-size: 20px;
+    font-weight: 700;
+}
+.ListSelector-ListItem-label-twoLiner-secondary
+{
+    font-size: 16px;
+    font-weight: 300;
+}
+
+
+
+@keyframes ListSelector-listItem--onClick
+{
+    0%
+    {
+        background-color: inherit;
+    }
+    50%
+    {
+        background-color: white;
+    }
+    100%
+    {
+        background-color: inherit;
+    }
+}
+
+.ListSelector-listItem--onClick
+{
+    animation: ListSelector-listItem--onClick .5s;
+}
+
+
+
+/* Green theme! */
+.ListSelector--green
+{
+    color: #fff;
+    background: #78c76d;
+}
+.ListSelector--green .ListSelector-TabBar
+{
+    background-color: var(--green-mid);
+    background-color: #52ad59;
+}
+.ListSelector--green .ListSelector-TabBar-Tab--active
+{
+    font-weight: 900;
+
+    color: #fff;
+    border-top: 5px solid #44b9f0;
+    background-color: #78c76d;
+}
+
+.ListSelector--green .ListSelector-ListItem
+{
+    color: #fff;
+    border-top: 5px solid transparent;
+}
+.ListSelector--green .ListSelector-ListItem--selected
+{
+    color: #fff;
+    background-color: #44B9F0;
+}
+
+
+
+/* White theme! */
+.ListSelector--white
+{
+    color: #818076;
+    background-color: transparent;
+}
+.ListSelector--white .ListSelector-TabBar
+{
+    font-weight: 700;
+
+    color: #fff;
+    background-color: transparent;
+}
+.ListSelector--white .ListSelector-TabBar-Tab--active
+{
+    color: #f06f68;
+    background-color: #fff;
+}
+.ListSelector--white .ListSelector-TabBar-Tab--empty
+{
+    opacity: .5;
+}
+.ListSelector--white .ListSelector-SearchPanel
+{
+    background-color: #f9e499;
+}
+.ListSelector--white .ListSelector-Sheets
+{
+    background: #fff;
+}
+
+.ListSelector--white .ListSelector-ListItem
+{
+    color: #818076;
+}
+.ListSelector--white .ListSelector-ListItem--isSelected
+{
+    color: #f06f68;
+    background-color: #fff;
+}
+
+
+
+/* Cream theme! */
+.ListSelector--cream
+{
+    color: #5e5d55;
+    background-color: #f3f1df;
+}
+.ListSelector--cream .ListSelector-TabBar
+{
+    font-weight: 700;
+
+    color: #818076;
+    background-color: #e1dec5;
+}
+.ListSelector--cream .ListSelector-TabBar-Tab--active
+{
+    color: #45443a;
+    border-top-color: #44b9f0;
+    background-color: #f3f1df;
+}
+.ListSelector--cream .ListSelector-TabBar-Tab--empty
+{
+    opacity: .5;
+}
+.ListSelector--cream .ListSelector-TabBar-button:hover
+{
+    color: #44b9f0;
+}
+.ListSelector--cream .ListSelector-TabBar-button--active,
+.ListSelector--cream .ListSelector-TabBar-button--active:hover
+{
+    color: #fff;
+    background: #44b9f0;
+}
+
+.ListSelector--cream .ListSelector-SearchPanel
+{
+    background-color: #44b9f0;
+}
+.ListSelector--cream .ListSelector-Sheets
+{
+    background: #f3f1df;
+}
+
+.ListSelector--cream .ListSelector-ListItem
+{
+    color: #5e5d55;
+}
+.ListSelector--cream .ListSelector-ListItem--isSelected
+{
+    color: #fff;
+    background-color: #44b9f0;
+}
+
+
+
+/**
+ * Selectors for React Transition Groups
+ */
+
+.ListSelector-transitions-itemSlideDown-enter
+{
+    transition: opacity .3s cubic-bezier(.7,0,.3,1), transform .3s cubic-bezier(.7,0,.3,1);
+    transform: translate(0, -30px);
+
+    opacity: 0;
+}
+.ListSelector-transitions-itemSlideDown-enter.ListSelector-transitions-itemSlideDown-enter-active
+{
+    transform: translate(0, 0);
+
+    opacity: 1;
+}
+.ListSelector-transitions-itemSlideDown-leave
+{
+    transition: opacity .3s cubic-bezier(.7,0,.3,1), transform .3s cubic-bezier(.7,0,.3,1);
+    transform: translate(0, 0);
+
+    opacity: 1;
+}
+.ListSelector-transitions-itemSlideDown-leave.ListSelector-transitions-itemSlideDown-leave-active
+{
+    transform: translate(0, 30px);
+
+    opacity: 0;
+}

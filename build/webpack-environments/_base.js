@@ -8,14 +8,20 @@ const paths = config.utils_paths
 const debug = _debug('app:webpack:_base')
 debug('Create configuration.')
 
-const CSS_LOADER = !config.compiler_css_modules
-  ? 'css?sourceMap'
-  : [
-    'css?modules',
-    'sourceMap',
-    'importLoaders=1',
-    'localIdentName=[name]__[local]___[hash:base64:5]'
-  ].join('&')
+var DashboardPlugin = require('webpack-dashboard/plugin')
+
+// const CSS_LOADER = !config.compiler_css_modules
+//   ? 'css?sourceMap'
+//   : [
+//     'css?modules',
+//     'sourceMap',
+//     'importLoaders=1',
+//     'localIdentName=[name]__[local]___[hash:base64:5]'
+//   ].join('&')
+
+const CSS_LOADER = 'css?sourceMap'
+
+const excludes = [/node_modules/, '/Volumes/Files/Code/GitHub']
 
 const webpackConfig = {
   name: 'client',
@@ -33,18 +39,29 @@ const webpackConfig = {
   },
   plugins: [
     new webpack.DefinePlugin(config.globals),
-    new webpack.optimize.OccurrenceOrderPlugin(),
+    new webpack.optimize.OccurrenceOrderPlugin(true),
     new webpack.optimize.DedupePlugin(),
     new HtmlWebpackPlugin({
+      title: 'Hortomatic is loading...',
       template: paths.client('index.html'),
-      hash: false,
-      favicon: paths.client('static/favicon.ico'),
+      // hash: false,
+      // favicon: paths.client('static/favicon.ico'),
       filename: 'index.html',
+      // chunks: ['entry'],
       inject: 'body',
       minify: {
-        collapseWhitespace: true
-      }
-    })
+        collapseWhitespace: false
+      },
+      __KARMA_IGNORE__: true
+    }),
+    new HtmlWebpackPlugin({
+      title: 'Redirecting...',
+      filename: '200.html',
+      template: paths.client('200.html'),
+      __KARMA_IGNORE__: true
+    }),
+    new webpack.optimize.CommonsChunkPlugin("common.js"),
+    new DashboardPlugin()
   ],
   resolve: {
     root: paths.base(config.dir_client),
@@ -55,17 +72,20 @@ const webpackConfig = {
       {
         test: /\.js$/,
         loader: 'eslint',
-        exclude: /node_modules/
+        exclude: excludes
       }
     ],
     loaders: [
       {
         test: /\.(js|jsx)$/,
-        exclude: /node_modules/,
+        exclude: excludes,
         loader: 'babel',
         query: {
           cacheDirectory: true,
-          plugins: ['transform-runtime', 'add-module-exports'],
+          plugins: [
+            'add-module-exports',
+            'transform-runtime'
+          ],
           presets: ['es2015', 'react', 'stage-0'],
           env: {
             development: {
@@ -96,6 +116,15 @@ const webpackConfig = {
         ]
       },
       {
+        test: /\.less$/,
+        loaders: [
+          'style',
+          CSS_LOADER,
+          'postcss',
+          'less'
+        ]
+      },
+      {
         test: /\.css$/,
         loaders: [
           'style',
@@ -108,8 +137,8 @@ const webpackConfig = {
       { test: /\.woff2(\?.*)?$/, loader: 'url?prefix=fonts/&name=[path][name].[ext]&limit=10000&mimetype=application/font-woff2' },
       { test: /\.ttf(\?.*)?$/,   loader: 'url?prefix=fonts/&name=[path][name].[ext]&limit=10000&mimetype=application/octet-stream' },
       { test: /\.eot(\?.*)?$/,   loader: 'file?prefix=fonts/&name=[path][name].[ext]' },
-      { test: /\.svg(\?.*)?$/,   loader: 'url?prefix=fonts/&name=[path][name].[ext]&limit=10000&mimetype=image/svg+xml' },
-      { test: /\.(png|jpg)$/,    loader: 'url?limit=8192' }
+      { test: /\.svg(\?.*)?$/,   loader: 'file?prefix=svg/&name=[path][name].[ext]' },
+      { test: /\.(png|jpg|gif)$/,    loader: 'url?limit=8192' }
       /* eslint-enable */
     ]
   },
@@ -133,15 +162,5 @@ const webpackConfig = {
     configFile: paths.base('.eslintrc')
   }
 }
-
-// NOTE: this is a temporary workaround. I don't know how to get Karma
-// to include the vendor bundle that webpack creates, so to get around that
-// we remove the bundle splitting when webpack is used with Karma.
-const commonChunkPlugin = new webpack.optimize.CommonsChunkPlugin({
-  names: ['vendor']
-})
-commonChunkPlugin.__KARMA_IGNORE__ = true
-
-webpackConfig.plugins.push(commonChunkPlugin)
 
 export default webpackConfig

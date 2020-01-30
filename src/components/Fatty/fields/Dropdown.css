@@ -1,0 +1,321 @@
+.Fatty-Field-Dropdown.Fatty-Field--focused
+{
+    z-index: 20;
+}
+.Fatty-Field-Dropdown .rw-widget.rw-multiselect
+{
+    font-family: 'Museo Sans';
+    font-size: 20px;
+    font-weight: 700;
+
+    z-index: 10;
+
+    border: none;
+    background: transparent;
+    box-shadow: none;
+
+    transition: all .2s ease-in-out;
+}
+.Fatty-Field--withLabel.Fatty-Field-Dropdown.Fatty-Field--focused .rw-widget.rw-multiselect,
+.Fatty-Field--withLabel.Fatty-Field-Dropdown.Fatty-Field--filled .rw-widget.rw-multiselect
+{
+    padding-top: 40px;
+}
+.Fatty-Field-Dropdown .rw-widget.rw-multiselect .rw-input
+{
+    z-index: 9;
+
+    padding: 14px 12px;
+
+    color: #5e5d55;
+    background-color: transparent;
+
+    border:0;
+    -webkit-appearance: none; /* for box shadows to show on iOS */
+}
+.Fatty-Field--filled.Fatty-Field-Dropdown .rw-widget.rw-multiselect .rw-input
+{
+    /*visibility: hidden;*/
+}
+/* Add a chevron button on the right */
+.Fatty-Field-Dropdown .rw-multiselect-wrapper:before
+{
+    content: none;
+}
+.Fatty-Field-Dropdown .rw-multiselect-wrapper:after
+{
+    font-family: FontAwesome;
+    font-size: 16px;
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+
+    display: flex;
+
+    width: 40px;
+
+    content: '\f078';/*chevron down*/
+    cursor: pointer;
+    transition: color .2s ease-in-out, transform .2s cubic-bezier(.68, -.55, .27, 1.55);
+
+    color: #5e5d55;
+
+    align-items: center;
+    justify-content: center;
+}
+.Fatty-Field-Dropdown:hover .rw-multiselect-wrapper:after,
+.Fatty-Field-Dropdown .rw-multiselect-wrapper:hover:after
+{
+    color: #44b9f0;
+}
+.Fatty-Field-Dropdown.Fatty-Field--focused .rw-multiselect-wrapper:after
+{
+    transform: rotate(180deg);
+    transform-origin: 50% 53%;
+
+    color: #fff;
+}
+/* Move the hint over to make room for the chevron*/
+.Fatty-Field-Dropdown .Fatty-Field-hint
+{
+    right: 30px;
+}
+
+
+/* Hide the default X icon and append a fontawesome X icon in it's place */
+.Fatty-Field-Dropdown .rw-multiselect-taglist > li .rw-btn
+{
+    display: flex;
+
+    width: 30px;
+    height: 100%;
+
+    align-items: center;
+    justify-content: center;
+
+    border:none;
+    background:transparent;
+    outline:none;
+
+    -webkit-appearance: none;
+}
+/*Hide all span elements in the remove button (label and x character) */
+.Fatty-Field-Dropdown .rw-multiselect-taglist > li .rw-btn span
+{
+    display: none;
+}
+.Fatty-Field-Dropdown .rw-multiselect-taglist > li .rw-btn:after
+{
+    font-family: FontAwesome;
+    font-size: 16px;
+
+    display: block;
+
+    content: '\f00d';
+    transition: color .2s ease-in-out;
+}
+.Fatty-Field-Dropdown .rw-multiselect-taglist > li .rw-btn
+{
+    color: #5e5d55;
+}
+.Fatty-Field-Dropdown:hover .rw-multiselect-taglist > li .rw-btn,
+.Fatty-Field-Dropdown .rw-multiselect-taglist > li .rw-btn:hover
+{
+    /*color: #44B9F0;*/
+}
+.Fatty-Field-Dropdown.Fatty-Field--focused .rw-multiselect-taglist > li .rw-btn
+{
+    color: #fff;
+}
+
+
+
+
+.Fatty-Field-Dropdown.Fatty-Field-Dropdown--single .rw-widget.rw-multiselect .rw-input
+{
+    float: none;
+    width:100%;
+}
+.Fatty-Field-Dropdown .rw-widget.rw-multiselect .rw-input:focus
+{
+    outline: none;
+}
+.Fatty-Field-Dropdown.Fatty-Field--focused .rw-widget.rw-multiselect .rw-input
+{
+    color: #fff;
+}
+
+/* Styles for popup list */
+.Fatty-Field-Dropdown .rw-popup{
+    left:0;
+    right:0;
+    box-shadow: none;
+}
+
+.Fatty-Field-Dropdown .rw-popup.rw-widget
+{
+    padding: 0;
+
+    color: #fff;
+    border: none;
+    background-color: #44b9f0;
+    box-shadow: none;
+}
+.Fatty-Field-Dropdown .rw-popup-container
+{
+    margin-top: 0;
+    left:0;
+    right:0;
+    opacity: .9;
+}
+
+
+
+
+.Fatty-Field-Dropdown.Fatty-Field-Dropdown--single ul.rw-list > li.rw-list-option
+{
+    font-size: 18px;
+
+    padding: .3em .8em;
+
+    transition: padding .2s ease-in-out;
+
+    color: #fff;
+    border: none;
+    border-radius: none;
+}
+.Fatty-Field-Dropdown.Fatty-Field-Dropdown--single ul.rw-list > li.rw-list-option:hover,
+.Fatty-Field-Dropdown.Fatty-Field-Dropdown--single ul.rw-list > li.rw-list-option.rw-state-focus
+{
+    padding-left: 1.2em;
+
+    color: #fff;
+    background-color: #6ec8f3;
+}
+
+.Fatty-Field-Dropdown.Fatty-Field-Dropdown--single .rw-multiselect-taglist > li
+{
+    line-height: 1.4em;
+
+    position: absolute;
+    top: 0;
+    right: 40px;
+    bottom: 0;
+    left: 0;
+
+    display: flex;
+
+    margin: 0;
+    padding: .35em 0 .35em .55em;
+
+    cursor: pointer;
+    transition: color .2s ease-in-out;
+    text-align: left;
+
+    color: #5e5d55;
+    border: none;
+    border-radius: 0;
+    background-color: transparent;
+
+    align-items: center;
+    justify-content: space-between;
+}
+.Fatty-Field-Dropdown.Fatty-Field-Dropdown--single:hover .rw-multiselect-taglist > li
+{
+    color: #44b9f0;
+}
+.Fatty-Field-Dropdown.Fatty-Field-Dropdown--single.Fatty-Field--focused .rw-multiselect-taglist > li,
+.Fatty-Field-Dropdown.Fatty-Field-Dropdown--single.Fatty-Field--focused  .rw-multiselect-taglist > li .rw-btn
+{
+    color: #fff;
+}
+
+
+
+
+
+.Fatty-Field-Dropdown.Fatty-Field-Dropdown--multiple .rw-widget.rw-multiselect .rw-input
+{
+    z-index: 9;
+
+    float: none;
+
+    visibility: visible;
+
+    padding: 14px 12px;
+
+    color: #45443a;
+    background-color: transparent;
+
+    -webkit-appearance: none; /* for box shadows to show on iOS */
+}
+
+.Fatty-Field-Dropdown.Fatty-Field-Dropdown--multiple ul.rw-list > li.rw-list-option
+{
+    font-size: 18px;
+
+    padding: .3em .8em;
+
+    transition: padding .2s ease-in-out;
+
+    color: #fff;
+    border: none;
+    border-radius: none;
+}
+.Fatty-Field-Dropdown.Fatty-Field-Dropdown--multiple ul.rw-list > li.rw-list-option:hover,
+.Fatty-Field-Dropdown.Fatty-Field-Dropdown--multiple ul.rw-list > li.rw-list-option.rw-state-focus
+{
+    padding-left: 1.2em;
+
+    color: #fff;
+    background-color: #6ec8f3;
+}
+
+.Fatty-Field-Dropdown.Fatty-Field-Dropdown--multiple .rw-multiselect-taglist > li
+{
+    font-size: 18px;
+    line-height: 1.4em;
+
+    display: flex;
+
+    margin: .3em 0 .3em .2em;
+    padding: .2em 0 .2em .55em;
+
+    cursor: pointer;
+    transition: color .2s ease-in-out;
+    transition: all .3s ease-in-out;
+    text-align: left;
+
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    background-color: #818076;
+
+    align-items: center;
+    justify-content: space-between;
+}
+.Fatty-Field-Dropdown.Fatty-Field-Dropdown--multiple:hover .rw-multiselect-taglist > li
+{
+    /*background: #44B9F0;
+    color:#fff;*/
+}
+.Fatty-Field-Dropdown.Fatty-Field-Dropdown--multiple .rw-multiselect-taglist > li > span
+{
+    margin-top: 2px;
+}
+
+.Fatty-Field-Dropdown.Fatty-Field-Dropdown--multiple.Fatty-Field--focused .rw-multiselect-taglist > li,
+.Fatty-Field-Dropdown.Fatty-Field-Dropdown--multiple.Fatty-Field--focused  .rw-multiselect-taglist > li .rw-btn
+{
+    color: #44b9f0;
+}
+.Fatty-Field-Dropdown.Fatty-Field-Dropdown--multiple.Fatty-Field--focused .rw-multiselect-taglist > li
+{
+    background: #fff;
+}
+.Fatty-Field-Dropdown.Fatty-Field-Dropdown--multiple.Fatty-Field--focused  .rw-multiselect-taglist > li .rw-btn
+{
+    opacity: .5;
+}

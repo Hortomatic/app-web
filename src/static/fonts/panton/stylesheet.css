@@ -1,0 +1,61 @@
+@font-face {
+    font-family: 'Panton';
+    src: url('panton-regular-webfont.eot');
+    src: url('panton-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('panton-regular-webfont.woff2') format('woff2'),
+         url('panton-regular-webfont.woff') format('woff'),
+         url('panton-regular-webfont.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Panton';
+    src: url('panton-regularitalic-webfont.eot');
+    src: url('panton-regularitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('panton-regularitalic-webfont.woff2') format('woff2'),
+         url('panton-regularitalic-webfont.woff') format('woff'),
+         url('panton-regularitalic-webfont.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Panton';
+    src: url('panton-bold-webfont.eot');
+    src: url('panton-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('panton-bold-webfont.woff2') format('woff2'),
+         url('panton-bold-webfont.woff') format('woff'),
+         url('panton-bold-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Panton';
+    src: url('panton-bolditalic-webfont.eot');
+    src: url('panton-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('panton-bolditalic-webfont.woff2') format('woff2'),
+         url('panton-bolditalic-webfont.woff') format('woff'),
+         url('panton-bolditalic-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Panton';
+    src: url('panton-black-webfont.eot');
+    src: url('panton-black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('panton-black-webfont.woff2') format('woff2'),
+         url('panton-black-webfont.woff') format('woff'),
+         url('panton-black-webfont.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Panton';
+    src: url('panton-blackitalic-webfont.eot');
+    src: url('panton-blackitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('panton-blackitalic-webfont.woff2') format('woff2'),
+         url('panton-blackitalic-webfont.woff') format('woff'),
+         url('panton-blackitalic-webfont.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}

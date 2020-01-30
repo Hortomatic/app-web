@@ -1,0 +1,79 @@
+.Home
+{
+    display: flex;
+
+    background-color: #f8d454;
+
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
+.Home-header
+{
+    text-align: center;
+}
+.Home-Gnome
+{
+    height: 310px;
+}
+
+.Home-Bubble
+{
+    position: relative;
+
+    width: 600px;
+    margin-left: 40px;
+
+    border-radius: 20px;
+    background-color: #fff;
+}
+.Home-Bubble:after
+{
+    position: absolute;
+    top: 50%;
+    left: -10px;
+
+    display: block;
+
+    width: 20px;
+    height: 20px;
+    margin-top: -10px;
+
+    content: '';
+    transform: rotate(45deg);
+
+    background-color: #fff;
+}
+.Home-Bubble h1
+{
+    font-size: 42px;
+    font-weight: 900;
+
+    color: #f06f68;
+}
+.Home-bubble p.primary
+{
+    font-size: 22px;
+    font-weight: 900;
+
+    color: #f06f68;
+}
+.Home-bubble p
+{
+    font-size: 20px;
+    font-weight: 300;
+
+    color: #818076;
+}
+.Home-bubble p a
+{
+    font-weight: 700;
+
+    color: #f06f68;
+}
+.Home-Bubble-content
+{
+    padding: 30px;
+
+    text-align: center;
+}
